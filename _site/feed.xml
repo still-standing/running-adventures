@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>The Running Adventures of the Still Standing Muffin Man</title>
+		<description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Wimbledon aka Bergamotte should be blamed. </title>
+				<link>http://localhost:4000/races/Wimbledon-post/</link>
+				<pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+				<description>&lt;h2 id=&quot;the-race-mood&quot;&gt;The race mood&lt;/h2&gt;
+
+&lt;p&gt;I got in the &lt;strong&gt;race mood&lt;/strong&gt; even before arriving to the starting line of the race. My mood actually started 
+to change when, along the trip to Wimbledon, I clearly recognized other runners, listening to music, reading a book, chatting with 
+someone else. How did I do to recognize them? It was actually easy, they were all tensed, focused, and it was
+ clearly way to early to be in running clothes on Sunday morning! And then… Well, I was already up and dressed in running clothes 
+ so I just needed to be tensed and focused too, to fit the crowd. Not easy to do, trust me.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-goal-race-time&quot;&gt;The goal race time&lt;/h2&gt;
+
+&lt;p&gt;Once in the &lt;strong&gt;race mood&lt;/strong&gt;, the only think I was able to think was my goal time. I wanted to do less than 1h50. 
+But &lt;strong&gt;Bergamotte&lt;/strong&gt; spent days to convince me that I should run my first half marathon below 1h45.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bergamotte&lt;/strong&gt; was saying that is obvious:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Since I was running at least a half-marathon every Sunday in less than 2h, it would be &lt;strong&gt;easy&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Since I managed to run a half-marathon in 1h46 three weeks before this race, it would be &lt;strong&gt;easy peasy&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Since it is of common knowledge that one runs much faster during a race, it would be &lt;strong&gt;easy peasy lemon squeezy&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-race&quot;&gt;The race&lt;/h2&gt;
+
+&lt;p&gt;Okay Bergamotte! Let’s do it!!!&lt;/p&gt;
+
+&lt;p&gt;I started strong, a little bit too exited maybe. Following the crowd, I was able to get a 5k Personal Record (PR) and a 10k PR in the first half of the race.
+The problem was that I needed to continue for the other half… 
+By keeping this pace I would have finished around 1h42!!! But I did not… And I also stopped to follow the crowd… 
+This is where I started to feel panic shortly followed by a clear lack of coordination.&lt;/p&gt;
+
+&lt;p&gt;Few comments:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A 5k PR and a 10k PR in a 21km race does not seem right.&lt;/li&gt;
+  &lt;li&gt;I hear from time to time that the first 2/3 of the race should be run with your legs and the last third with your heart. Few notes about that:
+    &lt;ul&gt;
+      &lt;li&gt;It clearly does not work for the last 10k of a half marathon.&lt;/li&gt;
+      &lt;li&gt;The heart is indeed not enough to “run” about 10k on its own.&lt;/li&gt;
+      &lt;li&gt;It actually only works for 5k races (I checked).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/races/Wimbledon-post/</guid>
+			</item>
+		
+			<item>
+				<title>Title Explanation a.k.a. clarity is better than confusion</title>
+				<link>http://localhost:4000/story/title-explanation-post/</link>
+				<pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;To do so, you will just have to watch these three little videos…&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+
+
+&lt;iframe width=&quot;330&quot; height=&quot;330&quot; src=&quot;https://www.youtube.com/embed/IFeUIJMwG4A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+
+&lt;iframe width=&quot;330&quot; height=&quot;330&quot; src=&quot;https://www.youtube.com/embed/NgzRea-9TuI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+ 
+&lt;iframe width=&quot;330&quot; height=&quot;330&quot; src=&quot;https://www.youtube.com/embed/3taMwAEGBVc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;… and smash them all together!&lt;/p&gt;
+
+&lt;p&gt;If you smash them in this very specific order, everything will be by now completely clear (of course, figuratively speaking).&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/story/title-explanation-post/</guid>
+			</item>
+		
+			<item>
+				<title>Before The Start a.k.a. The Bear Beginning</title>
+				<link>http://localhost:4000/story/before-the-start-post/</link>
+				<pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;My first months of running could actually be resumed by a simple analogy: It is like &lt;strong&gt;making love to a bear&lt;/strong&gt;… (of course, figuratively speaking).&lt;/p&gt;
+
+&lt;p&gt;Figuratively speaking, yes. But the side effects look pretty similar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DIZZINESS, it is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is obviously dizziness.
+    &lt;ul&gt;
+      &lt;li&gt;Quite similarly, if you do not breath enough while running… You will get really dizzy! Not a pleasant sensation…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;DEHYDRATION, it is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is obviously dehydration. Just think about it for a second…
+    &lt;ul&gt;
+      &lt;li&gt;Quite similarly, if you do not drink enough before the run, during the run, or after the run… You will get really dehydrated! Not a pleasant sensation…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;PAIN LOCALIZED IN THE LOWER BODY PARTS, it is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is obviously pain localized in the lower body parts.
+    &lt;ul&gt;
+      &lt;li&gt;Quite similarly, while starting running, you will stimulate in a not so gentle way muscles, tendons, and ligaments localized in the lower part of your body… And they will let you know that they do not like it at all! Not a pleasant sensation…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SCARS, it is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is obviously getting scars.
+    &lt;ul&gt;
+      &lt;li&gt;Quite similarly, if you do not lift your feet high enough you will trip, fall down, and smash the ground! Not a pleasant sensation…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I know that you all now expect from me to describe the good parts of &lt;strong&gt;making love to a bear&lt;/strong&gt;… Unfortunately, it is time to stop the analogy. For obvious reasons…&lt;/p&gt;
+
+&lt;p&gt;Running was just fun enough to continue to do it ;-)&lt;/p&gt;
+
+&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I actually heard the &lt;strong&gt;bear expression&lt;/strong&gt; quite recently in a business related discussion… Maybe you wonder now what type of job I am doing… Good question!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This post will now be referred to as the &lt;strong&gt;bear beginning&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/story/before-the-start-post/</guid>
+			</item>
+		
+			<item>
+				<title>The Start a.k.a. The Killer BaBa night</title>
+				<link>http://localhost:4000/story/the-start-post/</link>
+				<pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+				<description>&lt;h2 id=&quot;the-scene&quot;&gt;The scene&lt;/h2&gt;
+
+&lt;p&gt;The moment everything started was a dinner on the terrace of a restaurant in the Vieux Nice. With few good friends, a lot of good food, a lot of good wine, and a lot of bad cigarettes (but please, do not drink nor smoke!).&lt;/p&gt;
+
+&lt;p&gt;We were finishing our glasses of wine while waiting for the dessert. The dessert will reveal to be a huge &lt;a href=&quot;https://en.wikipedia.org/wiki/Rum_baba&quot;&gt;rum baba&lt;/a&gt;, with more rum than baba, and which will kill us all later (of course, figuratively speaking).&lt;/p&gt;
+
+&lt;h2 id=&quot;an-innocent-phrase&quot;&gt;An innocent phrase&lt;/h2&gt;
+
+&lt;p&gt;Waiting for the soon to be killer Baba, I told the table:&lt;/p&gt;
+
+&lt;p&gt;“By the way guys, ‘&lt;strong&gt;Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse&lt;/strong&gt;’ and I started to run a bit…”.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-trap&quot;&gt;The trap&lt;/h2&gt;
+
+&lt;p&gt;‘&lt;strong&gt;Tabatha&lt;/strong&gt;’ immediately jumped on me (of course, figuratively speaking):&lt;/p&gt;
+
+&lt;p&gt;- “Next May there is the half-marathon of Nice! I will register! You want to register? Better if I register you! Wait we cannot register now… But as soon that we can register, we register! Deal?”&lt;/p&gt;
+
+&lt;p&gt;Rare are the moments where I do not want to speak, this moment was one of those… Having nothing to say, I decided to light a cigarette and wait for the storm to pass… But it did not.&lt;/p&gt;
+
+&lt;p&gt;Between my first and second drag I discovered that:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bergamot_orange&quot;&gt;Bergamotte&lt;/a&gt;&lt;/strong&gt;’ already run the half of Nice under 1h45!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Chamomile&quot;&gt;Camomille&lt;/a&gt;&lt;/strong&gt;’ already run three marathons and will run the Toulouse marathon in a couple of months!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Tabatha_Cash&quot;&gt;Tabatha&lt;/a&gt;&lt;/strong&gt;’ run few marathons every year “for fun”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Aurelia_Cotta&quot;&gt;Aurelia&lt;/a&gt;&lt;/strong&gt;’ is running the marathon under 3h, easy!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-baba&quot;&gt;The BaBa&lt;/h2&gt;
+
+&lt;p&gt;OK guys, few comments:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;First, we all need to calm down.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Second, we should clearly speak a little bit more because I had no clue you were doing all that shit…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Third, okay guys… Challenge accepted!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With so much peer pressure, I just had no escape…&lt;/p&gt;
+
+&lt;p&gt;After that, the killer Baba arrived, and the rest is just fun blurry history.&lt;/p&gt;
+
+&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To respect the privacy and integrity of the people involved in those running adventures, aliases will be used.
+    &lt;ul&gt;
+      &lt;li&gt;Since we are now in a Post Gender Theory area, the biological gender cannot be deduced from the alias.&lt;/li&gt;
+      &lt;li&gt;The aliases are somehow chosen completely at random… Or are they?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;To shorten the alias ‘&lt;strong&gt;Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse&lt;/strong&gt;’, the alias will be replaced by ‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/John_Rambo&quot;&gt;Rambo Chérie&lt;/a&gt;&lt;/strong&gt;’.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/story/the-start-post/</guid>
+			</item>
+		
+	</channel>
+</rss>
