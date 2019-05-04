@@ -27,15 +27,8 @@ Having a correct running form is not easy, all the body should actually be engag
 
 * arm movement to avoid body rotation
 * number of strike per minute to be around 180
-*   
-
-{% include title-explaination.html %}
 
 
 ... and smash them all together!
 
 If you smash them in this very specific order, everything will be by now completely clear (of course, figuratively speaking).
-
-### Comments
-
-If the second video is unavailable please visit [youtube link](https://www.youtube.com/watch?v=NgzRea-9TuI).
