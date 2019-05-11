@@ -2,6 +2,25 @@
   url: "/"
   side: left
 
+ - title: "Home"
+   url: "/"
+   side: left
+
+ - title: "Blog"
+   url: "/blog/"
+   side: left
+   dropdown:
+   - title: "Blog Archive"
+     url: "/blog/archive/"
+
+ - title: "Races"
+   url: "/races/"
+   side: left
+
+ - title: "Story Behind The Scene"
+   url: "/story/"
+   side: left
+
 - title: Getting Started
   url: "/getting-started/"
   side: left
