@@ -6,23 +6,28 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: images/header_unsplash_12.jpg
+  image_fullwidth: images/header1.jpg
 widget1:
-  title: "Training Logs"
+  title: "The running"
   url: '/blog/'
-  image: images/header_unsplash_12.jpg
-  text: 'Training Log analysis'
+  image: images/wolf.png
+  text: 'This section is all about a journey in the long distance running world.'
 widget2:
-  title: "Races"
-  image: images/header_unsplash_12.jpg
-  url: '/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  title: "The standing"
+  image: images/turtle.png
+  url: '/races/'
+  text: 'Running for fun is pretty cool but it can be made even more interesting.
+  Training for a race, 
+  standing in front of the starting line waiting for the race to start, 
+  run like crazy, and crossing the finish line, is even better.  
+  This section is all about the races of the muffin.'
 widget3:
-  title: "Story Behind the Scene"
-  url: '/blog/'
-  image: images/header_unsplash_12.jpg
-  text: '<em>
-  Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  title: "And the muffin"
+  url: '/story/'
+  image: images/feast.jpg
+  text: 'How to make it even more interesting? 
+  Being surrounded by a band of good friends! Or better said, a real dream team!
+  This section is all about the unfiltered story behind the scene of the dream team and the muffin.'
 #
 # Use the call for action to show a button on the frontpage
 #

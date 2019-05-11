@@ -1,5 +1,5 @@
 ---
-layout: "default"
+layout: page-fullwidth
 title: "Newton versus Bergamotte"
 ---
 **Bergamotte** was all excited to tell to the gang that after few weeks of rest he was able to run a small 7k at an easy pace!
@@ -27,12 +27,8 @@ Having a correct running form is not easy, all the body should actually be engag
 
 * arm movement to avoid body rotation
 * number of strike per minute to be around 180
-*   
-
-{% include title-explaination.html %}
 
 
 ... and smash them all together!
 
 If you smash them in this very specific order, everything will be by now completely clear (of course, figuratively speaking).
-

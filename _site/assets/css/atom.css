@@ -108,7 +108,7 @@ meta.foundation-data-attribute-namespace {
 
 feed > title {
   text-align: center;
-  color: #f3c7ae;
+  color: #6590aa;
   font-family: "Volkhov", Georgia, Times, serif;
   font-size: 3.6615em;
   font-weight: bolder; }
@@ -138,13 +138,13 @@ entry {
   entry:last-child {
     border-bottom: none; }
   entry > title {
-    color: #DF4949;
+    color: #A1D044;
     font-family: "Volkhov", Georgia, Times, serif;
     font-size: 2.441em;
     margin-bottom: 0.5em; }
   entry > link::after {
     content: attr(href);
-    color: #E27A3F; }
+    color: #334D5C; }
   entry > updated {
     color: #A4A4A4;
     font-size: small; }

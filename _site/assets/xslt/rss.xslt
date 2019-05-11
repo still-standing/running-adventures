@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/the-running-adventures-of-the-muffin-man//assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/the-running-adventures-of-the-muffin-man//assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	
 	
 	
-	<link rel="canonical" href="http://localhost:4000/assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000/the-running-adventures-of-the-muffin-man//assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.">
-	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000/the-running-adventures-of-the-muffin-man//assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="The Running Adventures of the Still Standing Muffin Man">
@@ -54,7 +54,7 @@
 
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/the-running-adventures-of-the-muffin-man//humans.txt">
 
 	
 
@@ -96,7 +96,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> The Running Adventures of the Still Standing Muffin Man</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/the-running-adventures-of-the-muffin-man/" class="icon-tree"> The Running Adventures of the Still Standing Muffin Man</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -104,6 +104,12 @@
     <section class="top-bar-section">
 
       <ul class="right">
+        
+
+              
+
+          
+          
         
 
               
@@ -136,16 +142,31 @@
 
             
             
+              <li><a  href="http://localhost:4000/the-running-adventures-of-the-muffin-man//">Home</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/blog/">the RUNNING</a>
+                <a  href="http://localhost:4000/the-running-adventures-of-the-muffin-man//blog/">Blog</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
+                      <li><a  href="http://localhost:4000/the-running-adventures-of-the-muffin-man//blog/archive/">Blog Archive</a></li>
                     
                   </ul>
 
@@ -162,7 +183,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/races/">the STANDING</a></li>
+              <li><a  href="http://localhost:4000/the-running-adventures-of-the-muffin-man//races/">Races</a></li>
               <li class="divider"></li>
 
             
@@ -177,7 +198,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/story/">and the MUFFIN</a></li>
+              <li><a  href="http://localhost:4000/the-running-adventures-of-the-muffin-man//story/">Story Behind The Scene</a></li>
               <li class="divider"></li>
 
             
@@ -195,8 +216,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="The Running Adventures of the Still Standing Muffin Man – ">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="The Running Adventures of the Still Standing Muffin Man – ">
+			<a id="logo" href="http://localhost:4000/the-running-adventures-of-the-muffin-man/" title="The Running Adventures of the Still Standing Muffin Man – ">
+				<img src="http://localhost:4000/the-running-adventures-of-the-muffin-man//assets/img/logo.png" alt="The Running Adventures of the Still Standing Muffin Man – ">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -274,7 +295,7 @@
 
             <p class="shadow-black">
               »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
-              <a href="http://localhost:4000/info/">More ›</a>
+              <a href="http://localhost:4000/the-running-adventures-of-the-muffin-man//info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -287,17 +308,38 @@
             
               
             
+              
+            
+              
+            
+              
+            
 
               <ul class="no-bullet shadow-black">
               
                 
                   <li >
-                    <a href="http://localhost:4000"  title=""></a>
+                    <a href="http://localhost:4000/the-running-adventures-of-the-muffin-man/"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/the-running-adventures-of-the-muffin-man//contact/"  title="Contact">Contact</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://localhost:4000/the-running-adventures-of-the-muffin-man//feed.xml"  title="Subscribe to RSS Feed">RSS</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://localhost:4000/the-running-adventures-of-the-muffin-man//atom.xml"  title="Subscribe to Atom Feed">Atom</a>
+                  </li>
+              
+                
+                  <li >
+                    <a href="http://localhost:4000/the-running-adventures-of-the-muffin-man//sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
                   </li>
               
               </ul>
@@ -321,7 +363,7 @@
             
               
                 <li >
-                  <a href="http://localhost:4000"  title=""></a>
+                  <a href="http://localhost:4000/the-running-adventures-of-the-muffin-man/"  title=""></a>
                 </li>
             
               
@@ -364,7 +406,7 @@
 		
 
 
-<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/the-running-adventures-of-the-muffin-man//assets/js/javascript.min.js"></script>
 
 
 

@@ -108,7 +108,7 @@ meta.foundation-data-attribute-namespace {
 
 channel > title {
   text-align: center;
-  color: #f3c7ae;
+  color: #6590aa;
   font-family: "Volkhov", Georgia, Times, serif;
   font-size: 3.6615em;
   font-weight: bolder; }
@@ -134,12 +134,12 @@ item {
   item:last-child {
     border-bottom: none; }
   item > title {
-    color: #DF4949;
+    color: #A1D044;
     font-family: "Volkhov", Georgia, Times, serif;
     font-size: 2.441em;
     margin-bottom: 0.5em; }
   item > link {
-    color: #E27A3F; }
+    color: #334D5C; }
   item > pubDate {
     color: #A4A4A4;
     font-size: small; }
