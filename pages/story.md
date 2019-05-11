@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Story Behind The Scene"
-subheadline: "Some fun with the dream team."
+subheadline: "Some fun with the dream team"
 permalink: "/story/"
 header:
     image_fullwidth: "../images/feast_large.png"

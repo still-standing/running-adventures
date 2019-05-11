@@ -134,38 +134,23 @@
 
           
           
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
-          
             
             
+
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/search/">Search</a></li>
+              <li class="has-dropdown">
+                <a  href="http://localhost:4000/blog/">Blog</a>
 
-            
-            
-          
-        
+                  <ul class="dropdown">
+                    
 
-              
+                      
 
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a  href="http://localhost:4000/contact/">Contact</a></li>
+                      <li><a  href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
+                    
+                  </ul>
 
-            
+              </li>
             
           
         
@@ -173,21 +158,6 @@
       </ul>
 
       <ul class="left">
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/">Start</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
         
 
               
@@ -212,21 +182,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/blog/">Blog</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a  href="http://localhost:4000/running/">running</a></li>
               <li class="divider"></li>
+
+            
             
           
         
@@ -258,27 +217,6 @@
 
             
             
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/getting-started/">Getting Started</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
           
         
 
@@ -362,145 +300,145 @@
 </ul>
 
 		<xsl:text disable-output-escaping="yes"><![CDATA[
-		    <div id="up-to-top" class="row">
-      <div class="small-12 columns" style="text-align: right;">
-        <a class="iconfont" href="#top-of-page">&#xf108;</a>
-      </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
+		    <!--<div id="up-to-top" class="row">-->
+      <!--<div class="small-12 columns" style="text-align: right;">-->
+        <!--<a class="iconfont" href="#top-of-page">&#xf108;</a>-->
+      <!--</div>&lt;!&ndash; /.small-12.columns &ndash;&gt;-->
+    <!--</div>&lt;!&ndash; /.row &ndash;&gt;-->
 
 
-    <footer id="footer-content" class="bg-grau">
-      <div id="footer">
-        <div class="row">
-          <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">About This Site</h5>
+    <!--<footer id="footer-content" class="bg-grau">-->
+      <!--<div id="footer">-->
+        <!--<div class="row">-->
+          <!--<div class="medium-6 large-5 columns">-->
+            <!--<h5 class="shadow-black">About This Site</h5>-->
 
-            <p class="shadow-black">
-              
-              <a href="http://localhost:4000/info/">More ›</a>
-            </p>
-          </div><!-- /.large-6.columns -->
-
-
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
-            
-              
-                <h5 class="shadow-black">Services</h5>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-
-              <ul class="no-bullet shadow-black">
-              
-                
-                  <li >
-                    <a href="http://localhost:4000"  title=""></a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/contact/"  title="Contact">Contact</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
-                  </li>
-              
-              </ul>
-          </div><!-- /.large-4.columns -->
+            <!--<p class="shadow-black">-->
+              <!---->
+              <!--<a href="http://localhost:4000/info/">More ›</a>-->
+            <!--</p>-->
+          <!--</div>&lt;!&ndash; /.large-6.columns &ndash;&gt;-->
 
 
-          <div class="small-6 medium-3 large-3 columns">
-            
-              
-                <h5 class="shadow-black">Dankeschön</h5>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
+          <!--<div class="small-6 medium-3 large-3 large-offset-1 columns">-->
+            <!---->
+              <!---->
+                <!--<h5 class="shadow-black">Services</h5>-->
+              <!---->
+            <!---->
+              <!---->
+            <!---->
+              <!---->
+            <!---->
+              <!---->
+            <!---->
+              <!---->
+            <!---->
 
-            <ul class="no-bullet shadow-black">
-            
-              
-                <li >
-                  <a href="http://localhost:4000"  title=""></a>
-                </li>
-            
-              
-                <li class="network-entypo" >
-                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
-                </li>
-            
-              
-                <li class="services-newsletter" >
-                  <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
-                </li>
-            
-              
-                <li class="rss-link" >
-                  <a href="http://unsplash.com/" target="_blank"  title="Images by Unsplash">Images by Unsplash</a>
-                </li>
-            
-              
-                <li class="sitemap-link" >
-                  <a href="http://srobbin.com/jquery-plugins/backstretch/" target="_blank"  title="Using Backstretch by Scott Robbin">Using Backstretch by Scott Robbin</a>
-                </li>
-            
-            </ul>
-          </div><!-- /.large-3.columns -->
-        </div><!-- /.row -->
-
-      </div><!-- /#footer -->
+              <!--<ul class="no-bullet shadow-black">-->
+              <!---->
+                <!---->
+                  <!--<li >-->
+                    <!--<a href="http://localhost:4000"  title=""></a>-->
+                  <!--</li>-->
+              <!---->
+                <!---->
+                  <!--<li >-->
+                    <!--<a href="http://localhost:4000/contact/"  title="Contact">Contact</a>-->
+                  <!--</li>-->
+              <!---->
+                <!---->
+                  <!--<li >-->
+                    <!--<a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>-->
+                  <!--</li>-->
+              <!---->
+                <!---->
+                  <!--<li >-->
+                    <!--<a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>-->
+                  <!--</li>-->
+              <!---->
+                <!---->
+                  <!--<li >-->
+                    <!--<a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>-->
+                  <!--</li>-->
+              <!---->
+              <!--</ul>-->
+          <!--</div>&lt;!&ndash; /.large-4.columns &ndash;&gt;-->
 
 
-      <div id="subfooter">
-        <nav class="row">
-          <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            
-          </section>
+          <!--<div class="small-6 medium-3 large-3 columns">-->
+            <!---->
+              <!---->
+                <!--<h5 class="shadow-black">Dankeschön</h5>-->
+              <!---->
+            <!---->
+              <!---->
+            <!---->
+              <!---->
+            <!---->
+              <!---->
+            <!---->
+              <!---->
+            <!---->
 
-          <section id="subfooter-right" class="small-12 medium-6 columns">
-            <ul class="inline-list social-icons">
-            
-              <li><a href="http://github.com/phlow" target="_blank" class="icon-github" title="Code und mehr..."></a></li>
-            
-              <li><a href="http://www.youtube.com/PhlowMedia" target="_blank" class="icon-youtube" title="Videos, Video-Anleitungen und Filme von Phlow auf YouTube"></a></li>
-            
-              <li><a href="http://twitter.com/phlow" target="_blank" class="icon-twitter" title="Immer das Neuste von Phlow gibt es auf Twitter"></a></li>
-            
-              <li><a href="http://www.mixcloud.com/phlow/" target="_blank" class="icon-cloud" title="Mixe, was sonst?"></a></li>
-            
-              <li><a href="https://plus.google.com/u/0/+Phlow" target="_blank" class="icon-googleplus" title="YouTube Google+"></a></li>
-            
-            </ul>
-          </section>
-        </nav>
-      </div><!-- /#subfooter -->
-    </footer>
+            <!--<ul class="no-bullet shadow-black">-->
+            <!---->
+              <!---->
+                <!--<li >-->
+                  <!--<a href="http://localhost:4000"  title=""></a>-->
+                <!--</li>-->
+            <!---->
+              <!---->
+                <!--<li class="network-entypo" >-->
+                  <!--<a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>-->
+                <!--</li>-->
+            <!---->
+              <!---->
+                <!--<li class="services-newsletter" >-->
+                  <!--<a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>-->
+                <!--</li>-->
+            <!---->
+              <!---->
+                <!--<li class="rss-link" >-->
+                  <!--<a href="http://unsplash.com/" target="_blank"  title="Images by Unsplash">Images by Unsplash</a>-->
+                <!--</li>-->
+            <!---->
+              <!---->
+                <!--<li class="sitemap-link" >-->
+                  <!--<a href="http://srobbin.com/jquery-plugins/backstretch/" target="_blank"  title="Using Backstretch by Scott Robbin">Using Backstretch by Scott Robbin</a>-->
+                <!--</li>-->
+            <!---->
+            <!--</ul>-->
+          <!--</div>&lt;!&ndash; /.large-3.columns &ndash;&gt;-->
+        <!--</div>&lt;!&ndash; /.row &ndash;&gt;-->
+
+      <!--</div>&lt;!&ndash; /#footer &ndash;&gt;-->
+
+
+      <!--<div id="subfooter">-->
+        <!--<nav class="row">-->
+          <!--<section id="subfooter-left" class="small-12 medium-6 columns credits">-->
+            <!---->
+          <!--</section>-->
+
+          <!--<section id="subfooter-right" class="small-12 medium-6 columns">-->
+            <!--<ul class="inline-list social-icons">-->
+            <!---->
+              <!--<li><a href="http://github.com/phlow" target="_blank" class="icon-github" title="Code und mehr..."></a></li>-->
+            <!---->
+              <!--<li><a href="http://www.youtube.com/PhlowMedia" target="_blank" class="icon-youtube" title="Videos, Video-Anleitungen und Filme von Phlow auf YouTube"></a></li>-->
+            <!---->
+              <!--<li><a href="http://twitter.com/phlow" target="_blank" class="icon-twitter" title="Immer das Neuste von Phlow gibt es auf Twitter"></a></li>-->
+            <!---->
+              <!--<li><a href="http://www.mixcloud.com/phlow/" target="_blank" class="icon-cloud" title="Mixe, was sonst?"></a></li>-->
+            <!---->
+              <!--<li><a href="https://plus.google.com/u/0/+Phlow" target="_blank" class="icon-googleplus" title="YouTube Google+"></a></li>-->
+            <!---->
+            <!--</ul>-->
+          <!--</section>-->
+        <!--</nav>-->
+      <!--</div>&lt;!&ndash; /#subfooter &ndash;&gt;-->
+    <!--</footer>-->
 
 		
 

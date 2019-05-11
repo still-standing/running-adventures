@@ -1,17 +1,10 @@
-- title: Start
-  url: "/"
-  side: left
-
 - title: "Home"
   url: "/"
   side: left
 
-- title: "Blog"
-  url: "/blog/"
+- title: "running"
+  url: "/running/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Races"
   url: "/races/"
@@ -21,14 +14,9 @@
   url: "/story/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Search"
-  url: "/search/"
+- title: "Blog"
+  url: "/blog/"
   side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
