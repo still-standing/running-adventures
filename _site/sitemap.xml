@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Pages: 18 links with priority=0.3, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//404.html</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//blog/archive/</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//atom.xml</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//changelog/</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//feed.xml</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//humans.txt</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//blog/</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//races/</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//redirect-page/</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//robots.txt</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//sitemap.xml</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//story/</loc>
+	
+		<lastmod>2019-05-11T14:27:39+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+
+<!-- Posts: 3 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//running/before-the-start-post/</loc>
+	
+		<lastmod>2019-01-03T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//story/title_explanation-post/</loc>
+	
+		<lastmod>2019-01-02T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/the-running-adventures-of-the-muffin-man//story/the-start-post/</loc>
+	
+		<lastmod>2019-01-01T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+
+</urlset>
