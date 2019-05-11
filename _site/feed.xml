@@ -1,16 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:4000/feeling-responsive/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://localhost:4000/feeling-responsive/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Feeling Responsive</title>
-		<description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
-		<link>http://localhost:4000/feeling-responsive/</link>
-		<atom:link href="http://localhost:4000/feeling-responsive/feed.xml" rel="self" type="application/rss+xml" />
+		<title></title>
+		<description></description>
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Before The Start a.k.a. The Bear Beginning</title>
+				<link>http://localhost:4000/running/2019/01/03/before-the-start-post.html</link>
+				<pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;As mentioned in a previous post, I have begun to run before the Killer BaBa night.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-doubtful-analogy&quot;&gt;a doubtful analogy&lt;/h3&gt;
+
+&lt;p&gt;My first weeks of running could actually be resumed by a simple analogy: It is like &lt;strong&gt;making love to a bear&lt;/strong&gt;… (figuratively speaking).&lt;/p&gt;
+
+&lt;p&gt;Figuratively speaking, yes. But the side effects look pretty similar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DIZZINESS, it is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is dizziness. Obviously…
+    &lt;ul&gt;
+      &lt;li&gt;Similarly, if you do not breath enough while running… You will get really dizzy!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;DEHYDRATION, it is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is dehydration.  Obviously…
+    &lt;ul&gt;
+      &lt;li&gt;Similarly, if you do not drink enough before the run, during the run, or after the run… You will get really dehydrated!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;PAIN LOCALIZED IN THE LOWER BODY PARTS, it is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is pain localized in the lower body parts. Obviously…
+    &lt;ul&gt;
+      &lt;li&gt;Similarly, while starting to run, you will stimulate, in a not so gentle way, muscles, tendons, and ligaments localized in the lower part of your body… And they will let you know that they do not like it at all!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SCARS, it is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is getting scars. Obviously…
+    &lt;ul&gt;
+      &lt;li&gt;Well, if you do not lift your feet high enough you will trip, fall down, and smash the ground!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I know that you all now expect from me to describe the good parts of &lt;strong&gt;making love to a bear&lt;/strong&gt;… Unfortunately, it is time to stop the analogy. For obvious reasons…&lt;/p&gt;
+
+&lt;h3 id=&quot;a-conclusion&quot;&gt;a conclusion&lt;/h3&gt;
+
+&lt;p&gt;It is fun enough to keep to do it ;-)&lt;/p&gt;
+
+&lt;h3 id=&quot;running-log&quot;&gt;Running log&lt;/h3&gt;
+&lt;p&gt;I prefer to warn you, it will not be impressive!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/strava_log_1.png&quot; alt=&quot;&quot; /&gt;
+The number in the green circles represent the distance runned in a day (in km ot in miles!). Not very impressive right? But it is actually even better, there will be a lot room for improvement!&lt;/p&gt;
+
+&lt;h3 id=&quot;first-10k-ever&quot;&gt;First 10k ever&lt;/h3&gt;
+
+&lt;p&gt;And I finished my first 5 weeks of running by doing a 10k! I was pretty happy about that! I wanted now to share this crazy news to my friends in France, and, precisely, I was going to visit them 2 weeks later. I was looking forward to it, they were apparently pretty enthusiastic about a restaurant, and most specifically its dessert menu…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/first10k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thinking about how the killer baba night turned out… Something went definitively wrong! I just wanted to brag a bit about running a 10k in 56min with a pace of 5:34/km… And now I signed up for a half-marathon (21.1km) with guys running it in less that 5min/km…&lt;/p&gt;
+
+&lt;p&gt;Really?!&lt;/p&gt;
+
+&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I actually heard the &lt;strong&gt;bear expression&lt;/strong&gt; quite recently in a business related discussion… Maybe you wonder now what type of job I am doing… Good question!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For people still using the imperial unit system: 1mile ~ 1.61km.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This post will now be referred to as the &lt;strong&gt;bear beginning&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/running/2019/01/03/before-the-start-post.html</guid>
+			</item>
+		
+			<item>
+				<title>Title Explanation a.k.a. crystal clear</title>
+				<link>http://localhost:4000/story/2019/01/02/title_explanation-post.html</link>
+				<pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;The website title can be easily understood by watching these videos…&lt;/p&gt;
+
+&lt;iframe width=&quot;280&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/IFeUIJMwG4A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;280&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/NgzRea-9TuI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;280&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/3taMwAEGBVc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;… and smash them all together in this very specific order!&lt;/p&gt;
+
+&lt;p&gt;Everything will then be completely clear (of course, figuratively speaking).&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/story/2019/01/02/title_explanation-post.html</guid>
+			</item>
+		
+			<item>
+				<title>The Start a.k.a. The Killer BaBa night</title>
+				<link>http://localhost:4000/story/2019/01/01/the-start-post.html</link>
+				<pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+				<description>&lt;h3 id=&quot;the-decor&quot;&gt;the decor&lt;/h3&gt;
+
+&lt;p&gt;The moment everything really started was in Summer 2018 during a dinner at the terrace of a restaurant in 
+Nice - South of France at the terrace of a restaurant in the &lt;em&gt;Vieux Nice&lt;/em&gt;; with few friends, 
+a lot of good food, a lot of good wine, and a lot of bad cigarettes (but please, do not drink nor smoke…).&lt;/p&gt;
+
+&lt;p&gt;We were finishing our glasses of wine while waiting for the dessert. The dessert will reveal to be a huge 
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Rum_baba&quot;&gt;rum baba&lt;/a&gt;, with more rum than baba, and which will kill us all later (figuratively speaking…).&lt;/p&gt;
+
+&lt;h3 id=&quot;an-innocent-phrase&quot;&gt;an innocent phrase&lt;/h3&gt;
+
+&lt;p&gt;Waiting for the soon to be killer Baba, I told the table:&lt;/p&gt;
+
+&lt;p&gt;“By the way guys, ‘&lt;strong&gt;Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse&lt;/strong&gt;’ and I started to run a bit…”.&lt;/p&gt;
+
+&lt;p&gt;‘&lt;strong&gt;Tabatha&lt;/strong&gt;’ immediately jumped on me (figuratively speaking…):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Next May there is the half-marathon of Nice! I will register! You want to register? Better if I register you! Wait we cannot register now… But as soon that we can we register! Deal?”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Rare are the moments where I do not want to speak, this moment was one of those… Having nothing to say, I decided to light a cigarette and wait for the storm to pass… But it did not.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-storm&quot;&gt;the storm&lt;/h3&gt;
+
+&lt;p&gt;Between my first and second drag I discovered that:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bergamot_orange&quot;&gt;Bergamotte&lt;/a&gt;&lt;/strong&gt;’ already run the half of Nice under 1h45!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Chamomile&quot;&gt;Camomille&lt;/a&gt;&lt;/strong&gt;’ already run a  half of Nice under 1h35, three marathons and 4h, and will run the Toulouse marathon in a couple of months!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Tabatha_Cash&quot;&gt;Tabatha&lt;/a&gt;&lt;/strong&gt;’ run few halves and marathons every year quote “for fun” unquote.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Aurelia_Cotta&quot;&gt;Aurelia&lt;/a&gt;&lt;/strong&gt;’ is running the marathon under 3h quote “easy” unquote!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-trap&quot;&gt;the trap&lt;/h3&gt;
+
+&lt;p&gt;OK guys, few comments:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;First, we all need to calm down.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Second, we should clearly speak a little bit more because I had no clue you were doing all that shit…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Third, okay guys… Challenge accepted!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With so much peer pressure, I just had no escape…&lt;/p&gt;
+
+&lt;p&gt;After that, the killer Baba arrived, and the rest is fun blurry history.&lt;/p&gt;
+
+&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To respect the privacy and integrity of the people involved in those running adventures, aliases will be used.
+    &lt;ul&gt;
+      &lt;li&gt;Since we are now in a Post Gender Theory area, the biological gender cannot be deduced from the alias.&lt;/li&gt;
+      &lt;li&gt;The aliases are somehow chosen completely at random… Or are they?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To shorten the alias ‘&lt;strong&gt;Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse&lt;/strong&gt;’, the alias will be replaced by ‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/John_Rambo&quot;&gt;Rambo Chérie&lt;/a&gt;&lt;/strong&gt;’.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This evening will be referred as the &lt;strong&gt;Killer BaBa Night&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sad sad news, the restaurant removed the rum bab from its menu… Customers were complaining about the rum bab side effects such as liver failure and cirrhosis.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/story/2019/01/01/the-start-post.html</guid>
+			</item>
 		
 			<item>
 				<title>Play Audio &amp; Video with media&amp;shy;element.js</title>
-				<link>http://localhost:4000/feeling-responsive/design/mediaelement_js/</link>
+				<link>http://localhost:4000/design/2015/10/15/mediaelement_js.html</link>
 				<pubDate>Thu, 15 Oct 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;a href=&quot;http://mediaelementjs.com/&quot;&gt;mediaelement.js&lt;/a&gt; is like magic. It’s browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;.&lt;/p&gt;
 
@@ -42,12 +222,12 @@
 &lt;p class=&quot;t30 button radius&quot;&gt;&lt;a href=&quot;https://archive.org/details/music_from_all_around_the_world&quot;&gt;Download Compilation ›&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/mediaelement_js/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/2015/10/15/mediaelement_js.html</guid>
 			</item>
 		
 			<item>
 				<title>Wonderful Typography</title>
-				<link>http://localhost:4000/feeling-responsive/design/typography/typography/</link>
+				<link>http://localhost:4000/design/typography/2015/08/16/typography.html</link>
 				<pubDate>Sun, 16 Aug 2015 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -487,24 +667,24 @@ element&lt;/td&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/typography/typography/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/typography/2015/08/16/typography.html</guid>
 			</item>
 		
 			<item>
 				<title>Now with Comments!</title>
-				<link>http://localhost:4000/feeling-responsive/design/comments/</link>
+				<link>http://localhost:4000/design/2015/08/15/comments.html</link>
 				<pubDate>Sat, 15 Aug 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/comments/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/2015/08/15/comments.html</guid>
 			</item>
 		
 			<item>
 				<title>No Header</title>
-				<link>http://localhost:4000/feeling-responsive/design/no-header/</link>
+				<link>http://localhost:4000/design/2015/08/11/no-header.html</link>
 				<pubDate>Tue, 11 Aug 2015 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -519,31 +699,31 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/08/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/no-header/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/2015/08/11/no-header.html</guid>
 			</item>
 		
 			<item>
 				<title>No Header but Article Image</title>
-				<link>http://localhost:4000/feeling-responsive/design/no-header-but-image/</link>
+				<link>http://localhost:4000/design/2015/03/12/no-header-but-image.html</link>
 				<pubDate>Thu, 12 Mar 2015 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;First turn of the header with &lt;code class=&quot;highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Then add an image to with the following code. The caption is optional.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -562,31 +742,31 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/08/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/no-header-but-image/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/2015/03/12/no-header-but-image.html</guid>
 			</item>
 		
 			<item>
 				<title>Header With Text</title>
-				<link>http://localhost:4000/feeling-responsive/design/header-with-text/</link>
+				<link>http://localhost:4000/design/2015/02/10/header-with-text.html</link>
 				<pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -606,31 +786,31 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/08/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/header-with-text/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/2015/02/10/header-with-text.html</guid>
 			</item>
 		
 			<item>
 				<title>Header With Logo Only</title>
-				<link>http://localhost:4000/feeling-responsive/design/header-logo-only/</link>
+				<link>http://localhost:4000/design/2014/10/09/header-logo-only.html</link>
 				<pubDate>Thu, 09 Oct 2014 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;No front matter code needed.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -642,163 +822,26 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/08/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/header-logo-only/</guid>
-			</item>
-		
-			<item>
-				<title>Header Image With Background Color</title>
-				<link>http://localhost:4000/feeling-responsive/design/header-image-color/</link>
-				<pubDate>Thu, 09 Oct 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;alert-box alert &quot;&gt;&lt;p&gt;WARNING: To make this work the value of &lt;code class=&quot;highlighter-rouge&quot;&gt;background-color&lt;/code&gt; must be inbetween quotes.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image: &quot;header_unsplash_2-970x.jpg&quot;
-    background-color: &quot;#fabb00&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/header-image-color/</guid>
-			</item>
-		
-			<item>
-				<title>Header with a Full-Width-Image</title>
-				<link>http://localhost:4000/feeling-responsive/design/header-full-width-image/</link>
-				<pubDate>Thu, 09 Oct 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;It’s so easy to do. Just define in front matter your image.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image_fullwidth: &quot;unsplash_brooklyn-bridge_header.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/header-full-width-image/</guid>
-			</item>
-		
-			<item>
-				<title>Header Image With Pattern</title>
-				<link>http://localhost:4000/feeling-responsive/design/header-image-pattern/</link>
-				<pubDate>Wed, 08 Oct 2014 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
-    image:  &quot;header_unsplash_2-970x.jpg&quot;
-    pattern:  &quot;pattern_concrete.jpg&quot;
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/feeling-responsive/design/header-image-pattern/</guid>
+				<guid isPermaLink="true">http://localhost:4000/design/2014/10/09/header-logo-only.html</guid>
 			</item>
 		
 	</channel>
