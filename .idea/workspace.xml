@@ -2,79 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14c3687d-1bd2-4598-a6a0-1bb45ea433e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/_footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/_sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/_sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-07-09-post-left-sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-07-10-breadcrumb.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-07-10-page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-07-10-post-right-sidebar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-08-19-page-fullwidth.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-09-10-portfolio.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-09-13-grid.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-09-14-video.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-09-15-gallery.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-10-08-header-image-pattern.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-10-09-header-full-width-image.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-10-09-header-image-color.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2014-10-09-header-logo-only.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2015-02-10-header-with-text.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2015-03-12-no-header-but-image.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2015-08-11-no-header.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2015-08-15-comments.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2015-08-16-typography.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/design/2015-10-15-mediaelement_js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/xslt/atom.xslt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/xslt/atom.xslt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/xslt/rss.xslt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/xslt/rss.xslt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/banquet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/archive/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/changelog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/changelog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/contact/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/07/09/post-left-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/07/10/breadcrumb.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/07/10/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/07/10/post-right-sidebar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/08/19/page-fullwidth.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/09/10/portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/09/14/video.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/09/15/gallery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/10/08/header-image-pattern.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/10/09/header-full-width-image.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/10/09/header-image-color.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2014/10/09/header-logo-only.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2015/02/10/header-with-text.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2015/03/12/no-header-but-image.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2015/08/11/no-header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2015/08/15/comments.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/2015/10/15/mediaelement_js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/grid/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/design/typography/2015/08/16/typography.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/documentation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/documentation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/getting-started/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/getting-started/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/headers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/headers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/info/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/info/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/races/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/races/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/roadmap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/roadmap/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/running/2019/01/03/before-the-start-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/running/2019/01/03/before-the-start-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/search/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/story/2019/01/01/the-start-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/2019/01/01/the-start-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/story/2019/01/02/title_explanation-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/2019/01/02/title_explanation-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/story/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banquet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/design.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/search.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/story.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/story.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,12 +12,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="69">
-                <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+              <first_editor relative-caret-position="365">
+                <caret line="38" column="89" lean-forward="true" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="89" />
               </first_editor>
               <second_editor />
             </state>
@@ -108,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/running.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -267,7 +195,6 @@
         <option value="$PROJECT_DIR$/_posts/story/2019-01-03-title_explanation-post.markdown" />
         <option value="$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown" />
         <option value="$PROJECT_DIR$/_posts/running/2019-01-03-before-the-start-post.markdown" />
-        <option value="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" />
         <option value="$PROJECT_DIR$/pages/races.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/blog/index.html" />
@@ -276,6 +203,7 @@
         <option value="$PROJECT_DIR$/_includes/_footer.html" />
         <option value="$PROJECT_DIR$/pages/story.md" />
         <option value="$PROJECT_DIR$/pages/running.md" />
+        <option value="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" />
       </list>
     </option>
   </component>
@@ -913,16 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="498">
@@ -999,6 +917,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="115">
             <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="365">
+            <caret line="38" column="89" lean-forward="true" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="89" />
           </first_editor>
           <second_editor />
         </state>

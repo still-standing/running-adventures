@@ -36,11 +36,11 @@ Between my first and second drag I discovered that:
 
 * '**[Bergamotte](https://en.wikipedia.org/wiki/Bergamot_orange)**' already run the half of Nice under 1h45!
 
-* '**[Camomille](https://en.wikipedia.org/wiki/Chamomile)**' already run a  half of Nice under 1h35, three marathons and 4h, and will run the Toulouse marathon in a couple of months!
+* '**[Camomille](https://en.wikipedia.org/wiki/Chamomile)**' already runs the half-marathon under 1h35, already run three marathons, and will run the Toulouse marathon in a couple of months!
 
-* '**[Tabatha](https://en.wikipedia.org/wiki/Tabatha_Cash)**' run few halves and marathons every year quote "for fun" unquote.
+* '**[Tabatha](https://en.wikipedia.org/wiki/Tabatha_Cash)**' runs few half-marathons and marathons every year quote "for fun" unquote.
 
-* '**[Aurelia](https://en.wikipedia.org/wiki/Aurelia_Cotta)**' is running the marathon under 3h quote "easy" unquote!
+* '**[Aurelia](https://en.wikipedia.org/wiki/Aurelia_Cotta)**' runs the marathon under 3h quote "easy" unquote!
 
 ### the trap 
 
