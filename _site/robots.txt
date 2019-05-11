@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://localhost:4000/the-running-adventures-of-the-muffin-man//sitemap.xml
