@@ -271,4 +271,4 @@ defaults:
 #     coderay-css: style
 #     icons: font
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
