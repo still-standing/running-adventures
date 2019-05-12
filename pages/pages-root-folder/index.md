@@ -10,7 +10,7 @@ header:
 widget1:
   title: "The running"
   url: '/running/'
-  image: images/header1.png
+  image: images/wolf.png
   text: 'This section is all about a journey in the long distance running world.'
 widget2:
   title: "The standing"
