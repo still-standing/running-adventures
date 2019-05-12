@@ -3,7 +3,7 @@ layout: page-fullwidth
 
 
 header:
-    image_fullwidth: "../../images/feast_large.png"
+    image_fullwidth: "../../../images/feast_large.png"
 title: "Before The Start a.k.a. The Bear Beginning"
 teaser: "As mentioned in a previous post, I have begun to run before the Killer BaBa night. Since I am an emotional kind of guy, I will focus on the sensations I went through during this, pretty intense, transition period. "
 categories:
@@ -40,7 +40,7 @@ It is fun enough to keep to do it ;-)
 I prefer to warn you, it will not be impressive! 
 
 
-<img src="../../../images/strava_log_1.png" alt="">
+<img src="../../../../images/strava_log_1.png" alt="">
 The number in the green circles represent the distance runned in a day (in km ot in miles!). Not very impressive right? But it is actually even better, there will be a lot room for improvement!
 
 ### First 10k ever
