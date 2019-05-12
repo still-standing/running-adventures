@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header:
-    image_fullwidth: "../../../../images/wolf.png"
+    image_fullwidth: "../../../../images/feast_large.png"
 title: "The Start a.k.a. The Killer BaBa night"
 teaser: "The moment everything really started was not my first run, nor my first 10k without stopping, nor even my first half-marathon without blood in my mouth..."
 categories:
