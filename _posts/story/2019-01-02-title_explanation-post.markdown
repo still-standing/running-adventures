@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header:
-    image_fullwidth: "../../images/feast_large.png"
+    image_fullwidth: "../../../../images/feast_large.png"
 title: "Title Explanation a.k.a. crystal clear"
 teaser: "You may have wonder what could have been the logical progression leading to the website title... It is indeed pretty simple!"
 categories:
