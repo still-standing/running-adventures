@@ -42,19 +42,19 @@ For example, to prepare for a 1h45 half-marathon, the recommanded paces for the 
 
 
 * The Run Smart Project <a href="https://www.youtube.com/user/runsmartproject">
-<img src="../../../../images/run_smart_project-logo.png" alt="">
+<img src="../../../../images/run_smart_project-logo.jpg" alt="">
 </a>
 
 
 * Vo2maxProductions <a href="https://www.youtube.com/user/Vo2maxProductions">
-<img src="../../../../images/vo2max_productions-logo.png" alt="">
+<img src="../../../../images/vo2max_productions-logo.jpg" alt="">
 </a>
 
 * Running Wild <a href="https://www.youtube.com/user/RunningWild2Believe">
-<img src="../../../../images/run_experience-logo.png" alt="">
+<img src="../../../../images/run_experience-logo.jpg" alt="">
 </a>
 
 
 * The Run Experience <a href="https://www.youtube.com/user/TREtherunexperience">
-<img src="../../../../images/run_experience-logo.png" alt="">
+<img src="../../../../images/run_experience-logo.jpg" alt="">
 </a>
