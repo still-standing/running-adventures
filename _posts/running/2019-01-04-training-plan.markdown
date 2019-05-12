@@ -46,15 +46,15 @@ For example, to prepare for a 1h45 half-marathon, the recommanded paces for the 
 </a>
 
 
-* Vo2maxProductions <a href="https://www.youtube.com/user/Vo2maxProductions">
+* <a href="https://www.youtube.com/user/Vo2maxProductions">Vo2maxProductions 
 <img src="../../../../images/vo2max_productions-logo.jpg" alt="">
 </a>
 
-* Running Wild <a href="https://www.youtube.com/user/RunningWild2Believe">
+* <a href="https://www.youtube.com/user/RunningWild2Believe">Running Wild
 <img src="../../../../images/run_experience-logo.jpg" alt="">
 </a>
 
 
-* The Run Experience <a href="https://www.youtube.com/user/TREtherunexperience">
+* <a href="https://www.youtube.com/user/TREtherunexperience">The Run Experience
 <img src="../../../../images/run_experience-logo.jpg" alt="">
 </a>
