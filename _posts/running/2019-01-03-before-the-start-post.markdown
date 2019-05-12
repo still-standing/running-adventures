@@ -3,7 +3,7 @@ layout: page-fullwidth
 
 
 header:
-    image_fullwidth: "../../../../images/header1.png"
+    image_fullwidth: "../../../../images/header1.jpg"
 title: "Before The Start a.k.a. The Bear Beginning"
 teaser: "As mentioned in a previous post, I have begun to run before the Killer BaBa night. Since I am an emotional kind of guy, I will focus on the sensations I went through during this, pretty intense, transition period. "
 categories:

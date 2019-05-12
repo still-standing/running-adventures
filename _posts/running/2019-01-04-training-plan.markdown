@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header:
-    image_fullwidth: "./../../../images/header1.png"
+    image_fullwidth: "./../../../images/header1.jpg"
 title: "I Love It When A Plan Comes Together a.k.a. Training Plan"
 teaser: ""
 categories:
