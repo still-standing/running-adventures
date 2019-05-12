@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header:
-    image_fullwidth: "../../../../images/header1.png"
+    image_fullwidth: "./../../../images/header1.png"
 title: "I Love It When A Plan Comes Together a.k.a. Training Plan"
 teaser: ""
 categories:
@@ -41,7 +41,7 @@ For example, to prepare for a 1h45 half-marathon, the recommanded paces for the 
 ### Few Youtube channels
 
 
-* The Run Smart Project <a href="https://www.youtube.com/user/runsmartproject">
+* <a href="https://www.youtube.com/user/runsmartproject">The Run Smart Project
 <img src="../../../../images/run_smart_project-logo.jpg" alt="">
 </a>
 
@@ -51,7 +51,7 @@ For example, to prepare for a 1h45 half-marathon, the recommanded paces for the 
 </a>
 
 * <a href="https://www.youtube.com/user/RunningWild2Believe">Running Wild
-<img src="../../../../images/run_experience-logo.jpg" alt="">
+<img src="../../../../images/running_wild-logo.jpg" alt="">
 </a>
 
 
