@@ -40,7 +40,7 @@ It is fun enough to keep to do it ;-)
 I prefer to warn you, it will not be impressive! 
 
 
-<img src="../../images/strava_log_1.png" alt="">
+<img src="../../../images/strava_log_1.png" alt="">
 The number in the green circles represent the distance runned in a day (in km ot in miles!). Not very impressive right? But it is actually even better, there will be a lot room for improvement!
 
 ### First 10k ever
@@ -48,7 +48,7 @@ The number in the green circles represent the distance runned in a day (in km ot
 And I finished my first 5 weeks of running by doing a 10k! I was pretty happy about that! I wanted now to share this crazy news to my friends in France, and, precisely, I was going to visit them 2 weeks later. I was looking forward to it, they were apparently pretty enthusiastic about a restaurant, and most specifically its dessert menu...
 
 
-<img src="../../images/first10k.png" alt="">
+<img src="../../../../images/first10k.png" alt="">
 
 Thinking about how the killer baba night turned out... Something went definitively wrong! I just wanted to brag a bit about running a 10k in 56min with a pace of 5:34/km... And now I signed up for a half-marathon (21.1km) with guys running it in less that 5min/km... 
 
