@@ -31,7 +31,7 @@ categories:
 ### about the pace
 
 <a href="https://runsmartproject.com/calculator/">
-<img src="../../images/daniels-vdot-logo.png" alt="">
+<img src="../../../../images/daniels-vdot-logo.png" alt="">
 </a>
 
 For example, to prepare for a 1h45 half-marathon, the recommanded paces for the different types of training are:
@@ -41,19 +41,20 @@ For example, to prepare for a 1h45 half-marathon, the recommanded paces for the 
 ### Few Youtube channels
 
 
-* The Run Smart Project
+* The Run Smart Project <a href="https://www.youtube.com/user/runsmartproject">
+<img src="../../../../images/run_smart_project-logo.png" alt="">
+</a>
 
-<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=runsmartproject" width="240" height="150"></iframe>   
+
+* Vo2maxProductions <a href="https://www.youtube.com/user/Vo2maxProductions">
+<img src="../../../../images/vo2max_productions-logo.png" alt="">
+</a>
+
+* Running Wild <a href="https://www.youtube.com/user/RunningWild2Believe">
+<img src="../../../../images/run_experience-logo.png" alt="">
+</a>
 
 
-* Vo2maxProductions
-
-<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=Vo2maxProductions" width="240" height="150"> </iframe>                 
-
-* Running Wild
-
-<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=RunningWild2Believe"  width="240" height="150"> </iframe>   
-
-* The Running Experience
-
-<iframe src="http://www.youtube.com/embed/?listType=user_uploads&list=TREtherunexperience"  width="240" height="150"> </iframe>   
+* The Run Experience <a href="https://www.youtube.com/user/TREtherunexperience">
+<img src="../../../../images/run_experience-logo.png" alt="">
+</a>
