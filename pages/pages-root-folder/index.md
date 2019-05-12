@@ -9,8 +9,8 @@ header:
   image_fullwidth: images/header1.jpg
 widget1:
   title: "The running"
-  url: '/blog/'
-  image: images/wolf.png
+  url: '/running/'
+  image: images/header1.png
   text: 'This section is all about a journey in the long distance running world.'
 widget2:
   title: "The standing"

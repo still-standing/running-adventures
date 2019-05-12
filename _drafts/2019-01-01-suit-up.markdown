@@ -1,0 +1,22 @@
+---
+layout: page-fullwidth
+header:
+    image_fullwidth: "../../../../images/wolf.png"
+title: "Suit-up a.k.a. The Devil wears Prada"
+teaser: "The time where Aurelia was running in [Caligae](https://en.wikipedia.org/wiki/Caligae) and [toga](https://en.wikipedia.org/wiki/Toga) accross the prairies is long gone. We can now do a little bit better!"
+categories:
+    - story
+---
+
+### running shoes
+
+### recover socks and compression sleeves
+
+### foam roller
+
+### running app 
+
+### GPS watch
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=running02b-20&marketplace=amazon&region=US&placement=B0160BC1FO&asins=B0160BC1FO&linkId=67b6521b086ee03bce23765c37b412ff&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066C0&bg_color=FFFFFF">
+    </iframe>
