@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "The Story Behind The Scene"
+title: "The Story Behind The Scene \b a.k.a. The Muffin"
 subheadline: "Some fun with the dream team"
 permalink: "/story/"
 header:
-    image_fullwidth: "../images/feast_large.png"
+    image_fullwidth: "../images/chang-duong-398144-unsplash_header.jpg"
+    caption: ""
+
 ---
 <ul>
     {% for post in site.categories.story%}

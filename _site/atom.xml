@@ -1,32 +1,149 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/running-adventures/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/running-adventures/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/</id>
-	<title></title>
-	<updated>2019-05-11T16:51:45+01:00</updated>
+	<id>http://localhost:4000/running-adventures/</id>
+	<title>The Running Adventures of the Still Standing Muffin Man</title>
+	<updated>2019-05-18T11:30:16+01:00</updated>
 
-	<subtitle></subtitle>
+	<subtitle>A journey in the world of long distance running</subtitle>
 
 	
+		
+		<author>
+			
+				<name>muffin man</name>
+			
+			
+			
+		</author>
+	
 
-	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/running-adventures/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/running-adventures/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/running/2019/01/03/before-the-start-post.html</id>
+			<id>http://localhost:4000/running-adventures/running/training-plan/</id>
+			<title>I Love It When A Plan Comes Together  a.k.a. Training Plan</title>
+			<link href="http://localhost:4000/running-adventures/running/training-plan/" rel="alternate" type="text/html" title="I Love It When A Plan Comes Together &lt;br/&gt; a.k.a. Training Plan" />
+			<updated>2019-01-04T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>muffin man</name>
+					
+					
+					
+				</author>
+			
+			<summary>After few month month of running for the sake of it, it was time to look at how a runner train to maximize its potential. </summary>
+			<content type="html" xml:base="http://localhost:4000/running-adventures/running/training-plan/">&lt;p&gt;After running two half-marathons races and having registered for a trail and a full marathon, 
+a proper training plan was somehow required. Why having a training plan? Simply to run &lt;strong&gt;smart&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Their is a lot of information on the web and in the bookshops… But, after doing some filtering,
+I ended up with with 5 YouTube videos be watched, few YouTube channels to follow for fun, and two books.
+It is of course a very personal choice and I am sure that missed a lot of good stuff.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-types-of-training&quot;&gt;4 types of training&lt;/h3&gt;
+&lt;p&gt;In these for YouTube videos, &lt;a href=&quot;https://en.wikipedia.org/wiki/Jack_Daniels_(coach)&quot;&gt;Jack Daniels PhD&lt;/a&gt;, explains the different types of training. 
+I know what you think, but no, the man speaking in these videos is not involved the distillation of whisky.&lt;/p&gt;
+
+&lt;p&gt;1- Easy Run&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/veAQ73OJdwY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;2- Threshold Training&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/dxJVtPT6rHo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;3- Interval Training&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/7dQEwJhHWXk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;4- Repetition Training&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/BGQKlSU4HQM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;about-the-pace&quot;&gt;About the pace&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://runsmartproject.com/calculator/&quot;&gt;
+&lt;img src=&quot;../../../../images/daniels-vdot-logo.png&quot; alt=&quot;&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, to prepare for a 1h45 half-marathon, the recommended paces for the different types of training are:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../images/daniels-paces-1h45-half.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;closing-the-loop&quot;&gt;Closing the loop&lt;/h3&gt;
+
+&lt;p&gt;While the Jack Daniels’s videos are, in principle, enough. I found the following one-hour long video very useful too:&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/pqo5AbcELFM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;few-youtube-channels&quot;&gt;Few YouTube channels&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/runsmartproject&quot;&gt;The Run Smart Project
+&lt;img src=&quot;../../../../images/run_smart_project-logo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/Vo2maxProductions&quot;&gt;Vo2maxProductions 
+&lt;img src=&quot;../../../../images/vo2max_productions-logo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/RunningWild2Believe&quot;&gt;Running Wild
+&lt;img src=&quot;../../../../images/running_wild-logo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/TREtherunexperience&quot;&gt;The Run Experience
+&lt;img src=&quot;../../../../images/run_experience-logo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;a-little-bit-of-reading&quot;&gt;A little bit of reading&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../images/running_formula.jpg&quot; alt=&quot;&quot; href=&quot;https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&amp;amp;qid=1558174667&amp;amp;s=gateway&amp;amp;sr=8-1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../../images/advanced_marathoning.jpg&quot; alt=&quot;&quot; href=&quot;https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&amp;amp;qid=1558174711&amp;amp;s=gateway&amp;amp;sr=8-4&quot; /&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="running" />
+			
+			
+
+			<published>2019-01-04T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/running-adventures/running/before-the-start-post/</id>
 			<title>Before The Start a.k.a. The Bear Beginning</title>
-			<link href="http://localhost:4000/running/2019/01/03/before-the-start-post.html" rel="alternate" type="text/html" title="Before The Start a.k.a. The Bear Beginning" />
+			<link href="http://localhost:4000/running-adventures/running/before-the-start-post/" rel="alternate" type="text/html" title="Before The Start a.k.a. The Bear Beginning" />
 			<updated>2019-01-03T00:00:00+00:00</updated>
 
 			
-			<summary>As mentioned in a previous post, I have begun to run before the Killer BaBa night. Since I am an emotional kind of guy, I will focus on the sensations I went through during this, pretty intense, transition period. </summary>
-			<content type="html" xml:base="http://localhost:4000/running/2019/01/03/before-the-start-post.html">&lt;p&gt;As mentioned in a previous post, I have begun to run before the Killer BaBa night.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-doubtful-analogy&quot;&gt;a doubtful analogy&lt;/h3&gt;
+				
+				<author>
+					
+						<name>muffin man</name>
+					
+					
+					
+				</author>
+			
+			<summary>As mentioned in a previous post, I have begun to run before the Killer BaBa night. Since I am an emotional kind of guy, I will focus on the sensations I went through during this, pretty intense, couch to 1k transition period.</summary>
+			<content type="html" xml:base="http://localhost:4000/running-adventures/running/before-the-start-post/">&lt;h3 id=&quot;a-doubtful-analogy&quot;&gt;A doubtful analogy&lt;/h3&gt;
 
 &lt;p&gt;My first weeks of running could actually be resumed by a simple analogy: It is like &lt;strong&gt;making love to a bear&lt;/strong&gt;… (figuratively speaking).&lt;/p&gt;
 
@@ -57,21 +174,21 @@
 
 &lt;p&gt;I know that you all now expect from me to describe the good parts of &lt;strong&gt;making love to a bear&lt;/strong&gt;… Unfortunately, it is time to stop the analogy. For obvious reasons…&lt;/p&gt;
 
-&lt;h3 id=&quot;a-conclusion&quot;&gt;a conclusion&lt;/h3&gt;
+&lt;h3 id=&quot;a-conclusion&quot;&gt;A conclusion&lt;/h3&gt;
 
 &lt;p&gt;It is fun enough to keep to do it ;-)&lt;/p&gt;
 
 &lt;h3 id=&quot;running-log&quot;&gt;Running log&lt;/h3&gt;
 &lt;p&gt;I prefer to warn you, it will not be impressive!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../../images/strava_log_1.png&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../images/strava_log_1.png&quot; alt=&quot;&quot; /&gt;
 The number in the green circles represent the distance runned in a day (in km ot in miles!). Not very impressive right? But it is actually even better, there will be a lot room for improvement!&lt;/p&gt;
 
 &lt;h3 id=&quot;first-10k-ever&quot;&gt;First 10k ever&lt;/h3&gt;
 
 &lt;p&gt;And I finished my first 5 weeks of running by doing a 10k! I was pretty happy about that! I wanted now to share this crazy news to my friends in France, and, precisely, I was going to visit them 2 weeks later. I was looking forward to it, they were apparently pretty enthusiastic about a restaurant, and most specifically its dessert menu…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../../images/first10k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../../../images/first10k.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Thinking about how the killer baba night turned out… Something went definitively wrong! I just wanted to brag a bit about running a 10k in 56min with a pace of 5:34/km… And now I signed up for a half-marathon (21.1km) with guys running it in less that 5min/km…&lt;/p&gt;
 
@@ -101,14 +218,86 @@ The number in the green circles represent the distance runned in a day (in km ot
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/story/2019/01/02/title_explanation-post.html</id>
-			<title>Title Explanation a.k.a. crystal clear</title>
-			<link href="http://localhost:4000/story/2019/01/02/title_explanation-post.html" rel="alternate" type="text/html" title="Title Explanation a.k.a. crystal clear" />
+			<id>http://localhost:4000/running-adventures/story/title_explanation-post/</id>
+			<title>Title and pseudonymes Explanation a.k.a. Crystal Clear</title>
+			<link href="http://localhost:4000/running-adventures/story/title_explanation-post/" rel="alternate" type="text/html" title="Title and pseudonymes Explanation a.k.a. Crystal Clear" />
 			<updated>2019-01-02T00:00:00+00:00</updated>
 
 			
-			<summary>You may have wonder what could have been the logical progression leading to the website title... It is indeed pretty simple!</summary>
-			<content type="html" xml:base="http://localhost:4000/story/2019/01/02/title_explanation-post.html">&lt;p&gt;The website title can be easily understood by watching these videos…&lt;/p&gt;
+				
+				<author>
+					
+						<name>muffin man</name>
+					
+					
+					
+				</author>
+			
+			<summary>You may have wondered what logical steps were followed to come up with this site title...</summary>
+			<content type="html" xml:base="http://localhost:4000/running-adventures/story/title_explanation-post/">&lt;p&gt;After writing the Killer BaBa night post, 
+I naturally decided to send it to the dream team to get their feedback about their pseudonymes and the post itself.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-pseudonymes&quot;&gt;The pseudonymes&lt;/h3&gt;
+
+&lt;p&gt;I have to be honest, I did not collect the feedback of all the dream team…
+ When I called &lt;strong&gt;Little Tabitha&lt;/strong&gt;, we did not speak much, she was warming up for a rugby match and about to practice the scrum…&lt;/p&gt;
+
+&lt;p&gt;While &lt;strong&gt;Bergamote&lt;/strong&gt;, &lt;strong&gt;Chamomile&lt;/strong&gt;, and &lt;strong&gt;Rambo Chérie&lt;/strong&gt; were kind of indifferent 
+about the pseudonymes and the post, &lt;strong&gt;Aurélia&lt;/strong&gt; reacted completely differently. She bloody loved it!
+She was not able to stop complimenting the concept of the blog in general and the choice of her pseudonyme in particular, up to the point 
+where it even became embarrassing… But this is classic &lt;strong&gt;Aurélia&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;The only teeny-tiny suggestion was to make the website title a teeny-tiny more comprehensive for the reader.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-title&quot;&gt;The title&lt;/h3&gt;
+
+&lt;p&gt;Point taken. I have to agree with &lt;strong&gt;Aurélia&lt;/strong&gt;, &lt;strong&gt;The Running Adventures of the Still Standing Muffin Man&lt;/strong&gt; is,
+ at first sight, pretty cryptic. Cryptic enough to motivate the writer to bring a little bit of clarity.&lt;/p&gt;
+
+&lt;h4 id=&quot;bringing-confusion&quot;&gt;Bringing confusion&lt;/h4&gt;
+
+&lt;p&gt;Let’s first analyze where the confusion is by splitting the title in four parts: 
+the &lt;strong&gt;Running Adventures&lt;/strong&gt;, the &lt;strong&gt;Still Standing&lt;/strong&gt;, the &lt;strong&gt;Muffin&lt;/strong&gt;, and the &lt;strong&gt;Man&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;the &lt;strong&gt;Running Adventures&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Since it is a blog dedicated to long distance running, starting with &lt;strong&gt;The Running&lt;/strong&gt; makes at least sense. 
+But is it really an &lt;strong&gt;adventure&lt;/strong&gt;? And even worse, &lt;strong&gt;adventures&lt;/strong&gt; in plural?&lt;/p&gt;
+
+    &lt;p&gt;Confusing the audience…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;the &lt;strong&gt;Still Standing&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;If the website is about running, then why mentioning &lt;strong&gt;still&lt;/strong&gt; or &lt;strong&gt;standing&lt;/strong&gt;?
+It simply defeats the purpose of running…&lt;/p&gt;
+
+    &lt;p&gt;Confusing further the audience…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;the &lt;strong&gt;Muffin&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;Does the writer like pastries in general and muffin in particular? 
+ Does the website is about gluten free vegan muffin recipes to enhance the long distance running performance? 
+ Or, in other words, did the writer discover the secret of a healthy gluten free vegan HPO-like product?&lt;/p&gt;
+
+    &lt;p&gt;Confusing even further the audience…&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;the &lt;strong&gt;Man&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;As mentioned in the Killer BaBa night, we are all aware that, in the Post Gender Area, it is not possible to determine 
+ the biological gender nor the emotional gender anymore.&lt;/p&gt;
+
+    &lt;p&gt;Overloading the audience of confusion…&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;bringing-clarity&quot;&gt;Bringing clarity&lt;/h4&gt;
+&lt;p&gt;Let’s now answer those questions! Actually, you just have to watch these three very short videos,
+ smash them together. And everything will then be crystal clear…&lt;/p&gt;
 
 &lt;iframe width=&quot;280&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/IFeUIJMwG4A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -116,9 +305,7 @@ The number in the green circles represent the distance runned in a day (in km ot
 
 &lt;iframe width=&quot;280&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/3taMwAEGBVc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;… and smash them all together in this very specific order!&lt;/p&gt;
-
-&lt;p&gt;Everything will then be completely clear (of course, figuratively speaking).&lt;/p&gt;
+&lt;p&gt;… (of course, figuratively speaking).&lt;/p&gt;
 </content>
 
 			
@@ -130,14 +317,23 @@ The number in the green circles represent the distance runned in a day (in km ot
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/story/2019/01/01/the-start-post.html</id>
+			<id>http://localhost:4000/running-adventures/story/the-start-post/</id>
 			<title>The Start a.k.a. The Killer BaBa night</title>
-			<link href="http://localhost:4000/story/2019/01/01/the-start-post.html" rel="alternate" type="text/html" title="The Start a.k.a. The Killer BaBa night" />
+			<link href="http://localhost:4000/running-adventures/story/the-start-post/" rel="alternate" type="text/html" title="The Start a.k.a. The Killer BaBa night" />
 			<updated>2019-01-01T00:00:00+00:00</updated>
 
 			
+				
+				<author>
+					
+						<name>muffin man</name>
+					
+					
+					
+				</author>
+			
 			<summary>The moment everything really started was not my first run, nor my first 10k without stopping, nor even my first half-marathon without blood in my mouth...</summary>
-			<content type="html" xml:base="http://localhost:4000/story/2019/01/01/the-start-post.html">&lt;h3 id=&quot;the-decor&quot;&gt;the decor&lt;/h3&gt;
+			<content type="html" xml:base="http://localhost:4000/running-adventures/story/the-start-post/">&lt;h3 id=&quot;the-decor&quot;&gt;The decor&lt;/h3&gt;
 
 &lt;p&gt;The moment everything really started was in Summer 2018 during a dinner at the terrace of a restaurant in 
 Nice - South of France at the terrace of a restaurant in the &lt;em&gt;Vieux Nice&lt;/em&gt;; with few friends, 
@@ -146,7 +342,7 @@ a lot of good food, a lot of good wine, and a lot of bad cigarettes (but please,
 &lt;p&gt;We were finishing our glasses of wine while waiting for the dessert. The dessert will reveal to be a huge 
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Rum_baba&quot;&gt;rum baba&lt;/a&gt;, with more rum than baba, and which will kill us all later (figuratively speaking…).&lt;/p&gt;
 
-&lt;h3 id=&quot;an-innocent-phrase&quot;&gt;an innocent phrase&lt;/h3&gt;
+&lt;h3 id=&quot;an-innocent-phrase&quot;&gt;An innocent phrase&lt;/h3&gt;
 
 &lt;p&gt;Waiting for the soon to be killer Baba, I told the table:&lt;/p&gt;
 
@@ -160,7 +356,7 @@ a lot of good food, a lot of good wine, and a lot of bad cigarettes (but please,
 
 &lt;p&gt;Rare are the moments where I do not want to speak, this moment was one of those… Having nothing to say, I decided to light a cigarette and wait for the storm to pass… But it did not.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-storm&quot;&gt;the storm&lt;/h3&gt;
+&lt;h3 id=&quot;the-storm&quot;&gt;The storm&lt;/h3&gt;
 
 &lt;p&gt;Between my first and second drag I discovered that:&lt;/p&gt;
 
@@ -179,7 +375,7 @@ a lot of good food, a lot of good wine, and a lot of bad cigarettes (but please,
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;the-trap&quot;&gt;the trap&lt;/h3&gt;
+&lt;h3 id=&quot;the-trap&quot;&gt;The trap&lt;/h3&gt;
 
 &lt;p&gt;OK guys, few comments:&lt;/p&gt;
 

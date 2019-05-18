@@ -3,17 +3,14 @@ layout: page-fullwidth
 
 
 header:
-    image_fullwidth: "../../../../images/header1.jpg"
+    image_fullwidth: "../../../../images/andrea-leopardi-1296436-unsplash_header.jpg"
 title: "Before The Start a.k.a. The Bear Beginning"
-teaser: "As mentioned in a previous post, I have begun to run before the Killer BaBa night. Since I am an emotional kind of guy, I will focus on the sensations I went through during this, pretty intense, transition period. "
+teaser: "As mentioned in a previous post, I have begun to run before the Killer BaBa night. Since I am an emotional kind of guy, I will focus on the sensations I went through during this, pretty intense, couch to 1k transition period."
 categories:
     - running
 ---
 
-
-As mentioned in a previous post, I have begun to run before the Killer BaBa night. 
-
-### a doubtful analogy
+### A doubtful analogy
 
 My first weeks of running could actually be resumed by a simple analogy: It is like **making love to a bear**... (figuratively speaking). 
 
@@ -32,7 +29,7 @@ Figuratively speaking, yes. But the side effects look pretty similar:
 
 I know that you all now expect from me to describe the good parts of **making love to a bear**... Unfortunately, it is time to stop the analogy. For obvious reasons...
 
-### a conclusion
+### A conclusion
 
 It is fun enough to keep to do it ;-)
 

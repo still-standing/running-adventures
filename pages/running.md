@@ -1,9 +1,9 @@
 ---
 layout: page
 show_meta: false
-title: "Running"
+title: "The Running  \b a.k.a. The Running"
 header:
-   image_fullwidth: "../images/header1.jpg"
+   image_fullwidth: "../images/andrea-leopardi-1296436-unsplash_header.jpg"
 permalink: "/running/"
 ---
 <ul>

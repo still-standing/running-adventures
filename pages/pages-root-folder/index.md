@@ -5,18 +5,17 @@
 # this work, you have to use › layout: frontpage
 
 layout: frontpage
-header:
-  image_fullwidth: images/header1.jpg
+
 widget1:
   title: "The running"
   url: '/running/'
-  image: images/wolf.png
+  image: images/andrea-leopardi-1296436-unsplash_header_small.jpg
   text: 'This section is all about a journey in the long distance running world.'
 widget2:
   title: "The standing"
-  image: images/turtle.png
+  image: images/austris-augusts-140145-unsplash_small.jpg
   url: '/races/'
-  text: 'Running for fun is pretty cool but it can be made even more interesting.
+  text: 'Running for fun is pretty cool, but it can be made even more interesting...
   Training for a race, 
   standing in front of the starting line waiting for the race to start, 
   run like crazy, and crossing the finish line, is even better.  
@@ -24,7 +23,7 @@ widget2:
 widget3:
   title: "And the muffin"
   url: '/story/'
-  image: images/feast.jpg
+  image: images/chang-duong-398144-unsplash_small.jpg
   text: 'How to make it even more interesting? 
   Being surrounded by a band of good friends! Or better said, a real dream team!
   This section is all about the unfiltered story behind the scene of the dream team and the muffin.'

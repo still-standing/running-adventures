@@ -1,14 +1,24 @@
 ---
 layout: page-fullwidth
 header:
-    image_fullwidth: "./../../../images/header1.jpg"
-title: "I Love It When A Plan Comes Together a.k.a. Training Plan"
-teaser: ""
+    image_fullwidth: "./../../../images/andrea-leopardi-1296436-unsplash_header.jpg"
+title: "I Love It When A Plan Comes Together <br/>
+a.k.a. Training Plan"
+teaser: "After few month month of running for the sake of it, it was time to look at how a runner train to maximize its potential.  
+"
 categories:
     - running
 ---
+After running two half-marathons races and having registered for a trail and a full marathon, 
+a proper training plan was somehow required. Why having a training plan? Simply to run **smart**. 
 
+Their is a lot of information on the web and in the bookshops... But, after doing some filtering,
+I ended up with with 5 YouTube videos be watched, few YouTube channels to follow for fun, and two books.
+It is of course a very personal choice and I am sure that missed a lot of good stuff.
+  
 ### 4 types of training 
+In these for YouTube videos, [Jack Daniels PhD](https://en.wikipedia.org/wiki/Jack_Daniels_(coach)), explains the different types of training. 
+I know what you think, but no, the man speaking in these videos is not involved the distillation of whisky.
 
 1- Easy Run
 
@@ -28,17 +38,26 @@ categories:
 
 <iframe width="480" height="300" src="https://www.youtube.com/embed/BGQKlSU4HQM" frameborder="0" allowfullscreen></iframe>
 
-### about the pace
+
+### About the pace
 
 <a href="https://runsmartproject.com/calculator/">
 <img src="../../../../images/daniels-vdot-logo.png" alt="">
 </a>
 
-For example, to prepare for a 1h45 half-marathon, the recommanded paces for the different types of training are:
+For example, to prepare for a 1h45 half-marathon, the recommended paces for the different types of training are:
 
 <img src="../../../../images/daniels-paces-1h45-half.png" alt="">
 
-### Few Youtube channels
+
+### Closing the loop
+
+While the Jack Daniels's videos are, in principle, enough. I found the following one-hour long video very useful too:
+
+<iframe width="480" height="300" src="https://www.youtube.com/embed/pqo5AbcELFM" frameborder="0" allowfullscreen></iframe>
+
+
+### Few YouTube channels
 
 
 * <a href="https://www.youtube.com/user/runsmartproject">The Run Smart Project
@@ -58,3 +77,13 @@ For example, to prepare for a 1h45 half-marathon, the recommanded paces for the 
 * <a href="https://www.youtube.com/user/TREtherunexperience">The Run Experience
 <img src="../../../../images/run_experience-logo.jpg" alt="">
 </a>
+
+### A little bit of reading
+
+<img src="../../../../images/running_formula.jpg" alt=""  href="https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&qid=1558174667&s=gateway&sr=8-1">
+
+<img src="../../../../images/advanced_marathoning.jpg" alt=""  href="https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&qid=1558174711&s=gateway&sr=8-4">
+
+
+
+

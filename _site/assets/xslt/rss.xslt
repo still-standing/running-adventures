@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/running-adventures/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/running-adventures/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -31,30 +31,30 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="">
+	<meta name="description" content="A journey in the world of long distance running">
 	
 	
 	
 	
 	
 	
-	<link rel="canonical" href="http://localhost:4000/assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000/running-adventures/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="">
-	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
+	<meta property="og:description" content="A journey in the world of long distance running">
+	<meta property="og:url" content="http://localhost:4000/running-adventures/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="">
+	<meta property="og:site_name" content="The Running Adventures of the Still Standing Muffin Man">
 	
 	
 
 
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/running-adventures/humans.txt">
 
 	
 
@@ -96,7 +96,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> </a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/running-adventures" class="icon-tree"> The Running Adventures of the Still Standing Muffin Man</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -134,25 +134,6 @@
 
           
           
-            
-            
-
-              <li class="divider"></li>
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/blog/">Blog</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
-                    
-                  </ul>
-
-              </li>
-            
-          
         
         
       </ul>
@@ -167,7 +148,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/">Home</a></li>
+              <li><a  href="http://localhost:4000/running-adventures/">home</a></li>
               <li class="divider"></li>
 
             
@@ -182,7 +163,33 @@
 
             
             
-              <li><a  href="http://localhost:4000/running/">running</a></li>
+
+              <li class="has-dropdown">
+                <a  href="http://localhost:4000/running-adventures/blog/">Blog</a>
+
+                  <ul class="dropdown">
+                    
+
+                      
+
+                      <li><a  href="http://localhost:4000/running-adventures/blog/archive/">Blog Archive</a></li>
+                    
+                  </ul>
+
+              </li>
+              <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/running-adventures/running/">running</a></li>
               <li class="divider"></li>
 
             
@@ -197,7 +204,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/races/">Races</a></li>
+              <li><a  href="http://localhost:4000/running-adventures/races/">Races</a></li>
               <li class="divider"></li>
 
             
@@ -212,17 +219,11 @@
 
             
             
-              <li><a  href="http://localhost:4000/story/">Story Behind The Scene</a></li>
+              <li><a  href="http://localhost:4000/running-adventures/story/">Story Behind The Scene</a></li>
               <li class="divider"></li>
 
             
             
-          
-        
-
-              
-
-          
           
         
         
@@ -236,8 +237,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title=" – ">
-				<img src="http://localhost:4000/assets/img/" alt=" – ">
+			<a id="logo" href="http://localhost:4000/running-adventures/" title="The Running Adventures of the Still Standing Muffin Man – ">
+				<img src="http://localhost:4000/running-adventures/assets/img/logo.png" alt="The Running Adventures of the Still Standing Muffin Man – ">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -314,8 +315,8 @@
             <!--<h5 class="shadow-black">About This Site</h5>-->
 
             <!--<p class="shadow-black">-->
-              <!---->
-              <!--<a href="http://localhost:4000/info/">More ›</a>-->
+              <!--A journey in the world of long distance running-->
+              <!--<a href="http://localhost:4000/running-adventures/info/">More ›</a>-->
             <!--</p>-->
           <!--</div>&lt;!&ndash; /.large-6.columns &ndash;&gt;-->
 
@@ -339,27 +340,27 @@
               <!---->
                 <!---->
                   <!--<li >-->
-                    <!--<a href="http://localhost:4000"  title=""></a>-->
+                    <!--<a href="http://localhost:4000/running-adventures"  title=""></a>-->
                   <!--</li>-->
               <!---->
                 <!---->
                   <!--<li >-->
-                    <!--<a href="http://localhost:4000/contact/"  title="Contact">Contact</a>-->
+                    <!--<a href="http://localhost:4000/running-adventures/contact/"  title="Contact">Contact</a>-->
                   <!--</li>-->
               <!---->
                 <!---->
                   <!--<li >-->
-                    <!--<a href="http://localhost:4000/feed.xml"  title="Subscribe to RSS Feed">RSS</a>-->
+                    <!--<a href="http://localhost:4000/running-adventures/feed.xml"  title="Subscribe to RSS Feed">RSS</a>-->
                   <!--</li>-->
               <!---->
                 <!---->
                   <!--<li >-->
-                    <!--<a href="http://localhost:4000/atom.xml"  title="Subscribe to Atom Feed">Atom</a>-->
+                    <!--<a href="http://localhost:4000/running-adventures/atom.xml"  title="Subscribe to Atom Feed">Atom</a>-->
                   <!--</li>-->
               <!---->
                 <!---->
                   <!--<li >-->
-                    <!--<a href="http://localhost:4000/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>-->
+                    <!--<a href="http://localhost:4000/running-adventures/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>-->
                   <!--</li>-->
               <!---->
               <!--</ul>-->
@@ -385,7 +386,7 @@
             <!---->
               <!---->
                 <!--<li >-->
-                  <!--<a href="http://localhost:4000"  title=""></a>-->
+                  <!--<a href="http://localhost:4000/running-adventures"  title=""></a>-->
                 <!--</li>-->
             <!---->
               <!---->
@@ -443,7 +444,7 @@
 		
 
 
-<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/running-adventures/assets/js/javascript.min.js"></script>
 
 
 

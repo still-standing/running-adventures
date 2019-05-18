@@ -1,14 +1,14 @@
 ---
 layout: page-fullwidth
 header:
-    image_fullwidth: "../../../../images/feast_large.png"
+    image_fullwidth: "../../../../images/chang-duong-398144-unsplash_header.jpg"
 title: "The Start a.k.a. The Killer BaBa night"
 teaser: "The moment everything really started was not my first run, nor my first 10k without stopping, nor even my first half-marathon without blood in my mouth..."
 categories:
     - story
 ---
 
-### the decor 
+### The decor 
 
 
 The moment everything really started was in Summer 2018 during a dinner at the terrace of a restaurant in 
@@ -18,7 +18,7 @@ a lot of good food, a lot of good wine, and a lot of bad cigarettes (but please,
 We were finishing our glasses of wine while waiting for the dessert. The dessert will reveal to be a huge 
 [rum baba](https://en.wikipedia.org/wiki/Rum_baba), with more rum than baba, and which will kill us all later (figuratively speaking...).
 
-### an innocent phrase
+### An innocent phrase
 
 Waiting for the soon to be killer Baba, I told the table: 
 
@@ -30,7 +30,7 @@ Waiting for the soon to be killer Baba, I told the table:
 
 Rare are the moments where I do not want to speak, this moment was one of those... Having nothing to say, I decided to light a cigarette and wait for the storm to pass... But it did not. 
 
-### the storm
+### The storm
 
 Between my first and second drag I discovered that:
 
@@ -42,7 +42,7 @@ Between my first and second drag I discovered that:
 
 * '**[Aurelia](https://en.wikipedia.org/wiki/Aurelia_Cotta)**' runs the marathon under 3h quote "easy" unquote!
 
-### the trap 
+### The trap 
 
 OK guys, few comments:
 

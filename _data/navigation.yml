@@ -1,6 +1,13 @@
-- title: "Home"
+- title: "home"
   url: "/"
   side: left
+
+- title: "Blog"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
 
 - title: "running"
   url: "/running/"
@@ -14,9 +21,3 @@
   url: "/story/"
   side: left
 
-- title: "Blog"
-  url: "/blog/"
-  side: right
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
