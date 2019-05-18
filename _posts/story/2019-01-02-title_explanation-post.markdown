@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header:
-    image_fullwidth: "../../../../images/chang-duong-398144-unsplash_header.jpg"
+    image_fullwidth: ../../images/chang-duong-398144-unsplash_header.jpg
 title: "Title and pseudonymes Explanation a.k.a. Crystal Clear"
 teaser: "You may have wondered what logical steps were followed to come up with this site title..."
 categories:
@@ -66,17 +66,10 @@ the **Running Adventures**, the **Still Standing**, the **Muffin**, and the **Ma
  
 #### Bringing clarity
 Let's now answer those questions! Actually, you just have to watch these three very short videos,
- smash them together. And everything will then be crystal clear...
+ smash them all together in this very specific order ... and everything will then be crystal clear...
 
 
-<iframe width="280" height="300" src="https://www.youtube.com/embed/IFeUIJMwG4A" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe width="280" height="300" src="https://www.youtube.com/embed/NgzRea-9TuI" frameborder="0"  allowfullscreen></iframe>
-
-
-
-<iframe width="280" height="300" src="https://www.youtube.com/embed/3taMwAEGBVc" frameborder="0" allowfullscreen></iframe>
+{% include title-explanation.html %}
 
 
 
