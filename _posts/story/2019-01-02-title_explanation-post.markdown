@@ -58,15 +58,15 @@ the **Running Adventures**, the **Still Standing**, the **Muffin**, and the **Ma
 
 4. the **Man**
 
-   As mentioned in the Killer BaBa night, we are all aware that, in the Post Gender Area, it is not possible to determine 
-    the biological gender nor the emotional gender anymore. 
+   As mentioned in the Killer BaBa night, we are now in the Post Gender Area. It is then not possible to determine 
+    the biological gender nor the emotional gender. 
     
     Overloading the audience of confusion...
 
  
 #### Bringing clarity
 Let's now answer those questions! Actually, you just have to watch these three very short videos,
- smash them all together in this very specific order ... and everything will then be crystal clear...
+ smash them together and everything will become crystal clear...
 
 
 {% include title-explanation.html %}
