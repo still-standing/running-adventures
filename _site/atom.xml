@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/running-adventures/</id>
 	<title>The Running Adventures of the Still Standing Muffin Man</title>
-	<updated>2019-05-18T12:07:59+01:00</updated>
+	<updated>2019-05-18T12:53:29+01:00</updated>
 
 	<subtitle>A journey in the world of long distance running</subtitle>
 
@@ -72,12 +72,12 @@ I know what you think, but no, the man speaking in these videos is not involved 
 &lt;h3 id=&quot;about-the-pace&quot;&gt;About the pace&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://runsmartproject.com/calculator/&quot;&gt;
-&lt;img src=&quot;../../../../images/daniels-vdot-logo.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../../images/daniels-vdot-logo.png&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;For example, to prepare for a 1h45 half-marathon, the recommended paces for the different types of training are:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../../../../images/daniels-paces-1h45-half.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../../images/daniels-paces-1h45-half.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;closing-the-loop&quot;&gt;Closing the loop&lt;/h3&gt;
 
@@ -90,31 +90,29 @@ I know what you think, but no, the man speaking in these videos is not involved 
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/runsmartproject&quot;&gt;The Run Smart Project
-&lt;img src=&quot;../../../../images/run_smart_project-logo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../../images/run_smart_project-logo.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/Vo2maxProductions&quot;&gt;Vo2maxProductions 
-&lt;img src=&quot;../../../../images/vo2max_productions-logo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../../images/vo2max_productions-logo.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/RunningWild2Believe&quot;&gt;Running Wild
-&lt;img src=&quot;../../../../images/running_wild-logo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../../images/running_wild-logo.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/TREtherunexperience&quot;&gt;The Run Experience
-&lt;img src=&quot;../../../../images/run_experience-logo.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../../images/run_experience-logo.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;a-little-bit-of-reading&quot;&gt;A little bit of reading&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;../../../../images/running_formula.jpg&quot; alt=&quot;&quot; href=&quot;https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&amp;amp;qid=1558174667&amp;amp;s=gateway&amp;amp;sr=8-1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../../../images/advanced_marathoning.jpg&quot; alt=&quot;&quot; href=&quot;https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&amp;amp;qid=1558174711&amp;amp;s=gateway&amp;amp;sr=8-4&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&amp;amp;qid=1558174667&amp;amp;s=gateway&amp;amp;sr=8-1&quot;&gt; &lt;img src=&quot;../../images/running_formula.jpg&quot; /&gt; &lt;a href=&quot;https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&amp;amp;qid=1558174711&amp;amp;s=gateway&amp;amp;sr=8-4&quot;&gt;&lt;img src=&quot;../../images/advanced_marathoning.jpg&quot; /&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
 

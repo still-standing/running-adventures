@@ -42,12 +42,12 @@ I know what you think, but no, the man speaking in these videos is not involved 
 ### About the pace
 
 <a href="https://runsmartproject.com/calculator/">
-<img src="../../../../images/daniels-vdot-logo.png" alt="">
+<img src="../../images/daniels-vdot-logo.png" alt="">
 </a>
 
 For example, to prepare for a 1h45 half-marathon, the recommended paces for the different types of training are:
 
-<img src="../../../../images/daniels-paces-1h45-half.png" alt="">
+<img src="../../images/daniels-paces-1h45-half.png" alt="">
 
 
 ### Closing the loop
@@ -61,28 +61,27 @@ While the Jack Daniels's videos are, in principle, enough. I found the following
 
 
 * <a href="https://www.youtube.com/user/runsmartproject">The Run Smart Project
-<img src="../../../../images/run_smart_project-logo.jpg" alt="">
+<img src="../../images/run_smart_project-logo.jpg" alt="">
 </a>
 
 
 * <a href="https://www.youtube.com/user/Vo2maxProductions">Vo2maxProductions 
-<img src="../../../../images/vo2max_productions-logo.jpg" alt="">
+<img src="../../images/vo2max_productions-logo.jpg" alt="">
 </a>
 
 * <a href="https://www.youtube.com/user/RunningWild2Believe">Running Wild
-<img src="../../../../images/running_wild-logo.jpg" alt="">
+<img src="../../images/running_wild-logo.jpg" alt="">
 </a>
 
 
 * <a href="https://www.youtube.com/user/TREtherunexperience">The Run Experience
-<img src="../../../../images/run_experience-logo.jpg" alt="">
+<img src="../../images/run_experience-logo.jpg" alt="">
 </a>
+
 
 ### A little bit of reading
 
-<img src="../../../../images/running_formula.jpg" alt=""  href="https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&qid=1558174667&s=gateway&sr=8-1">
-
-<img src="../../../../images/advanced_marathoning.jpg" alt=""  href="https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&qid=1558174711&s=gateway&sr=8-4">
+<a href="https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&qid=1558174667&s=gateway&sr=8-1"> <img src="../../images/running_formula.jpg" > <a href="https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&qid=1558174711&s=gateway&sr=8-4"><img src="../../images/advanced_marathoning.jpg" ></a>
 
 
 
