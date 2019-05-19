@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14c3687d-1bd2-4598-a6a0-1bb45ea433e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/running/2019-01-03-before-the-start-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/running/2019-01-03-before-the-start-post.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/archive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/humans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/running/before-the-start-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/running/before-the-start-post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/running/training-plan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/running/training-plan/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/story/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/story/the-start-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/the-start-post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/story/title_explanation-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/title_explanation-post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +33,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="69">
-                <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <first_editor relative-caret-position="920">
+                <caret line="40" column="125" selection-start-line="40" selection-start-column="125" selection-end-line="40" selection-end-column="125" />
               </first_editor>
               <second_editor />
             </state>
@@ -28,7 +45,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
+              <first_editor relative-caret-position="369">
                 <caret line="62" column="4" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
               </first_editor>
               <second_editor />
@@ -37,28 +54,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/title-explanation.html">
+        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="12" />
+            <state relative-caret-position="276">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/story/index.html">
+        <entry file="file://$PROJECT_DIR$/blog/archive.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10557">
-              <caret line="464" selection-start-line="464" selection-end-line="464" />
+            <state relative-caret-position="138">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/assets/css/styles_feeling_responsive.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36455">
-              <caret line="1585" column="9" selection-start-line="1585" selection-start-column="9" selection-end-line="1585" selection-end-column="9" />
+        <entry file="file://$PROJECT_DIR$/pages/races.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="207">
+                <caret line="9" column="34" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="34" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -97,8 +117,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-03-before-the-start-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="161">
-                <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <first_editor relative-caret-position="598">
+                <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -109,8 +129,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="88">
-                <caret line="4" selection-start-line="2" selection-end-line="4" />
+              <first_editor relative-caret-position="138">
+                <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -121,14 +141,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Lorem ipsum dolor sit amet</find>
-      <find>allery-example-3-thumb.jpg</find>
-      <find>lorem</find>
-      <find>This is an advertisment with a crazy cat</find>
-      <find>gallery-example-3-thumb.jpg</find>
-      <find>advertisment</find>
-      <find>/feeling-responsive/blog/</find>
-      <find>/feeling-responsive/</find>
       <find>/feeling-responsive</find>
       <find>feeling-responsive</find>
       <find>feeling</find>
@@ -151,6 +163,14 @@
       <find>334</find>
       <find>#334D5C</find>
       <find>youtu</find>
+      <find>Tabatha</find>
+      <find>month month</find>
+      <find>pseudonymes</find>
+      <find>killer</find>
+      <find>Tabitha</find>
+      <find>-post</find>
+      <find>game</find>
+      <find>baseurl</find>
     </findStrings>
     <replaceStrings>
       <replace>The Running Adventures of the Still Standing Muffin Man</replace>
@@ -159,6 +179,7 @@
       <replace>/</replace>
       <replace />
       <replace>feast</replace>
+      <replace>aliases</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -190,7 +211,6 @@
         <option value="$PROJECT_DIR$/_site/assets/xslt/atom.xslt" />
         <option value="$PROJECT_DIR$/_site/assets/xslt/rss.xslt" />
         <option value="$PROJECT_DIR$/_site/story/index.html" />
-        <option value="$PROJECT_DIR$/_site/atom.xml" />
         <option value="$PROJECT_DIR$/_posts/story/2019-02-01-the-start-post.markdown" />
         <option value="$PROJECT_DIR$/_posts/story/2019-01-03-title_explanation-post.markdown" />
         <option value="$PROJECT_DIR$/pages/races.md" />
@@ -205,15 +225,16 @@
         <option value="$PROJECT_DIR$/_site/assets/css/styles_feeling_responsive.css" />
         <option value="$PROJECT_DIR$/_sass/_01_settings_colors.scss" />
         <option value="$PROJECT_DIR$/pages/pages-root-folder/index.md" />
-        <option value="$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown" />
         <option value="$PROJECT_DIR$/_posts/running/2019-01-03-before-the-start-post.markdown" />
+        <option value="$PROJECT_DIR$/_site/atom.xml" />
         <option value="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" />
+        <option value="$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown" />
         <option value="$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
+    <option name="x" value="-464" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="976" />
@@ -233,6 +254,11 @@
             <path>
               <item name="running_adventures" type="b2602c69:ProjectViewProjectNode" />
               <item name="running_adventures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="running_adventures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="running_adventures" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="running_adventures" type="b2602c69:ProjectViewProjectNode" />
@@ -261,6 +287,11 @@
               <item name="running_adventures" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
               <item name="story" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="running_adventures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="running_adventures" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="running_adventures" type="b2602c69:ProjectViewProjectNode" />
@@ -373,10 +404,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="23" width="1680" height="976" extended-state="0" />
+    <frame x="-464" y="23" width="1680" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23321123" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23565324" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -419,7 +450,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pages/design.md" />
     <entry file="file://$PROJECT_DIR$/pages/blog.md" />
     <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/getting-started.md" />
     <entry file="file://$PROJECT_DIR$/pages/contact.md" />
@@ -466,193 +496,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="218" column="19" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/atom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="188" column="16" selection-start-line="188" selection-start-column="16" selection-end-line="188" selection-end-column="16" />
-          <folding>
-            <element signature="e#1945#1949#0" expanded="true" />
-            <element signature="e#1950#1954#0" expanded="true" />
-            <element signature="e#2036#2040#0" expanded="true" />
-            <element signature="e#2042#2046#0" expanded="true" />
-            <element signature="e#2048#2052#0" expanded="true" />
-            <element signature="e#2053#2057#0" expanded="true" />
-            <element signature="e#2142#2146#0" expanded="true" />
-            <element signature="e#2152#2156#0" expanded="true" />
-            <element signature="e#2177#2181#0" expanded="true" />
-            <element signature="e#2188#2192#0" expanded="true" />
-            <element signature="e#2229#2233#0" expanded="true" />
-            <element signature="e#2235#2239#0" expanded="true" />
-            <element signature="e#2241#2245#0" expanded="true" />
-            <element signature="e#2246#2250#0" expanded="true" />
-            <element signature="e#2319#2323#0" expanded="true" />
-            <element signature="e#2325#2329#0" expanded="true" />
-            <element signature="e#2331#2335#0" expanded="true" />
-            <element signature="e#2337#2341#0" expanded="true" />
-            <element signature="e#2344#2348#0" expanded="true" />
-            <element signature="e#2350#2354#0" expanded="true" />
-            <element signature="e#2417#2421#0" expanded="true" />
-            <element signature="e#2427#2431#0" expanded="true" />
-            <element signature="e#2452#2456#0" expanded="true" />
-            <element signature="e#2463#2467#0" expanded="true" />
-            <element signature="e#2522#2526#0" expanded="true" />
-            <element signature="e#2528#2532#0" expanded="true" />
-            <element signature="e#2539#2543#0" expanded="true" />
-            <element signature="e#2545#2549#0" expanded="true" />
-            <element signature="e#2650#2654#0" expanded="true" />
-            <element signature="e#2657#2661#0" expanded="true" />
-            <element signature="e#2666#2670#0" expanded="true" />
-            <element signature="e#2673#2677#0" expanded="true" />
-            <element signature="e#2680#2684#0" expanded="true" />
-            <element signature="e#2687#2691#0" expanded="true" />
-            <element signature="e#2694#2698#0" expanded="true" />
-            <element signature="e#2700#2704#0" expanded="true" />
-            <element signature="e#2769#2773#0" expanded="true" />
-            <element signature="e#2779#2783#0" expanded="true" />
-            <element signature="e#2804#2808#0" expanded="true" />
-            <element signature="e#2815#2819#0" expanded="true" />
-            <element signature="e#2965#2969#0" expanded="true" />
-            <element signature="e#2971#2975#0" expanded="true" />
-            <element signature="e#2982#2986#0" expanded="true" />
-            <element signature="e#2988#2992#0" expanded="true" />
-            <element signature="e#3132#3136#0" expanded="true" />
-            <element signature="e#3139#3143#0" expanded="true" />
-            <element signature="e#3148#3152#0" expanded="true" />
-            <element signature="e#3155#3159#0" expanded="true" />
-            <element signature="e#3162#3166#0" expanded="true" />
-            <element signature="e#3169#3173#0" expanded="true" />
-            <element signature="e#3176#3180#0" expanded="true" />
-            <element signature="e#3182#3186#0" expanded="true" />
-            <element signature="e#3278#3282#0" expanded="true" />
-            <element signature="e#3288#3292#0" expanded="true" />
-            <element signature="e#3313#3317#0" expanded="true" />
-            <element signature="e#3324#3328#0" expanded="true" />
-            <element signature="e#3429#3433#0" expanded="true" />
-            <element signature="e#3435#3439#0" expanded="true" />
-            <element signature="e#3446#3450#0" expanded="true" />
-            <element signature="e#3452#3456#0" expanded="true" />
-            <element signature="e#3688#3692#0" expanded="true" />
-            <element signature="e#3695#3699#0" expanded="true" />
-            <element signature="e#3704#3708#0" expanded="true" />
-            <element signature="e#3711#3715#0" expanded="true" />
-            <element signature="e#3718#3722#0" expanded="true" />
-            <element signature="e#3725#3729#0" expanded="true" />
-            <element signature="e#3732#3736#0" expanded="true" />
-            <element signature="e#3738#3742#0" expanded="true" />
-            <element signature="e#3801#3805#0" expanded="true" />
-            <element signature="e#3811#3815#0" expanded="true" />
-            <element signature="e#3836#3840#0" expanded="true" />
-            <element signature="e#3847#3851#0" expanded="true" />
-            <element signature="e#3927#3931#0" expanded="true" />
-            <element signature="e#3933#3937#0" expanded="true" />
-            <element signature="e#3944#3948#0" expanded="true" />
-            <element signature="e#3950#3954#0" expanded="true" />
-            <element signature="e#4074#4078#0" expanded="true" />
-            <element signature="e#4081#4085#0" expanded="true" />
-            <element signature="e#4090#4094#0" expanded="true" />
-            <element signature="e#4097#4101#0" expanded="true" />
-            <element signature="e#4104#4108#0" expanded="true" />
-            <element signature="e#4111#4115#0" expanded="true" />
-            <element signature="e#4116#4120#0" expanded="true" />
-            <element signature="e#4123#4127#0" expanded="true" />
-            <element signature="e#4129#4133#0" expanded="true" />
-            <element signature="e#4134#4138#0" expanded="true" />
-            <element signature="e#4207#4211#0" expanded="true" />
-            <element signature="e#4217#4221#0" expanded="true" />
-            <element signature="e#4242#4246#0" expanded="true" />
-            <element signature="e#4253#4257#0" expanded="true" />
-            <element signature="e#4326#4330#0" expanded="true" />
-            <element signature="e#4332#4336#0" expanded="true" />
-            <element signature="e#4338#4342#0" expanded="true" />
-            <element signature="e#4343#4347#0" expanded="true" />
-            <element signature="e#4399#4403#0" expanded="true" />
-            <element signature="e#4405#4409#0" expanded="true" />
-            <element signature="e#4411#4415#0" expanded="true" />
-            <element signature="e#4421#4427#0" expanded="true" />
-            <element signature="e#4435#4441#0" expanded="true" />
-            <element signature="e#4441#4445#0" expanded="true" />
-            <element signature="e#4453#4457#0" expanded="true" />
-            <element signature="e#4460#4464#0" expanded="true" />
-            <element signature="e#4466#4470#0" expanded="true" />
-            <element signature="e#4472#4476#0" expanded="true" />
-            <element signature="e#4479#4483#0" expanded="true" />
-            <element signature="e#4485#4489#0" expanded="true" />
-            <element signature="e#4494#4498#0" expanded="true" />
-            <element signature="e#4499#4503#0" expanded="true" />
-            <element signature="e#4524#4528#0" expanded="true" />
-            <element signature="e#4534#4538#0" expanded="true" />
-            <element signature="e#4553#4557#0" expanded="true" />
-            <element signature="e#4564#4568#0" expanded="true" />
-            <element signature="e#4682#4686#0" expanded="true" />
-            <element signature="e#4688#4692#0" expanded="true" />
-            <element signature="e#4695#4699#0" expanded="true" />
-            <element signature="e#4702#4706#0" expanded="true" />
-            <element signature="e#4709#4713#0" expanded="true" />
-            <element signature="e#4715#4719#0" expanded="true" />
-            <element signature="e#4724#4728#0" expanded="true" />
-            <element signature="e#4729#4733#0" expanded="true" />
-            <element signature="e#4774#4778#0" expanded="true" />
-            <element signature="e#4784#4788#0" expanded="true" />
-            <element signature="e#4802#4806#0" expanded="true" />
-            <element signature="e#4813#4817#0" expanded="true" />
-            <element signature="e#4818#4822#0" expanded="true" />
-            <element signature="e#4824#4828#0" expanded="true" />
-            <element signature="e#4831#4835#0" expanded="true" />
-            <element signature="e#4838#4842#0" expanded="true" />
-            <element signature="e#4843#4847#0" expanded="true" />
-            <element signature="e#4850#4854#0" expanded="true" />
-            <element signature="e#5768#5772#0" expanded="true" />
-            <element signature="e#5778#5784#0" expanded="true" />
-            <element signature="e#5793#5799#0" expanded="true" />
-            <element signature="e#5799#5803#0" expanded="true" />
-            <element signature="e#5812#5816#0" expanded="true" />
-            <element signature="e#5819#5823#0" expanded="true" />
-            <element signature="e#5825#5829#0" expanded="true" />
-            <element signature="e#5830#5834#0" expanded="true" />
-            <element signature="e#6002#6006#0" expanded="true" />
-            <element signature="e#6008#6012#0" expanded="true" />
-            <element signature="e#6022#6026#0" expanded="true" />
-            <element signature="e#6029#6033#0" expanded="true" />
-            <element signature="e#6160#6164#0" expanded="true" />
-            <element signature="e#6166#6170#0" expanded="true" />
-            <element signature="e#6172#6176#0" expanded="true" />
-            <element signature="e#6177#6181#0" expanded="true" />
-            <element signature="e#6288#6292#0" expanded="true" />
-            <element signature="e#6299#6305#0" expanded="true" />
-            <element signature="e#6343#6349#0" expanded="true" />
-            <element signature="e#6349#6353#0" expanded="true" />
-            <element signature="e#6361#6365#0" expanded="true" />
-            <element signature="e#6367#6371#0" expanded="true" />
-            <element signature="e#6456#6460#0" expanded="true" />
-            <element signature="e#6462#6466#0" expanded="true" />
-            <element signature="e#6468#6472#0" expanded="true" />
-            <element signature="e#6478#6484#0" expanded="true" />
-            <element signature="e#6502#6508#0" expanded="true" />
-            <element signature="e#6508#6512#0" expanded="true" />
-            <element signature="e#6530#6534#0" expanded="true" />
-            <element signature="e#6537#6541#0" expanded="true" />
-            <element signature="e#6543#6547#0" expanded="true" />
-            <element signature="e#6548#6552#0" expanded="true" />
-            <element signature="e#6609#6613#0" expanded="true" />
-            <element signature="e#6615#6619#0" expanded="true" />
-            <element signature="e#6621#6625#0" expanded="true" />
-            <element signature="e#6626#6630#0" expanded="true" />
-            <element signature="e#6649#6653#0" expanded="true" />
-            <element signature="e#6659#6663#0" expanded="true" />
-            <element signature="e#6730#6734#0" expanded="true" />
-            <element signature="e#6741#6745#0" expanded="true" />
-            <element signature="e#6776#6780#0" expanded="true" />
-            <element signature="e#6782#6786#0" expanded="true" />
-            <element signature="e#6788#6792#0" expanded="true" />
-            <element signature="e#6793#6797#0" expanded="true" />
-            <element signature="e#6798#6802#0" expanded="true" />
-            <element signature="e#6808#6812#0" expanded="true" />
-            <element signature="e#6819#6823#0" expanded="true" />
-            <element signature="e#6830#6834#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,16 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/races.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -737,13 +570,6 @@
     <entry file="file://$PROJECT_DIR$/pages/getting-started.md" />
     <entry file="file://$PROJECT_DIR$/pages/roadmap.md" />
     <entry file="file://$PROJECT_DIR$/pages/info.md" />
-    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -757,9 +583,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/title-explanation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_site/story/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10557">
+        <state relative-caret-position="10672">
           <caret line="464" selection-start-line="464" selection-end-line="464" />
         </state>
       </provider>
@@ -795,38 +628,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/title-explanation.html">
+    <entry file="file://$PROJECT_DIR$/_site/atom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" selection-start-line="2" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="402">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#1585#1589#0" expanded="true" />
+            <element signature="e#1590#1594#0" expanded="true" />
+            <element signature="e#1776#1780#0" expanded="true" />
+            <element signature="e#1786#1790#0" expanded="true" />
+            <element signature="e#1795#1799#0" expanded="true" />
+            <element signature="e#1806#1810#0" expanded="true" />
+            <element signature="e#1811#1815#0" expanded="true" />
+            <element signature="e#1817#1821#0" expanded="true" />
+            <element signature="e#1823#1827#0" expanded="true" />
+            <element signature="e#1828#1832#0" expanded="true" />
+            <element signature="e#2118#2122#0" expanded="true" />
+            <element signature="e#2124#2128#0" expanded="true" />
+            <element signature="e#2130#2134#0" expanded="true" />
+            <element signature="e#2140#2146#0" expanded="true" />
+            <element signature="e#2165#2171#0" expanded="true" />
+            <element signature="e#2171#2175#0" expanded="true" />
+            <element signature="e#2194#2198#0" expanded="true" />
+            <element signature="e#2201#2205#0" expanded="true" />
+            <element signature="e#2206#2210#0" expanded="true" />
+            <element signature="e#2211#2215#0" expanded="true" />
+            <element signature="e#2244#2248#0" expanded="true" />
+            <element signature="e#2255#2261#0" expanded="true" />
+            <element signature="e#2311#2317#0" expanded="true" />
+            <element signature="e#2317#2321#0" expanded="true" />
+            <element signature="e#2337#2341#0" expanded="true" />
+            <element signature="e#2343#2347#0" expanded="true" />
+            <element signature="e#3176#3180#0" expanded="true" />
+            <element signature="e#4116#4120#0" expanded="true" />
+            <element signature="e#4494#4498#0" expanded="true" />
+            <element signature="e#4843#4847#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-03-before-the-start-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="161">
-            <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <first_editor relative-caret-position="598">
+            <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/races.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="34" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <first_editor relative-caret-position="920">
+            <caret line="40" column="125" selection-start-line="40" selection-start-column="125" selection-end-line="40" selection-end-column="125" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
           </first_editor>
           <second_editor />
         </state>
@@ -835,7 +724,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
+          <first_editor relative-caret-position="369">
             <caret line="62" column="4" lean-forward="true" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
           </first_editor>
           <second_editor />

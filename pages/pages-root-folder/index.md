@@ -7,26 +7,26 @@
 layout: frontpage
 
 widget1:
-  title: "The running"
+  title: "The Running"
   url: '/running/'
   image: images/andrea-leopardi-1296436-unsplash_header_small.jpg
   text: 'This section is all about a journey in the long distance running world.'
 widget2:
-  title: "The standing"
+  title: "The Races"
   image: images/austris-augusts-140145-unsplash_small.jpg
   url: '/races/'
-  text: 'Running for fun is pretty cool, but it can be made even more interesting...
+  text: 'Running for fun is pretty cool, but it can be even more interesting...
   Training for a race, 
   standing in front of the starting line waiting for the race to start, 
-  run like crazy, and crossing the finish line, is even better.  
+  run like crazy, and crossing the finish line, is definitely better.  
   This section is all about the races of the muffin.'
 widget3:
-  title: "And the muffin"
+  title: "And The Story"
   url: '/story/'
   image: images/chang-duong-398144-unsplash_small.jpg
   text: 'How to make it even more interesting? 
-  Being surrounded by a band of good friends! Or better said, a real dream team!
-  This section is all about the unfiltered story behind the scene of the dream team and the muffin.'
+  Being surrounded by a band of friends! Or better said, a real dream team!
+  This section is all about the unfiltered story of the dream team and the muffin.'
 #
 # Use the call for action to show a button on the frontpage
 #
