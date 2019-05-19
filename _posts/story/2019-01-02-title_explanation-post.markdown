@@ -69,8 +69,12 @@ Let's now answer those questions! Actually, you just have to watch these three v
  smash them together and everything will become crystal clear...
 
 
-{% include title-explanation.html %}
 
+<iframe width="240" height="200" src="https://www.youtube.com/embed/IFeUIJMwG4A" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="240" height="200" src="https://www.youtube.com/embed/NgzRea-9TuI" frameborder="0"  allowfullscreen></iframe>
+
+<iframe width="240" height="200" src="https://www.youtube.com/embed/3taMwAEGBVc" frameborder="0" allowfullscreen></iframe>
 
 
 ... (of course, figuratively speaking).
