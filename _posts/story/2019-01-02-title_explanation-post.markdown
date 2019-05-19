@@ -66,7 +66,7 @@ the **Running Adventures**, the **Still Standing**, the **Muffin**, and the **Ma
  
 #### Bringing clarity
 Let's now answer those questions! Actually, you just have to watch these three very short videos,
- smash them together and everything will become crystal clear...
+ smash them together and everything will become crystal clear...  
 
 
 
