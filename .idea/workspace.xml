@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14c3687d-1bd2-4598-a6a0-1bb45ea433e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/running/training-plan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/running/training-plan/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/story/title_explanation-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/title_explanation-post/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="423">
-                <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
+              <first_editor relative-caret-position="462">
+                <caret line="81" column="55" lean-forward="true" selection-start-line="81" selection-start-column="55" selection-end-line="81" selection-end-column="55" />
               </first_editor>
               <second_editor />
             </state>
@@ -154,8 +150,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="208" />
-    <option name="y" value="23" />
+    <option name="x" value="638" />
+    <option name="y" value="113" />
     <option name="width" value="1456" />
     <option name="height" value="976" />
   </component>
@@ -644,8 +640,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="423">
-            <caret line="81" column="57" selection-start-line="81" selection-start-column="57" selection-end-line="81" selection-end-column="57" />
+          <first_editor relative-caret-position="462">
+            <caret line="81" column="55" lean-forward="true" selection-start-line="81" selection-start-column="55" selection-end-line="81" selection-end-column="55" />
           </first_editor>
           <second_editor />
         </state>

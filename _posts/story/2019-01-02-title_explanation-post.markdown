@@ -79,7 +79,7 @@ Being an emotional kind of guy, all my runs feels like kind of the very first ru
 
 <br>
 
-and each one of my runs look really looks like adventure!
+and each one of my runs really looks like adventure ;-)
 
 2. the **Still Standing**
 
