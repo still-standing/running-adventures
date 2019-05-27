@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
     image_fullwidth: ../../images/andrea-leopardi-1296436-unsplash_header.jpg
-title: "I Love It When A Plan Comes Together <br/>
+title: "I Love It When A Plan Comes Together<br/>
 a.k.a. Training Plan"
 teaser: "After a few months of running for the sake of it, it was time to look at how a runner trains to maximize its potential.  
 "
@@ -23,33 +23,49 @@ explains the different types of training.
 I know what you think, but no, the man speaking in these videos is not involved in the distillation of whisky.
 
 1- Easy Run
+
 <br>
+
 <iframe width="480" height="300" src="https://www.youtube.com/embed/veAQ73OJdwY" frameborder="0" allowfullscreen></iframe>
 
+
 2- Threshold Training
+
+<br>
 
 <iframe width="480" height="300" src="https://www.youtube.com/embed/dxJVtPT6rHo" frameborder="0" allowfullscreen></iframe>
 
 
 3- Interval Training
 
+<br>
+
 <iframe width="480" height="300" src="https://www.youtube.com/embed/7dQEwJhHWXk" frameborder="0" allowfullscreen></iframe>
 
 
 4- Repetition Training
 
+<br>
+
 <iframe width="480" height="300" src="https://www.youtube.com/embed/BGQKlSU4HQM" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
+
+### About the pace
 You may then ask how to find the the paces associated to each type of training. 
 The good news is that Jack Daniels takes care of that too!
 
-### About the pace
 
 <a href="https://runsmartproject.com/calculator/">
 <img src="../../images/daniels-vdot-logo.png" alt="">
 </a>
 
+<br>
+
 For example, to prepare for a 1h45 half-marathon, the recommended paces for the each types of training are:
+
+<br>
 
 <img src="../../images/daniels-paces-1h45-half.png" alt="">
 
@@ -58,7 +74,7 @@ From the suggested paces graph, you could note that there is a **"no man's land"
 In other words, we should not run in this zone. The bad news is that I was essentially running in the **"no man's land" pace zone** at about 5:30min/km, 
 but the good news is that, now, I know I should not!     
 
-### No pain No gain
+### No pain No gain?
 
 The Jack Daniels's videos are actually enough. But I also found the following one-hour long video very useful too. 
 Especially the session dedicated to the easy run training.
@@ -71,26 +87,30 @@ Especially the session dedicated to the easy run training.
 
 * The Run Smart Project
 
+<br>
     <a href="https://www.youtube.com/user/runsmartproject">
     <img src="../../images/run_smart_project-logo.jpg" alt="">
     </a>
 
 
 * Vo2maxProductions 
-    
+
+<br> 
     <a href="https://www.youtube.com/user/Vo2maxProductions">
     <img src="../../images/vo2max_productions-logo.jpg" alt="">
     </a>
 
 * Running Wild
     
+<br>
     <a href="https://www.youtube.com/user/RunningWild2Believe">
     <img src="../../images/running_wild-logo.jpg" alt="">
     </a>
 
 
 * The Run Experience
-    
+
+<br>
     <a href="https://www.youtube.com/user/TREtherunexperience">
     <img src="../../images/run_experience-logo.jpg" alt="">
     </a>

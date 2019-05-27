@@ -74,6 +74,7 @@ Let's now answer those questions!
 Being an emotional kind of guy, all my runs feels like the very first run of Forrest Gum:
   
   <iframe width="240" height="200" src="https://www.youtube.com/embed/IFeUIJMwG4A" frameborder="0" allowfullscreen></iframe>
+<br>
 
   And each one of my runs looks to me like an adventures.
 
@@ -82,7 +83,11 @@ Being an emotional kind of guy, all my runs feels like the very first run of For
 After a run, **Barely Standing** would be more appropriate but **Still Standing** is more cool!
 And more importantly, **Still Standing** appears in the lyrics of one of mine post-running favourite songs:
  
+ <br>
+
   <iframe width="240" height="200" src="https://www.youtube.com/embed/NgzRea-9TuI" frameborder="0"  allowfullscreen></iframe>
+
+<br>
 
   Don't get me wrong, feeling "looking like a true survivor" after a run is definitely a teeny-tiny exaggerated.
 But, "feeling like a little kid" is spot on ;-)
@@ -92,7 +97,11 @@ But, "feeling like a little kid" is spot on ;-)
 This is a little dedication to the animated movie Shrek in general, and 
 a really short scene in particular:
 
+<br>
+
   <iframe width="240" height="200" src="https://www.youtube.com/embed/3taMwAEGBVc" frameborder="0" allowfullscreen></iframe>
+
+<br>
 
   This scene made me laughed so much, 
 and so hard, that it got stick in my head. Since then, I was looking
