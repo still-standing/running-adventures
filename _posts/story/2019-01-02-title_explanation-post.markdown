@@ -71,12 +71,15 @@ Let's now answer those questions!
 
 1. the **Running Adventures**
 
-Being an emotional kind of guy, all my runs feels like the very first run of Forrest Gum:
-  
-  <iframe width="240" height="200" src="https://www.youtube.com/embed/IFeUIJMwG4A" frameborder="0" allowfullscreen></iframe>
+Being an emotional kind of guy, all my runs feels like kind of the very first run of Forrest Gum...
+
 <br>
 
-  And each one of my runs looks to me like an adventures.
+  <iframe width="240" height="200" src="https://www.youtube.com/embed/IFeUIJMwG4A" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
+and each one of my runs look really looks like adventure!
 
 2. the **Still Standing**
 

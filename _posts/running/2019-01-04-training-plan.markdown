@@ -79,6 +79,8 @@ but the good news is that, now, I know I should not!
 The Jack Daniels's videos are actually enough. But I also found the following one-hour long video very useful too. 
 Especially the session dedicated to the easy run training.
 
+<br>
+
 <iframe width="480" height="300" src="https://www.youtube.com/embed/pqo5AbcELFM" frameborder="0" allowfullscreen></iframe>
 
 
