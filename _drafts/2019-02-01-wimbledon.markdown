@@ -2,7 +2,7 @@
 layout: page-fullwidth
 header:
     image_fullwidth: "../../../../images/wolf.png"
-title: "Wimbledon aka Bergamotte should be blamed."
+title: "Wimbledon aka Gummy Bear should be blamed."
 teaser: "To do something for the very first time is never easy: panic, no coordination and no understanding whatsoever about what the heck is happening are, to name a few, what I felt during the my very first race. Let me explain... "
 
 categories:
@@ -18,9 +18,9 @@ someone else. How did I do to recognize them? It was actually easy, they were al
 ### the race goal time
 
 <p>Once in the **race mood**, the only think I was able to think was my goal time. I wanted to do less than 1h50. 
-But <strong>Bergamotte</strong> spent days to convince me that I should run my first half marathon below 1h45.
+But <strong>Gummy Bear</strong> spent days to convince me that I should run my first half marathon below 1h45.
 
-**Bergamotte** was saying that is obvious:
+**Gummy Bear** was saying that is obvious:
 
 * Since I was running at least a half-marathon every Sunday in less than 2h, it would be **easy**
 * Since I managed to run a half-marathon in 1h46 three weeks before this race, it would be **easy peasy**
@@ -29,7 +29,7 @@ But <strong>Bergamotte</strong> spent days to convince me that I should run my f
 
 ### the race
 
-Okay **Bergamotte**! Let’s do it
+Okay **Gummy Bear**! Let’s do it
 
 I started strong, a little bit too exited maybe. Following the crowd, I was able to get a 5km Personal Record (PR) and a 10km PR in the first half of the race.
 The problem was second half… 

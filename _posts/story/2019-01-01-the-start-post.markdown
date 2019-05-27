@@ -24,7 +24,7 @@ Waiting for the soon to be killer Baba, I told the table:
 
 "By the way guys, '**Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse**' and I started to run a bit...".
 
-'**Little Tabitha**' immediately jumped on me (figuratively speaking...):
+'**Barby Girl**' immediately jumped on me (figuratively speaking...):
 
 - "Next May there is the half-marathon of Nice! I will register! You want to register? Better if I register you! Wait we cannot register now... But as soon that we can we register! Deal?"
 
@@ -34,11 +34,11 @@ Rare are the moments where I do not want to speak, this moment was one of those.
 
 Between my first and second drag I discovered that:
 
-* '**[Bergamotte](https://en.wikipedia.org/wiki/Bergamot_orange)**' already run the half of Nice under 1h45!
+* '**[Gummy Bear](https://en.wikipedia.org/wiki/Bergamot_orange)**' already run the half of Nice under 1h45!
 
 * '**[Chamomile](https://en.wikipedia.org/wiki/Chamomile)**' already runs the half-marathon under 1h35, already run three marathons, and will run the Toulouse marathon in a couple of months!
 
-* '**[Little Tabitha](https://en.wikipedia.org/wiki/Tabitha_(TV_series))**' runs few half-marathons and marathons every year, quote "for fun" unquote.
+* '**[Barby Girl](https://en.wikipedia.org/wiki/Barby Girl_(TV_series))**' runs few half-marathons and marathons every year, quote "for fun" unquote.
 
 * '**[Aurelia](https://en.wikipedia.org/wiki/Aurelia_Cotta)**' runs the marathon under 3h, quote "easy" unquote!
 

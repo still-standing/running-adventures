@@ -4,26 +4,26 @@ header:
     image_fullwidth: ../../images/andrea-leopardi-1296436-unsplash_header.jpg
 title: "I Love It When A Plan Comes Together <br/>
 a.k.a. Training Plan"
-teaser: "After few month month of running for the sake of it, it was time to look at how a runner train to maximize its potential.  
+teaser: "After a few months of running for the sake of it, it was time to look at how a runner trains to maximize its potential.  
 "
 categories:
     - running
 ---
-After running two half-marathons races and having registered for a trail and a full marathon, 
+After running two half-marathon races and having registered for a trail and a full marathon, 
 a proper training plan was, somehow, required. Why having a training plan? Simply to run **smart**. 
 
-Their is a lot of information on the web and in the bookshops... But, after doing some filtering,
-I ended up with with 5 YouTube videos be watched, few YouTube channels to follow for fun, and two books.
-It is of course a very personal choice and I am sure that missed a lot of good stuff.
+There is a lot of information on the web and in the bookshops... But, after doing some filtering,
+I ended up with with 5 YouTube videos to be watched, few YouTube channels to follow for fun, and two books.
+It is of course a very personal choice and I am sure that I missed a lot of good stuff.
   
 ### 4 types of training 
-In these for YouTube videos, [Jack Daniels PhD](https://en.wikipedia.org/wiki/Jack_Daniels_(coach)) 
-- two-time Olympics medalist in modern pentathlon and named "The World's Best Coach" by [Runner's World magazine](https://www.runnersworld.com) - 
+In these four YouTube videos, [Jack Daniels PhD](https://en.wikipedia.org/wiki/Jack_Daniels_(coach)), two-time Olympics medalist in modern pentathlon and named "The World's Best Coach" by [Runner's World magazine](https://www.runnersworld.com), 
 explains the different types of training. 
+
 I know what you think, but no, the man speaking in these videos is not involved in the distillation of whisky.
 
 1- Easy Run
-
+<br>
 <iframe width="480" height="300" src="https://www.youtube.com/embed/veAQ73OJdwY" frameborder="0" allowfullscreen></iframe>
 
 2- Threshold Training
@@ -54,7 +54,7 @@ For example, to prepare for a 1h45 half-marathon, the recommended paces for the 
 <img src="../../images/daniels-paces-1h45-half.png" alt="">
 
 #### A little note, on the paces. 
-From the suggested paces graph, you could note that their is a **"no man's land" pace zone** between the easy run pace 5:09min/km and the threshold pace 4:51min/km.
+From the suggested paces graph, you could note that there is a **"no man's land" pace zone** between the easy run pace 5:09min/km and the threshold pace 4:51min/km.
 In other words, we should not run in this zone. The bad news is that I was essentially running in the **"no man's land" pace zone** at about 5:30min/km, 
 but the good news is that, now, I know I should not!     
 
