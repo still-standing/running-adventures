@@ -72,7 +72,7 @@ Let's now answer those questions!
 
 1. the **Running Adventures**
 
-Being an emotional kind of guy, all my runs feels like the very first run of Forrest Gum...
+Being an emotional kind of guy, all my runs feel like the very first run of Forrest Gum...
 
 <br>
 
@@ -85,7 +85,7 @@ and each one of my runs really feels like an adventure ;-)
 2. the **Still Standing**
 
 After a run, **Barely Standing** would be more appropriate but **Still Standing** is cool!
-And more importantly, **Still Standing** appears in the lyrics of one of mine post-running favourite songs:
+And more importantly, **Still Standing** appears in the lyrics of one of my post-running favourite songs:
  
  <br>
 
@@ -108,13 +108,13 @@ a really short scene in particular:
 <br>
 
   This scene made me laughed so much, 
-and so hard, that it got stick in my head. Since then, I was looking
+and so hard, that it got stuck in my head. Since then, I was looking
 for an opportunity to place "**the Muffin Man**" somewhere...
 
   I have to admit that using "**the Muffin Man**" in a website dedicated to
-running is a bit of stretch, but it is good enough for me. And I hope it
+running is a bit of a stretch, but it is good enough for me. And I hope it
 is good enough for you too ;-)
 
 
 ### Conclusion
-The title should by now be chrystal clean... (of course, figuratively speaking).
+The title should by now be chrystal clear... (of course, figuratively speaking).

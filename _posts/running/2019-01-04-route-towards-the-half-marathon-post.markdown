@@ -19,7 +19,7 @@ I perceived my first 10km as **a message of hope** towards greater things in gen
 <iframe width="480" height="300"  src="https://www.youtube.com/embed/BtIZitLJ68Q" frameborder="0" allowfullscreen></iframe>
 <br>
 
-Sadly, pain was the main outcome of my next week of training, and my theory of being unstoppable was kind of wrong...
+Sadly, pain was the main outcome of my next weeks of training, and my theory of being unstoppable was kind of wrong...
 <br>To be more specific, never a theory was that wrong...
 <br>Except maybe the [*String Theory*](https://en.wikipedia.org/wiki/String_theory), but it is kind of different, 
 the *String Theory* is [not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)... 
@@ -74,14 +74,14 @@ This comment was followed by silence.
    * **Bergamot** napped.
    * **Chamomile** made some tea to forget this madness.
    * **Barby Girl** drunk *few* cosmopolitan cocktails to calm down.
-   * **Aurélia** engraved her shopping list a marble plate. She is born is BC remember?
-   * **Rambo Chérie** went ball-trapping to find harmony.
+   * **Aurélia** engraved her shopping list in a marble plate. She was born in BC remember?
+   * **Rambo Chérie** went clay pigeon shooting to find inner peace.
    * and the **Muffin Man** looked for trail races...
  
 And the bomb exploded:
 <br> Guys, I found a pretty cool trail! 
 <br> It is *just* a half-marathon with a teeny-tiny of ascent... 1100m, the [UTMC](https://www.utmc.fr). 
 <br> I already registered! You are also coming right?!
-<br> And, after napping, drinking tea, engraving shopping list in marble, and ball trapping, the Dream Team signed up for this!!! 
+<br> And, after napping, drinking tea, engraving shopping lists in marble, and clay pigeon shooting, the Dream Team signed up for this!!! 
 
   
