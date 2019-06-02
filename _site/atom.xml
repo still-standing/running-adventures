@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/running-adventures/</id>
 	<title>The Running Adventures of the Still Standing Muffin Man</title>
-	<updated>2019-05-27T08:10:30+01:00</updated>
+	<updated>2019-06-02T12:20:18+01:00</updated>
 
 	<subtitle>A journey in the world of long distance running</subtitle>
 
@@ -26,10 +26,195 @@
 
 	
 		<entry>
-			<id>http://localhost:4000/running-adventures/running/training-plan/</id>
+			<id>http://localhost:4000/running-adventures/races/wimbledon/</id>
+			<title>First Race Ever a.k.a. Ain't No Sunshine</title>
+			<link href="http://localhost:4000/running-adventures/races/wimbledon/" rel="alternate" type="text/html" title="First Race Ever a.k.a. Ain't No Sunshine" />
+			<updated>2019-02-01T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>muffin man</name>
+					
+					
+					
+				</author>
+			
+			<summary>You expected the Nice half-marathon to be my first race... Let me explain... </summary>
+			<content type="html" xml:base="http://localhost:4000/running-adventures/races/wimbledon/">&lt;h3 id=&quot;from-nice-to-wimbledon&quot;&gt;From Nice to Wimbledon&lt;/h3&gt;
+
+&lt;p&gt;Since we all signed up for the &lt;a href=&quot;https://www.utmc.fr&quot;&gt;UTMC half-marathon&lt;/a&gt;, the Dream Team kind of reached an unsaid agreement:
+&lt;br /&gt; The Nice half-marathon, in May the 5th, was a little bit too close from the UTMC, in July the 21st, 
+ let’s just skip it. 
+&lt;br /&gt; But I did not want the crazy UTMC trail to be my first race either… 
+So, I found another half-marathon, in April the 7th, in Wimbledon Common. 
+&lt;br /&gt; That was just perfect! Perfect in theory… In practice, it was something else…&lt;/p&gt;
+
+&lt;h3 id=&quot;the-dream-team&quot;&gt;The Dream Team&lt;/h3&gt;
+
+&lt;p&gt;In theory, all the members of the Dream Team would have joined…
+&lt;br /&gt; But in practice, I was the only one…
+&lt;br /&gt; And I am pretty sure it would have been much funnier!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-playlist&quot;&gt;The playlist&lt;/h3&gt;
+&lt;p&gt;I have loaded my iPod with hundreds of my favorite songs! 
+&lt;br /&gt; And, since I am a rock’n’roll kind of guy, the songs will, in theory, help me to run fast enough!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-physical-condition&quot;&gt;The physical condition&lt;/h3&gt;
+&lt;p&gt;In theory, you are at your pick physical level to race…
+&lt;br /&gt; But in practice, I managed to catch a cold few days before the race… 
+&lt;br /&gt; But it was not that dramatic, I was just full of medicine!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-race-time-goal&quot;&gt;The race time goal&lt;/h3&gt;
+
+&lt;p&gt;In theory, you manage to race under your race time goal…
+&lt;br /&gt; I had initially a pretty conservative race goal time of 1h50. 
+&lt;br /&gt; But &lt;strong&gt;Bergamot&lt;/strong&gt; spent days to convince me that 
+I should run my first half marathon below 1h45.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bergamot&lt;/strong&gt; was actually stating the obvious:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Since I was running at least a half-marathon every Sunday in less than 1h50, it would be &lt;strong&gt;easy&lt;/strong&gt;. Well… make sense, right?&lt;/li&gt;
+  &lt;li&gt;Since I managed to run a half-marathon in 1h46 three weeks before this race, it would be &lt;strong&gt;easy peasy&lt;/strong&gt;. Well… make sense, right?&lt;/li&gt;
+  &lt;li&gt;Since you race faster than you run, it would be &lt;strong&gt;easy peasy lemon squeezy&lt;/strong&gt;. Well… make sense, right?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-race&quot;&gt;The race&lt;/h3&gt;
+
+&lt;p&gt;Okay &lt;strong&gt;Bergamot&lt;/strong&gt;! Let’s do it!&lt;/p&gt;
+
+&lt;p&gt;I started strong, a little bit too exited maybe… Following the crowd, I was able to get a 5km Personal Record (PR) and a 10km PR in the first half of the race.
+The main problem I then faced was to continue at that pace for the second half… 
+By keeping this pace I would have finished around 1h40, pretty cool no?!&lt;/p&gt;
+
+&lt;h4 id=&quot;when-a-very-specific-song-kicked-in&quot;&gt;When a very specific song kicked in&lt;/h4&gt;
+
+&lt;p&gt;But then… My iPod decided to play &lt;em&gt;Ain’t no sunshine&lt;/em&gt; by &lt;em&gt;Bill Withers&lt;/em&gt;. 
+Don’t get me wrong, I love this song, it is a great song, a song full of emotions…&lt;/p&gt;
+
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/tIdIqbv7SPo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt; … maybe full of too many emotions!
+&lt;br /&gt; I was thinking about &lt;strong&gt;Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse&lt;/strong&gt;
+&lt;br /&gt; a.k.a. &lt;strong&gt;Rambo Chérie&lt;/strong&gt;, not there with me… And I just started to cry, and stopped to run. 
+Looks like I am an emotional kind of guy after all. 
+&lt;br /&gt; Yeah, I stopped to run because of this song… And also maybe because I was not able to breath neither… 
+I little bit of both think actually.
+And once you stop to run, you will continue to stop…&lt;/p&gt;
+
+&lt;h4 id=&quot;race-log&quot;&gt;Race log&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/wimbledon-half-2019.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;race-results&quot;&gt;Race results&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/wimbledon-half-2019-results.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I finally crossed the finished line with a race time of 1h48.&lt;/p&gt;
+
+&lt;p&gt;But I learned few valuable lessons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;do not have &lt;em&gt;Ain’t no sunshine&lt;/em&gt; in your playlist.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;do not start the race too strong:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;A 5k PR and a 10k PR in a 21km race does not seem right, and I am pretty sure that it is not!&lt;/li&gt;
+      &lt;li&gt;I heard that the first 2/3 of the race should be run with your legs and the last third with your heart. Well, it clearly does not work for the last 10k of a half marathon.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;&lt;br /&gt; Yes, I was sick.
+&lt;br /&gt; Yes, I cried.
+&lt;br /&gt; Yes, I did not get a Personal Record on the half-marathon distance.
+&lt;br /&gt; But it was so fun! And I am already thinking about the next race…&lt;/p&gt;
+
+&lt;h3 id=&quot;the-next-race&quot;&gt;The next race&lt;/h3&gt;
+
+&lt;p&gt;I realized few days later that the unsaid agreement evoked earlier was void:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Rambo Chérie&lt;/strong&gt; really wanted to race the Nice half-marathon.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Barby Girl&lt;/strong&gt; already registered to the Nice half-marathon.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Chamomile&lt;/strong&gt; will join the race even if he is playing hard to get for now.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Okay guys! let’s just do it then!!!&lt;/p&gt;
+
+&lt;p&gt;Only &lt;strong&gt;Aurélia&lt;/strong&gt; and &lt;strong&gt;Bergamot&lt;/strong&gt; will not be able to join, but more on that later…&lt;/p&gt;
+
+</content>
+
+			
+				<category term="races" />
+			
+			
+
+			<published>2019-02-01T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/running-adventures/running/suit-up-post/</id>
+			<title>Suit-up a.k.a. The Devil wears Prada</title>
+			<link href="http://localhost:4000/running-adventures/running/suit-up-post/" rel="alternate" type="text/html" title="Suit-up a.k.a. The Devil wears Prada" />
+			<updated>2019-01-10T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>muffin man</name>
+					
+					
+					
+				</author>
+			
+			<summary>The time where **Aurelia** was running in [caligae](https://en.wikipedia.org/wiki/Caligae) and [toga](https://en.wikipedia.org/wiki/Toga) accross the prairies is long gone. We can now do a little bit better!</summary>
+			<content type="html" xml:base="http://localhost:4000/running-adventures/running/suit-up-post/">&lt;p&gt;It appeared that we can actually do much better in AC!&lt;/p&gt;
+
+&lt;h3 id=&quot;running-shoes&quot;&gt;Running shoes&lt;/h3&gt;
+
+&lt;p&gt;Obviously.&lt;/p&gt;
+
+&lt;h3 id=&quot;running-app&quot;&gt;Running app&lt;/h3&gt;
+
+&lt;p&gt;Everyone in the Dream Team uses Strava!
+&lt;br /&gt;
+Everyone excepts, of course, &lt;strong&gt;Aurélia&lt;/strong&gt;… but she is born in BC guys.. So, please, give her a break…&lt;/p&gt;
+
+&lt;h3 id=&quot;gps-watch&quot;&gt;GPS watch&lt;/h3&gt;
+
+&lt;p&gt;Everyone in the Dream Team has a GPS watch!
+&lt;br /&gt;
+Everyone excepts, of course, &lt;strong&gt;Aurélia&lt;/strong&gt;… but again, she is born in BC guys… So, please, cut her some slack…&lt;/p&gt;
+
+&lt;h3 id=&quot;recover-socks&quot;&gt;Recover socks&lt;/h3&gt;
+
+&lt;p&gt;Everyone in the Dream Team uses recovery socks!
+&lt;br /&gt;
+Everyone excepts, of course, &lt;strong&gt;Aurélia&lt;/strong&gt;… Well, you know…&lt;/p&gt;
+
+</content>
+
+			
+				<category term="running" />
+			
+			
+
+			<published>2019-01-10T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/running-adventures/running/training-plan-post/</id>
 			<title>I Love It When A Plan Comes Together a.k.a. Training Plan</title>
-			<link href="http://localhost:4000/running-adventures/running/training-plan/" rel="alternate" type="text/html" title="I Love It When A Plan Comes Together&lt;br/&gt; a.k.a. Training Plan" />
-			<updated>2019-01-04T00:00:00+00:00</updated>
+			<link href="http://localhost:4000/running-adventures/running/training-plan-post/" rel="alternate" type="text/html" title="I Love It When A Plan Comes Together&lt;br/&gt; a.k.a. Training Plan" />
+			<updated>2019-01-06T00:00:00+00:00</updated>
 
 			
 				
@@ -42,15 +227,15 @@
 				</author>
 			
 			<summary>After a few months of running for the sake of it, it was time to look at how a runner trains to maximize its potential. </summary>
-			<content type="html" xml:base="http://localhost:4000/running-adventures/running/training-plan/">&lt;p&gt;After running two half-marathon races and having registered for a trail and a full marathon, 
+			<content type="html" xml:base="http://localhost:4000/running-adventures/running/training-plan-post/">&lt;p&gt;After running two half-marathon races and having registered for a trail and a full marathon, 
 a proper training plan was, somehow, required. Why having a training plan? Simply to run &lt;strong&gt;smart&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;There is a lot of information on the web and in the bookshops… But, after doing some filtering,
-I ended up with with 5 YouTube videos to be watched, few YouTube channels to follow for fun, and two books.
+I ended up with with 5 YouTube videos to be watched, few YouTube channels to follow for tips and cool stories, and two books.
 It is of course a very personal choice and I am sure that I missed a lot of good stuff.&lt;/p&gt;
 
 &lt;h3 id=&quot;4-types-of-training&quot;&gt;4 types of training&lt;/h3&gt;
-&lt;p&gt;In these four YouTube videos, &lt;a href=&quot;https://en.wikipedia.org/wiki/Jack_Daniels_(coach)&quot;&gt;Jack Daniels PhD&lt;/a&gt;, two-time Olympics medalist in modern pentathlon and named “The World’s Best Coach” by &lt;a href=&quot;https://www.runnersworld.com&quot;&gt;Runner’s World magazine&lt;/a&gt;, 
+&lt;p&gt;In these four short YouTube videos, &lt;a href=&quot;https://en.wikipedia.org/wiki/Jack_Daniels_(coach)&quot;&gt;Jack Daniels PhD&lt;/a&gt;, two-time Olympics medalist in modern pentathlon and named “The World’s Best Coach” by &lt;a href=&quot;https://www.runnersworld.com&quot;&gt;Runner’s World magazine&lt;/a&gt;, 
 explains the different types of training.&lt;/p&gt;
 
 &lt;p&gt;I know what you think, but no, the man speaking in these videos is not involved in the distillation of whisky.&lt;/p&gt;
@@ -89,9 +274,16 @@ The good news is that Jack Daniels takes care of that too!&lt;/p&gt;
 &lt;img src=&quot;../../images/daniels-vdot-logo.png&quot; alt=&quot;&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;Once you enter in the table below your last race distance and race time you will obtain 
+the recommended paces of each training type.&lt;/p&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;For example, to prepare for a 1h45 half-marathon, the recommended paces for the each types of training are:&lt;/p&gt;
+&lt;iframe src=&quot;https://runsmartproject.com/calculator/embed/index.php?title=false&quot; width=&quot;600&quot; height=&quot;520&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, if you did race a 1h45 half-marathon, the recommended paces for the each types of training are:&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -105,7 +297,7 @@ but the good news is that, now, I know I should not!&lt;/p&gt;
 &lt;h3 id=&quot;no-pain-no-gain&quot;&gt;No pain No gain?&lt;/h3&gt;
 
 &lt;p&gt;The Jack Daniels’s videos are actually enough. But I also found the following one-hour long video very useful too. 
-Especially the session dedicated to the easy run training.&lt;/p&gt;
+Especially the easy run training, the training plan, and the periodization.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -151,9 +343,188 @@ Especially the session dedicated to the easy run training.&lt;/p&gt;
 
 &lt;h3 id=&quot;a-little-bit-of-reading&quot;&gt;A little bit of reading&lt;/h3&gt;
 
-&lt;p&gt;Jack Daniels… again! Plus a book dedicated to marathon training will be enough for me!&lt;/p&gt;
+&lt;p&gt;Jack Daniels… again! Plus a book dedicated to marathon training was more than enough for me!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&amp;amp;qid=1558174667&amp;amp;s=gateway&amp;amp;sr=8-1&quot;&gt; &lt;img src=&quot;../../images/running_formula.jpg&quot; /&gt; &lt;a href=&quot;https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&amp;amp;qid=1558174711&amp;amp;s=gateway&amp;amp;sr=8-4&quot;&gt;&lt;img src=&quot;../../images/advanced_marathoning.jpg&quot; /&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+
+			
+				<category term="running" />
+			
+			
+
+			<published>2019-01-06T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/running-adventures/running/increasing-weekly-milage-post/</id>
+			<title>Increasing Weekly Milage a.k.a. Run Boy Run</title>
+			<link href="http://localhost:4000/running-adventures/running/increasing-weekly-milage-post/" rel="alternate" type="text/html" title="Increasing Weekly Milage a.k.a. Run Boy Run" />
+			<updated>2019-01-05T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>muffin man</name>
+					
+					
+					
+				</author>
+			
+			<summary>After running/walking my first half-marathon, it was time to be more consistent and run more.</summary>
+			<content type="html" xml:base="http://localhost:4000/running-adventures/running/increasing-weekly-milage-post/">&lt;p&gt;It was definitely now time to train a little bit more consistently. 
+But, before that, the dream decided to meet, party, and run a little 15km in the mountain, to have a little taste of what the &lt;a href=&quot;https://www.utmc.fr&quot;&gt;UTMC half-marathon&lt;/a&gt; will reserve us.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-little-run-in-the-mountain&quot;&gt;A little run in the mountain&lt;/h3&gt;
+
+&lt;p&gt;The plan was as followed, first we go to Clans in the afternoon, then we have a &lt;a href=&quot;https://en.wikipedia.org/wiki/Raclette&quot;&gt;raclette&lt;/a&gt; &lt;em&gt;few&lt;/em&gt; glasses of red wine, a good night of rest, and after a good coffee, a teeny-tiny run in the mountain as a little clean-up.&lt;/p&gt;
+
+&lt;p&gt;And everything went according to plan, up to after dinner.
+When &lt;strong&gt;Barby Girl&lt;/strong&gt; came-up with an improbable alcoholic drink…&lt;/p&gt;
+
+&lt;h4 id=&quot;une-petite-suze&quot;&gt;Une petite Suze?&lt;/h4&gt;
+
+&lt;p&gt;And there is no more improbable drink than the &lt;a href=&quot;https://en.wikipedia.org/wiki/Suze_(drink)&quot;&gt;Suze&lt;/a&gt;. As you can gess from the size of its wikepedia page… The good part of the Suze, is that it can be used in quite different contexts, such as to defrost, to clean the hoven, to unblock the sink, and, well, to drink. But, &lt;strong&gt;Barby Girl&lt;/strong&gt; managed, somehow, to convince &lt;strong&gt;Bergamot&lt;/strong&gt; that it was drinkable.
+To be honest, I preferred to join &lt;strong&gt;Chamomile&lt;/strong&gt; and just have some tea.
+Yeah, it was that bad…&lt;/p&gt;
+
+&lt;h4 id=&quot;une-petit-trail&quot;&gt;Une petit trail?&lt;/h4&gt;
+
+&lt;p&gt;Petit… not quite, 15km and 600m of ascent…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/clans15k-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This actually helped us to realize that we will suffer at the UTMC…&lt;/p&gt;
+
+&lt;h3 id=&quot;un-petit-peu-de-millage&quot;&gt;Un petit peu de millage?&lt;/h3&gt;
+
+&lt;p&gt;After a month to recover from that &lt;em&gt;petit trail&lt;/em&gt;, I was finally able to accumulate some millage.
+I started to watch few YouTube channels dedicated about running, and I started to follow a 
+simple advise, to improve you have to run more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/5week-log2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was now able to have a long run almost every weekly (I qualify a long run as a run of 16km or more), 
+and a weekly millage of a little bit more that 30km/week. I then decided to go increase a little bit more the weekly 
+millage…&lt;/p&gt;
+
+&lt;h3 id=&quot;un-petit-peu-plus-de-millage&quot;&gt;Un petit peu plus de millage?&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/5week-log3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And this is exactly what I did. With a weekly millage of around 60km/week. 
+I was not focusing on the speed, but I still managed to gain a bit of speed and to 
+increase my long run up to 27km. In other words, I was staring to be ready for
+the Nice half-marathon!&lt;/p&gt;
+</content>
+
+			
+				<category term="running" />
+			
+			
+
+			<published>2019-01-05T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/running-adventures/running/route-towards-the-half-marathon-post/</id>
+			<title>Route Towards The Half-Marathon a.k.a. Pain</title>
+			<link href="http://localhost:4000/running-adventures/running/route-towards-the-half-marathon-post/" rel="alternate" type="text/html" title="Route Towards The Half-Marathon a.k.a. Pain" />
+			<updated>2019-01-04T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>muffin man</name>
+					
+					
+					
+				</author>
+			
+			<summary>After running my first 10k, I was unstoppable: 20k, 50k, and 100k, watch out, I coming for you! Well...</summary>
+			<content type="html" xml:base="http://localhost:4000/running-adventures/running/route-towards-the-half-marathon-post/">&lt;h3 id=&quot;a-message-of-hope&quot;&gt;A message of hope&lt;/h3&gt;
+
+&lt;p&gt;I perceived my first 10km as &lt;strong&gt;a message of hope&lt;/strong&gt; towards greater things in general,
+ and longer distances in particular. But, somehow, I misread the message, it was more like&lt;/p&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/BtIZitLJ68Q&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Sadly, pain was the main outcome of my next week of training, and my theory of being unstoppable was kind of wrong…
+&lt;br /&gt;To be more specific, never a theory was that wrong…
+&lt;br /&gt;Except maybe the &lt;a href=&quot;https://en.wikipedia.org/wiki/String_theory&quot;&gt;&lt;em&gt;String Theory&lt;/em&gt;&lt;/a&gt;, but it is kind of different, 
+the &lt;em&gt;String Theory&lt;/em&gt; is &lt;a href=&quot;https://en.wikipedia.org/wiki/Not_even_wrong&quot;&gt;not even wrong&lt;/a&gt;… 
+But let’s forget of the &lt;em&gt;String Theory&lt;/em&gt; for now.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-practice&quot;&gt;The practice&lt;/h3&gt;
+
+&lt;p&gt;My first 10k ever was on July the 22nd, and it took me about two months to reach painfully 15km.
+Fun fact, I finally managed to get to 15km on a trail in &lt;a href=&quot;https://en.wikipedia.org/wiki/Page,_Arizona&quot;&gt;Page, Arizona&lt;/a&gt; at about 1250m above the sea level. 
+And I have to admit that it was a lot of fun! Yes the pace was slow, but the landscape was gorgeous! 
+&lt;img src=&quot;../../images/first15k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And, on week after, I got my first half-marathon run in &lt;a href=&quot;https://en.wikipedia.org/wiki/Palo_Alto,_California&quot;&gt;Palo Alto, California&lt;/a&gt;, but this time, at sea level.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/first21k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You may notice that I started way to strong, and I actually finished the run walking… 
+But again, the good thing is that there is definitely room for improvement!&lt;/p&gt;
+
+&lt;h3 id=&quot;when-bergamot-drops-a-bomb&quot;&gt;When &lt;strong&gt;Bergamot&lt;/strong&gt; drops a bomb&lt;/h3&gt;
+
+&lt;p&gt;In October 2018, &lt;strong&gt;Bergamot&lt;/strong&gt; was in need of strong sensations. 
+And to fill his need, he decided to run. But not a regular run, he went for the &lt;strong&gt;crazy 8&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;24km of distance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/crazy8-map.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;860m of ascent&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/crazy8-deniv.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The reaction what two-fold:&lt;/p&gt;
+
+&lt;p&gt;1- The first flow of reactions were very supportive:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Congratulations &lt;strong&gt;Bergamot&lt;/strong&gt;!!!!&lt;/li&gt;
+  &lt;li&gt;Is it really impressive!!!!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2- The second flow of reactions were a little bit more rough:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ARE YOU CRAZY!!!!&lt;/li&gt;
+  &lt;li&gt;WHAT’S WRONG WITH YOU!!!!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At this moment, he innocently tells the Dream Team:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt; “A little trail of 30km, 40km in the mountain is kind of tempting, don’t you think?”&lt;/p&gt;
+
+&lt;h3 id=&quot;the-explosion&quot;&gt;The explosion&lt;/h3&gt;
+
+&lt;p&gt;This comment was followed by silence.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bergamot&lt;/strong&gt; napped.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Chamomile&lt;/strong&gt; made some tea to forget this madness.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Barby Girl&lt;/strong&gt; drunk &lt;em&gt;few&lt;/em&gt; cosmopolitan cocktails to calm down.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aurélia&lt;/strong&gt; engraved her shopping list a marble plate. She is born is BC remember?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rambo Chérie&lt;/strong&gt; went ball-trapping to find harmony.&lt;/li&gt;
+  &lt;li&gt;and the &lt;strong&gt;Muffin Man&lt;/strong&gt; looked for trail races…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And the bomb exploded:
+&lt;br /&gt; Guys, I found a pretty cool trail! 
+&lt;br /&gt; It is &lt;em&gt;just&lt;/em&gt; a half-marathon with a teeny-tiny of ascent… 1100m, the &lt;a href=&quot;https://www.utmc.fr&quot;&gt;UTMC&lt;/a&gt;. 
+&lt;br /&gt; I already registered! You are also coming right?!
+&lt;br /&gt; And, after napping, drinking tea, engraving shopping list in marble, and ball trapping, the Dream Team signed up for this!!!&lt;/p&gt;
 
 </content>
 
@@ -166,9 +537,9 @@ Especially the session dedicated to the easy run training.&lt;/p&gt;
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/running-adventures/running/before-the-start-post/</id>
-			<title>Before The Start a.k.a. The Bear Beginning</title>
-			<link href="http://localhost:4000/running-adventures/running/before-the-start-post/" rel="alternate" type="text/html" title="Before The Start a.k.a. The Bear Beginning" />
+			<id>http://localhost:4000/running-adventures/story/title_explanation-post/</id>
+			<title>Title Explanation a.k.a. Crystal Clear</title>
+			<link href="http://localhost:4000/running-adventures/story/title_explanation-post/" rel="alternate" type="text/html" title="Title Explanation a.k.a. Crystal Clear" />
 			<updated>2019-01-03T00:00:00+00:00</updated>
 
 			
@@ -181,109 +552,19 @@ Especially the session dedicated to the easy run training.&lt;/p&gt;
 					
 				</author>
 			
-			<summary>As mentioned in a previous post, I have begun to run before the Killer BaBa night. Since I am an emotional kind of guy, I will focus on the sensations I went through during this, pretty intense, couch to 1k transition period.</summary>
-			<content type="html" xml:base="http://localhost:4000/running-adventures/running/before-the-start-post/">&lt;h3 id=&quot;a-doubtful-analogy&quot;&gt;A doubtful analogy&lt;/h3&gt;
-
-&lt;p&gt;My first weeks of running could actually be resumed by a simple analogy: It is like &lt;strong&gt;making love to a bear&lt;/strong&gt;… (figuratively speaking).&lt;/p&gt;
-
-&lt;p&gt;Figuratively speaking, yes. But the side effects look pretty similar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Dizziness&lt;/strong&gt;. It is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is dizziness. Obviously…
-    &lt;ul&gt;
-      &lt;li&gt;Similarly, if you do not breath enough while running… You will get really dizzy!&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dehydration&lt;/strong&gt;. It is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is dehydration.  Obviously…
-    &lt;ul&gt;
-      &lt;li&gt;Similarly, if you do not drink enough before the run, during the run, or after the run… You will get really dehydrated!&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pain Localized in the Lower Part of The Body&lt;/strong&gt;. It is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is pain localized in the lower body parts. Obviously…
-    &lt;ul&gt;
-      &lt;li&gt;Similarly, while starting to run, you will stimulate, in a not so gentle way, muscles, tendons, and ligaments localized in the lower part of your body… And they will let you know that they do not like it at all!&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Scars&lt;/strong&gt;. It is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is getting scars. Obviously…
-    &lt;ul&gt;
-      &lt;li&gt;Well, if you do not lift your feet high enough you will trip, fall down, and smash the ground!&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I know that you all now expect from me to describe the good parts of &lt;strong&gt;making love to a bear&lt;/strong&gt;… Unfortunately, it is time to stop the analogy. For obvious reasons…&lt;/p&gt;
-
-&lt;h3 id=&quot;a-conclusion&quot;&gt;A conclusion&lt;/h3&gt;
-
-&lt;p&gt;It is fun enough to keep to do it ;-)&lt;/p&gt;
-
-&lt;h3 id=&quot;running-log&quot;&gt;Running log&lt;/h3&gt;
-&lt;p&gt;I prefer to warn you, it will not be impressive!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../images/strava_log_1.png&quot; alt=&quot;&quot; /&gt;
-The number in the green circles represent the distance runned in a day (in km ot in miles!). Not very impressive right? But it is actually even better, there will be a lot room for improvement!&lt;/p&gt;
-
-&lt;h3 id=&quot;first-10k-ever&quot;&gt;First 10k ever&lt;/h3&gt;
-
-&lt;p&gt;And I finished my first 5 weeks of running by doing a 10k! I was pretty happy about that! I wanted now to share this crazy news to my friends in France, and, precisely, I was going to visit them 2 weeks later. I was looking forward to it, they were apparently pretty enthusiastic about a restaurant, and most specifically its dessert menu…&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../images/first10k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Thinking about how the killer baba night turned out… Something went definitively wrong! I just wanted to brag a bit about running a 10k in less than 1h (at a pace of 5:34min/km)… And now I signed up for a half-marathon (21.1km) with guys running it in less that 5min/km…&lt;/p&gt;
-
-&lt;p&gt;Really?!&lt;/p&gt;
-
-&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;I actually heard the &lt;strong&gt;bear expression&lt;/strong&gt; quite recently in a business related discussion… Maybe you wonder now what type of job I am doing… Good question!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;For people still using the imperial unit system: 1mile ~ 1.61km.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;This post will now be referred to as the &lt;strong&gt;bear beginning&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</content>
-
-			
-				<category term="running" />
-			
-			
-
-			<published>2019-01-03T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/running-adventures/story/title_explanation-post/</id>
-			<title>Title Explanation a.k.a. Crystal Clear</title>
-			<link href="http://localhost:4000/running-adventures/story/title_explanation-post/" rel="alternate" type="text/html" title="Title Explanation a.k.a. Crystal Clear" />
-			<updated>2019-01-02T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>muffin man</name>
-					
-					
-					
-				</author>
-			
-			<summary>You may have wondered what logical steps were followed to come up with this site title...</summary>
-			<content type="html" xml:base="http://localhost:4000/running-adventures/story/title_explanation-post/">&lt;p&gt;After writing the &lt;a href=&quot;/running-adventures/story/the-start-post/&quot;&gt;Killer BaBa Night&lt;/a&gt; post, 
-I naturally decided to send it to the dream team to get their feedback.&lt;/p&gt;
+			<summary>You may have wondered what logical steps led to this site title...</summary>
+			<content type="html" xml:base="http://localhost:4000/running-adventures/story/title_explanation-post/">&lt;p&gt;After writing the &lt;a href=&quot;/running-adventures/story/the-start-post/&quot;&gt;Killer BaBa Night&lt;/a&gt; 
+and &lt;a href=&quot;/running-adventures/story/the-start-post/&quot;&gt;Bear Beginning&lt;/a&gt; posts, 
+I naturally decided to send it to the Dream Team to get their feedback.&lt;/p&gt;
 
 &lt;h3 id=&quot;the-feedback&quot;&gt;The feedback&lt;/h3&gt;
 
-&lt;p&gt;I have to be honest, I did not collect the feedback of all members of the dream team…
+&lt;p&gt;I have to be honest, I did not collect the feedback of all members of the Dream Team…
  When I called &lt;strong&gt;Barby Girl&lt;/strong&gt;, we did not speak much, 
- she was warming up for a rugby match and about to practice the scrum…
+ she was warming up for a rugby match in which she was playing number 8…
 But this is classic &lt;strong&gt;Barby Girl&lt;/strong&gt;!&lt;/p&gt;
 
-&lt;p&gt;While &lt;strong&gt;Gummy Bear&lt;/strong&gt;, &lt;strong&gt;Chamomile&lt;/strong&gt;, and &lt;strong&gt;Rambo Chérie&lt;/strong&gt; were kind of indifferent 
+&lt;p&gt;While &lt;strong&gt;Bergamot&lt;/strong&gt;, &lt;strong&gt;Chamomile&lt;/strong&gt;, and &lt;strong&gt;Rambo Chérie&lt;/strong&gt; were kind of indifferent 
 about the post, &lt;strong&gt;Aurélia&lt;/strong&gt; reacted completely differently. She bloody loved it!
 She was not able to stop complimenting the concept of the blog in general and the choice of her alias in particular, 
 up to the point where it even became embarrassing… But this is classic &lt;strong&gt;Aurélia&lt;/strong&gt;!&lt;/p&gt;
@@ -293,7 +574,7 @@ up to the point where it even became embarrassing… But this is classic &lt;str
 &lt;h3 id=&quot;the-title&quot;&gt;The title&lt;/h3&gt;
 
 &lt;p&gt;Point taken. I have to agree with &lt;strong&gt;Aurélia&lt;/strong&gt;, &lt;strong&gt;The Running Adventures of the Still Standing Muffin Man&lt;/strong&gt; is,
- at first sight, pretty cryptic. Cryptic enough to try to bring a little bit of clarity…&lt;/p&gt;
+ at first sight, pretty cryptic. Cryptic enough to try to bring a little bit of clarity in this crazy world…&lt;/p&gt;
 
 &lt;h4 id=&quot;bringing-confusion&quot;&gt;Bringing confusion&lt;/h4&gt;
 
@@ -320,8 +601,8 @@ It simply defeats the purpose of running…&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;the &lt;strong&gt;Muffin&lt;/strong&gt;&lt;/p&gt;
 
-    &lt;p&gt;Does the writer like pastries in general and muffin in particular? 
- Does the website is about gluten free vegan muffin recipes to enhance the long distance running performance?&lt;/p&gt;
+    &lt;p&gt;Does the writer like pastries in general and &lt;strong&gt;muffin&lt;/strong&gt; in particular? 
+  Does the website is about gluten free vegan muffin recipes to enhance the long distance running performance?&lt;/p&gt;
 
     &lt;p&gt;Confusing even further the reader…&lt;/p&gt;
   &lt;/li&gt;
@@ -343,26 +624,26 @@ post we are now in the &lt;strong&gt;Post Gender Theory Area&lt;/strong&gt;. It 
   &lt;li&gt;the &lt;strong&gt;Running Adventures&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Being an emotional kind of guy, all my runs feels like kind of the very first run of Forrest Gum…&lt;/p&gt;
+&lt;p&gt;Being an emotional kind of guy, all my runs feels like the very first run of Forrest Gum…&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;240&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/IFeUIJMwG4A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/IFeUIJMwG4A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;and each one of my runs really looks like adventure ;-)&lt;/p&gt;
+&lt;p&gt;and each one of my runs really feels like an adventure ;-)&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;the &lt;strong&gt;Still Standing&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;After a run, &lt;strong&gt;Barely Standing&lt;/strong&gt; would be more appropriate but &lt;strong&gt;Still Standing&lt;/strong&gt; is more cool!
+&lt;p&gt;After a run, &lt;strong&gt;Barely Standing&lt;/strong&gt; would be more appropriate but &lt;strong&gt;Still Standing&lt;/strong&gt; is cool!
 And more importantly, &lt;strong&gt;Still Standing&lt;/strong&gt; appears in the lyrics of one of mine post-running favourite songs:&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;240&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/NgzRea-9TuI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/NgzRea-9TuI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -378,15 +659,15 @@ a really short scene in particular:&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;240&quot; height=&quot;200&quot; src=&quot;https://www.youtube.com/embed/3taMwAEGBVc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/3taMwAEGBVc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;This scene made me laughed so much, 
 and so hard, that it got stick in my head. Since then, I was looking
-for an opportunity to place “the Muffin Man” somewhere…&lt;/p&gt;
+for an opportunity to place “&lt;strong&gt;the Muffin Man&lt;/strong&gt;” somewhere…&lt;/p&gt;
 
-&lt;p&gt;I have to admit that using “the Muffin Man” in a website dedicated to
+&lt;p&gt;I have to admit that using “&lt;strong&gt;the Muffin Man&lt;/strong&gt;” in a website dedicated to
 running is a bit of stretch, but it is good enough for me. And I hope it
 is good enough for you too ;-)&lt;/p&gt;
 
@@ -396,6 +677,113 @@ is good enough for you too ;-)&lt;/p&gt;
 
 			
 				<category term="story" />
+			
+			
+
+			<published>2019-01-03T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/running-adventures/running/before-the-start-post/</id>
+			<title>Before The Start a.k.a. The Bear Beginning</title>
+			<link href="http://localhost:4000/running-adventures/running/before-the-start-post/" rel="alternate" type="text/html" title="Before The Start a.k.a. The Bear Beginning" />
+			<updated>2019-01-02T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>muffin man</name>
+					
+					
+					
+				</author>
+			
+			<summary>As mentioned in the previous post, I have begun to run before the Killer BaBa night. This post describes how it went...</summary>
+			<content type="html" xml:base="http://localhost:4000/running-adventures/running/before-the-start-post/">&lt;h3 id=&quot;a-doubtful-analogy&quot;&gt;A doubtful analogy&lt;/h3&gt;
+
+&lt;p&gt;My first weeks of running could actually be resumed by a simple analogy: It is like &lt;strong&gt;making love to a bear&lt;/strong&gt;… (figuratively speaking).&lt;/p&gt;
+
+&lt;p&gt;Figuratively speaking, for sure. But, somehow, the side effects look surprisingly similar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dizziness&lt;/strong&gt;. It is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is dizziness… 
+  Pretty obvious right?…
+    &lt;ul&gt;
+      &lt;li&gt;And actually, if you do not breath enough while running - which, trust me, will happen - you will get really dizzy!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dehydration&lt;/strong&gt;. It is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is dehydration…
+  Pretty obvious right?…
+    &lt;ul&gt;
+      &lt;li&gt;And actually, if you do not drink enough before the run, during the run, or after the run - which, trust me, will happen - You will get really dehydrated!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pain Localized in the Lower Part of The Body&lt;/strong&gt;. It is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is pain localized in the lower body parts…
+  Pretty obvious right?…
+    &lt;ul&gt;
+      &lt;li&gt;And actually, while starting to run, you will stimulate, in a not so gentle way, muscles, tendons, and ligaments localized in the lower part of your body… 
+  And they will let you know that they do not like it at all! Which, trust me, will happen.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Scars&lt;/strong&gt;. It is indeed not so hard to imagine that one of the &lt;strong&gt;making love to a bear&lt;/strong&gt; effects is getting scars…
+  Pretty obvious right?…
+    &lt;ul&gt;
+      &lt;li&gt;And actually, if you do not lift your feet high enough you will trip, fall down, and smash the ground! Which, trust me, will happen.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;a-conclusion&quot;&gt;A conclusion&lt;/h3&gt;
+
+&lt;p&gt;You may then ask, why not just stopping?&lt;/p&gt;
+
+&lt;p&gt;Good question! Well, first, the &lt;strong&gt;making love to a bear&lt;/strong&gt; side effects disappear, and,
+second, it is really fun!&lt;/p&gt;
+
+&lt;h3 id=&quot;running-log&quot;&gt;Running log&lt;/h3&gt;
+&lt;p&gt;I prefer to warn you, it will not be impressive!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/strava_log_1.png&quot; alt=&quot;&quot; /&gt;
+The number in the green circles represent the distance runned in a day (in km not in miles!). 
+Not very impressive right? But it is actually okay, there will be a lot room for improvement!&lt;/p&gt;
+
+&lt;h3 id=&quot;first-10k-ever&quot;&gt;First 10k ever&lt;/h3&gt;
+
+&lt;p&gt;And I finished my first 5 weeks of running by doing a 10k!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/first10k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was pretty happy about that! I wanted now to share this crazy news with my friends in France. 
+And, precisely, I was going to visit them 2 weeks later. 
+I was looking forward to it, they were apparently pretty enthusiastic about a restaurant, 
+and most specifically its dessert menu…&lt;/p&gt;
+
+&lt;p&gt;Thinking about how the killer baba night turned out… Something went definitively wrong! 
+I just wanted to brag a bit about running my first 10k in less than 1h,
+ which is, indeed, not that impressive… 
+And now I signed up for a half-marathon (21.1km) with guys running it in less that 1h45…&lt;/p&gt;
+
+&lt;p&gt;Really?!&lt;/p&gt;
+
+&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;I actually heard the &lt;strong&gt;bear expression&lt;/strong&gt; quite recently in a business related discussion… 
+Maybe you wonder now what type of job I am doing… Good question!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;For people still using the imperial unit system (just in case): 1mile ~ 1.61km.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This post will now be referred to as the &lt;strong&gt;Bear Beginning&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+
+			
+				<category term="running" />
 			
 			
 
@@ -422,7 +810,7 @@ is good enough for you too ;-)&lt;/p&gt;
 			<content type="html" xml:base="http://localhost:4000/running-adventures/story/the-start-post/">&lt;h3 id=&quot;the-decor&quot;&gt;The decor&lt;/h3&gt;
 
 &lt;p&gt;The moment everything really started was in Summer 2018 during a dinner at the terrace of a restaurant in 
-Nice - South of France at the terrace of a restaurant in the &lt;em&gt;Vieux Nice&lt;/em&gt;; with few friends, 
+Nice - South of France at the terrace of a restaurant in the &lt;em&gt;Vieux Nice&lt;/em&gt;; with few good friends, 
 a lot of good food, a lot of good wine, and one bad cigarette (but please, do not drink nor smoke…).&lt;/p&gt;
 
 &lt;p&gt;We were finishing our glasses of wine while waiting for the dessert. The dessert will reveal to be a huge 
@@ -448,7 +836,7 @@ a lot of good food, a lot of good wine, and one bad cigarette (but please, do no
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bergamot_orange&quot;&gt;Gummy Bear&lt;/a&gt;&lt;/strong&gt;’ already run the half of Nice under 1h45!&lt;/p&gt;
+    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bergamot_orange&quot;&gt;Bergamot&lt;/a&gt;&lt;/strong&gt;’ already run the half of Nice under 1h45!&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Chamomile&quot;&gt;Chamomile&lt;/a&gt;&lt;/strong&gt;’ already runs the half-marathon under 1h35, already run three marathons, and will run the Toulouse marathon in a couple of months!&lt;/p&gt;
@@ -496,7 +884,7 @@ a lot of good food, a lot of good wine, and one bad cigarette (but please, do no
   &lt;li&gt;
     &lt;p&gt;This evening will be referred as the &lt;strong&gt;Killer BaBa Night&lt;/strong&gt;.&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Sad sad news, the restaurant removed the rum bab from its menu… Customers were complaining about the rum bab side effects such as liver failure and cirrhosis.&lt;/li&gt;
+  &lt;li&gt;Sad sad news, the restaurant removed the rum bab from its menu… Customers were complaining about the rum baba side effects…&lt;/li&gt;
 &lt;/ul&gt;
 </content>
 

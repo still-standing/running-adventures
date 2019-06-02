@@ -12,7 +12,7 @@ categories:
 
 
 The moment everything really started was in Summer 2018 during a dinner at the terrace of a restaurant in 
-Nice - South of France at the terrace of a restaurant in the *Vieux Nice*; with few friends, 
+Nice - South of France at the terrace of a restaurant in the *Vieux Nice*; with few good friends, 
 a lot of good food, a lot of good wine, and one bad cigarette (but please, do not drink nor smoke...). 
 
 We were finishing our glasses of wine while waiting for the dessert. The dessert will reveal to be a huge 
@@ -34,7 +34,7 @@ Rare are the moments where I do not want to speak, this moment was one of those.
 
 Between my first and second drag I discovered that:
 
-* '**[Gummy Bear](https://en.wikipedia.org/wiki/Bergamot_orange)**' already run the half of Nice under 1h45!
+* '**[Bergamot](https://en.wikipedia.org/wiki/Bergamot_orange)**' already run the half of Nice under 1h45!
 
 * '**[Chamomile](https://en.wikipedia.org/wiki/Chamomile)**' already runs the half-marathon under 1h35, already run three marathons, and will run the Toulouse marathon in a couple of months!
 
@@ -67,4 +67,4 @@ After that, the killer Baba arrived, and the rest is fun blurry history.
 
 * This evening will be referred as the **Killer BaBa Night**.
 
-* Sad sad news, the restaurant removed the rum bab from its menu... Customers were complaining about the rum bab side effects such as liver failure and cirrhosis. 
+* Sad sad news, the restaurant removed the rum bab from its menu... Customers were complaining about the rum baba side effects... 

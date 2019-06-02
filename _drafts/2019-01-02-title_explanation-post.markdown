@@ -9,13 +9,13 @@ categories:
 ---
 
 After writing the [Killer BaBa Night]({{ site.baseurl }}{% post_url 2019-01-01-the-start-post %}) post, 
-I naturally decided to send it to the dream team to get their feedback about their aliases and the post itself.
+I naturally decided to send it to the Dream Team to get their feedback about their aliases and the post itself.
 
 ### The aliases
 
-* Why **Gummy Bear**?
+* Why **Bergamot**?
     
-    Like the very famous little sweets, **Gummy Bear** has the perfect ratio of sweetest and sourest to
+    Like the very famous little sweets, **Bergamot** has the perfect ratio of sweetest and sourest to
     make the things cool and interesting! But do not get me wrong, 
     like the very famous little sweets, he can also be responsible of painful *dentist appointments*...
     
@@ -34,7 +34,7 @@ I naturally decided to send it to the dream team to get their feedback about the
     **Aurélia** is, without doubt, the brain of the band. **Aurélia** was able to acquire 
     a colossal knowledge by passing by the centuries, like a little bee goes from a flower
     to another. Should I remind you that she was born in B.C.?
-     In the dream team, **Aurélia** focuses mainly on two things:
+     In the Dream Team, **Aurélia** focuses mainly on two things:
         1- distributing her knowledge, a little but like Mike Tyson distributes the uppercuts.
         2- running really fast.
       
@@ -47,10 +47,10 @@ I naturally decided to send it to the dream team to get their feedback about the
     a
 ### The feedback
 
-I have to be honest, I did not collect the feedback of all members of the dream team...
+I have to be honest, I did not collect the feedback of all members of the Dream Team...
  When I called **Barby Girl**, we did not speak much, she was warming up for a rugby match and about to practice the scrum...
 
-While **Gummy Bear**, **Chamomile**, and **Rambo Chérie** were kind of indifferent 
+While **Bergamot**, **Chamomile**, and **Rambo Chérie** were kind of indifferent 
 about the aliases and the post, **Aurélia** reacted completely differently. She bloody loved it!
 She was not able to stop complimenting the concept of the blog in general and the choice of her alias in particular, up to the point 
 where it even became embarrassing... But this is classic **Aurélia**! 

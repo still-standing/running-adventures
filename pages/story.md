@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Story Behind The Scene \b a.k.a. The Muffin"
-subheadline: "Some fun with the dream team"
+subheadline: "Some fun with the Dream Team"
 permalink: "/story/"
 header:
     image_fullwidth: "../images/chang-duong-398144-unsplash_header.jpg"
