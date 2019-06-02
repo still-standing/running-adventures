@@ -16,11 +16,11 @@ But, before that, the dream decided to meet, party, and run a little 15km in the
 The plan was as follows: first we go to Clans in the afternoon, then we have a [raclette](https://en.wikipedia.org/wiki/Raclette) *few* glasses of red wine, a good night of rest, and after a good coffee, and finally, a teeny-tiny run in the mountain as a little clean-up.
 
 And everything went according to plan, up until after dinner,
-when **Barby Girl** came-up with an improbable alcoholic drink...
+when **Barbie Girl** came-up with an improbable alcoholic drink...
 
 #### Une petite Suze?
 
-And there is no more improbable drink than the [Suze](https://en.wikipedia.org/wiki/Suze_(drink)). As you can gess from the size of its wikepedia page... The good part of the Suze, is that it can be used in quite different contexts, such as to defrost, to clean the oven, to unblock the sink, and, well, to drink. But, **Barby Girl** managed, somehow, to convince **Bergamot** that it was drinkable.
+And there is no more improbable drink than the [Suze](https://en.wikipedia.org/wiki/Suze_(drink)). As you can gess from the size of its wikepedia page... The good part of the Suze, is that it can be used in quite different contexts, such as to defrost, to clean the oven, to unblock the sink, and, well, to drink. But, **Barbie Girl** managed, somehow, to convince **Bergamot** that it was drinkable.
 To be honest, I preferred to join **Chamomile** and just have some tea.
 Yeah, it was that bad...
 

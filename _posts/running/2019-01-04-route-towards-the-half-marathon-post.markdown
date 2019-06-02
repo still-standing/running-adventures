@@ -73,7 +73,7 @@ This comment was followed by silence.
 
    * **Bergamot** napped.
    * **Chamomile** made some tea to forget this madness.
-   * **Barby Girl** drunk *few* cosmopolitan cocktails to calm down.
+   * **Barbie Girl** drunk *few* cosmopolitan cocktails to calm down.
    * **Aurélia** engraved her shopping list in a marble plate. She was born in BC remember?
    * **Rambo Chérie** went clay pigeon shooting to find inner peace.
    * and the **Muffin Man** looked for trail races...

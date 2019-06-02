@@ -15,9 +15,9 @@ I naturally decided to send it to the Dream Team to get their feedback.
 ### The feedback
 
 I have to be honest, I did not collect the feedback of all members of the Dream Team...
- When I called **Barby Girl**, we did not speak much, 
+ When I called **Barbie Girl**, we did not speak much, 
  she was warming up for a rugby match in which she was playing number 8...
-But this is classic **Barby Girl**!
+But this is classic **Barbie Girl**!
 
 While **Bergamot**, **Chamomile**, and **Rambo Chérie** were kind of indifferent 
 about the post, **Aurélia** reacted completely differently. She bloody loved it!

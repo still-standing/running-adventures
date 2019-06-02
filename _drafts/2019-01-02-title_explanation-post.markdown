@@ -25,9 +25,9 @@ I naturally decided to send it to the Dream Team to get their feedback about the
     And he does that pretty well!
     That, plus the fact that he simply loves tea!
     
-* Why **Barby Girl**?
+* Why **Barbie Girl**?
 
-    **Barby Girl** is simply the diva of the band. 
+    **Barbie Girl** is simply the diva of the band. 
     
 * Why **Aurélia**?
 
@@ -48,7 +48,7 @@ I naturally decided to send it to the Dream Team to get their feedback about the
 ### The feedback
 
 I have to be honest, I did not collect the feedback of all members of the Dream Team...
- When I called **Barby Girl**, we did not speak much, she was warming up for a rugby match and about to practice the scrum...
+ When I called **Barbie Girl**, we did not speak much, she was warming up for a rugby match and about to practice the scrum...
 
 While **Bergamot**, **Chamomile**, and **Rambo Chérie** were kind of indifferent 
 about the aliases and the post, **Aurélia** reacted completely differently. She bloody loved it!

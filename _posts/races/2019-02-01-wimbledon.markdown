@@ -102,7 +102,7 @@ But I learned few valuable lessons:
 I realized few days later that the unsaid agreement evoked earlier was void:
 
 * **Rambo Chérie** really wanted to race the Nice half-marathon. 
-* **Barby Girl** already registered to the Nice half-marathon.
+* **Barbie Girl** already registered to the Nice half-marathon.
 * **Chamomile** will join the race even if he is playing hard to get for now.
 
 Okay guys! let's just do it then!!!
