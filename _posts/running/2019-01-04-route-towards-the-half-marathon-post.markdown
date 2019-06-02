@@ -14,7 +14,9 @@ categories:
 I perceived my first 10km as **a message of hope** towards greater things in general,
  and longer distances in particular. But, somehow, I misread the message, it was more like: 
  
-<br><iframe width="480" height="300"  src="https://www.youtube.com/embed/BtIZitLJ68Q" frameborder="0" allowfullscreen></iframe>
+<br>
+
+<iframe width="480" height="300"  src="https://www.youtube.com/embed/BtIZitLJ68Q" frameborder="0" allowfullscreen></iframe>
 
 Sadly, pain was the main outcome of my next week of training, and my theory of being unstoppable was kind of wrong...
 <br>To be more specific, never a theory was that wrong...
