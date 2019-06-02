@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14c3687d-1bd2-4598-a6a0-1bb45ea433e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_drafts/2019-01-02-title_explanation-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/2019-01-02-title_explanation-post.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/races/2019-02-01-wimbledon.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/races/2019-02-01-wimbledon.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/story/2019-01-03-title_explanation-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/2019-01-03-title_explanation-post.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/races/wimbledon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/races/wimbledon/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/running/increasing-weekly-milage-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/running/increasing-weekly-milage-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/running/route-towards-the-half-marathon-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/running/route-towards-the-half-marathon-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/story/the-start-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/the-start-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/story/title_explanation-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/title_explanation-post/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,24 +38,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="391">
-                <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <first_editor relative-caret-position="123">
+                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="373">
-                <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <first_editor relative-caret-position="387">
+                <caret line="39" selection-start-line="39" selection-end-line="39" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,7 +66,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>feest</find>
       <find>figurative</find>
       <find>design</find>
       <find>of course</find>
@@ -106,6 +95,7 @@
       <find>Bergamote</find>
       <find>dream team</find>
       <find>Barby</find>
+      <find>to</find>
     </findStrings>
     <replaceStrings>
       <replace>The Running Adventures of the Still Standing Muffin Man</replace>
@@ -178,14 +168,14 @@
         <option value="$PROJECT_DIR$/_posts/running/2018-02-04-route-towards-the-half-marathon-post.markdown" />
         <option value="$PROJECT_DIR$/_posts/races/2019-02-01-wimbledon.markdown" />
         <option value="$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown" />
-        <option value="$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown" />
         <option value="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" />
+        <option value="$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="157" />
-    <option name="y" value="190" />
+    <option name="x" value="22" />
+    <option name="y" value="24" />
     <option name="width" value="1658" />
     <option name="height" value="976" />
   </component>
@@ -338,10 +328,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="157" y="190" width="1658" height="976" extended-state="0" />
+    <frame x="22" y="24" width="1658" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27413365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27722773" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -653,21 +643,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <first_editor relative-caret-position="387">
+            <caret line="39" selection-start-line="39" selection-end-line="39" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="373">
-            <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <first_editor relative-caret-position="123">
+            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           </first_editor>
           <second_editor />
         </state>

@@ -64,11 +64,10 @@ Don't get me wrong, I love this song, it is a great song, a song full of emotion
 <iframe width="480" height="300" src="https://www.youtube.com/embed/tIdIqbv7SPo" frameborder="0" allowfullscreen></iframe>
 
 <br> ... maybe full of too many emotions!
-<br> I was thinking about **Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse**
-<br> a.k.a. **Rambo Chérie**, not there with me... And I just started to cry, and stopped to run. 
+<br> I was thinking about **Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse** a.k.a. **Rambo Chérie**, not there with me... And I just started to cry, and stopped to run. 
 Looks like I am an emotional kind of guy after all. 
-<br> Yeah, I stopped to run because of this song... And also maybe because I was not able to breath neither... 
-I little bit of both think actually.
+<br> Yeah, I stopped to run because of this song... And also because I was not able to breath neither... 
+Let's say a little bit of both.
 And once you stop to run, you will continue to stop... 
 
 #### Race log
@@ -92,7 +91,7 @@ But I learned few valuable lessons:
 
 ### Conclusion
 
-<br> Yes, I was sick.
+Yes, I was sick.
 <br> Yes, I cried.
 <br> Yes, I did not get a Personal Record on the half-marathon distance.
 <br> But it was so fun! And I am already thinking about the next race...

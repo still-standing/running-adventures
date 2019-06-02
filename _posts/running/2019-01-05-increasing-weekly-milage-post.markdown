@@ -13,7 +13,7 @@ But, before that, the dream decided to meet, party, and run a little 15km in the
 
 ### A little run in the mountain 
 
-The plan was as follows: first we go to Clans in the afternoon, then we have a [raclette](https://en.wikipedia.org/wiki/Raclette) *few* glasses of red wine, a good night of rest, and after a good coffee, and finally, a teeny-tiny run in the mountain as a little clean-up.
+The plan was as follows: first we go to Clans in the afternoon, then we have a [raclette](https://en.wikipedia.org/wiki/Raclette) and a *few* glasses of red wine, a good night of rest, a good coffee, and finally, a teeny-tiny run in the mountain as a little clean-up.
 
 And everything went according to plan, up until after dinner,
 when **Barbie Girl** came-up with an improbable alcoholic drink...
