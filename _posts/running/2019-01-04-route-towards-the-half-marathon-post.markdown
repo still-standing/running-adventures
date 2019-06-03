@@ -43,7 +43,7 @@ But again, the good thing is that there is definitely room for improvement!
 
 In October 2018, **Bergamot** was in need of strong sensations. 
 And to fill his need, he decided to run. But not a regular run, 
-he went for the **crazy 8**:
+he went for the **crazy 8** (the route looks like an eight and the distance is crazy!):
 
 * 24km of distance
 
@@ -65,7 +65,6 @@ The reaction what two-fold:
    * WHAT'S WRONG WITH YOU!!!!
 
 At this moment, he innocently tells the Dream Team: 
-
 <br> "A little trail of 30km, 40km in the mountain is kind of tempting, don't you think?"
 
 ### The explosion

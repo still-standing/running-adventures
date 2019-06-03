@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="14c3687d-1bd2-4598-a6a0-1bb45ea433e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="175">
+              <first_editor relative-caret-position="-316">
                 <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               </first_editor>
               <second_editor />
@@ -26,20 +25,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown">
+        <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-02-before-the-start-post.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="289">
-                <caret line="41" column="14" selection-start-line="41" selection-end-line="42" />
+              <first_editor relative-caret-position="1219">
+                <caret line="53" column="14" selection-start-line="53" selection-end-line="54" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_data/authors.yml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="516">
+                <caret line="45" column="86" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -211,13 +217,13 @@
         <option value="$PROJECT_DIR$/_data/socialmedia.yml" />
         <option value="$PROJECT_DIR$/pages/pages-root-folder/index.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown" />
         <option value="$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown" />
+        <option value="$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="696" />
+    <option name="x" value="-72" />
     <option name="y" value="23" />
     <option name="width" value="1658" />
     <option name="height" value="976" />
@@ -382,10 +388,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-96" y="23" width="1658" height="976" extended-state="0" />
+    <frame x="-72" y="23" width="1658" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28032178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12809406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -611,16 +617,6 @@
     <entry file="file://$PROJECT_DIR$/_posts/running/2018-02-04-wimbledon.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-06-training-plan.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/running/2018-02-04-route-towards-the-half-marathon-post.markdown" />
-    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-02-before-the-start-post.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1010">
-            <caret line="53" column="14" selection-start-line="53" selection-end-line="54" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/running/route-towards-the-half-marathon-post/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -709,21 +705,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="41" column="14" selection-start-line="41" selection-end-line="42" />
+          <first_editor relative-caret-position="-316">
+            <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-02-before-the-start-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="175">
-            <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <first_editor relative-caret-position="1219">
+            <caret line="53" column="14" selection-start-line="53" selection-end-line="54" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="516">
+            <caret line="45" column="86" selection-start-line="45" selection-start-column="86" selection-end-line="45" selection-end-column="86" />
           </first_editor>
           <second_editor />
         </state>
