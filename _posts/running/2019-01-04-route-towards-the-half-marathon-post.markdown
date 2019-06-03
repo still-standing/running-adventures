@@ -36,7 +36,7 @@ And, on week after, I got my first half-marathon run in [Palo Alto, California](
 
 <img src="../../images/first21k.jpg" alt="">
 
-You may notice that I started way to strong, and I actually finished the run walking... 
+You may notice that I started way too strong, and I actually finished the run walking... 
 But again, the good thing is that there is definitely room for improvement!
 
 ### When **Bergamot** drops a bomb

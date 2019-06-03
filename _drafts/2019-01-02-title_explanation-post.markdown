@@ -2,16 +2,11 @@
 layout: page-fullwidth
 header:
     image_fullwidth: ../../images/chang-duong-398144-unsplash_header.jpg
-title: "Title and Aliases Explanation a.k.a. Crystal Clear"
-teaser: "You may have wondered what logical steps were followed to come up with this site title..."
+title: "Nice Half-Marathon a.k.a. Completely Fourchette"
+teaser: "When the Dream Team is united..."
 categories:
     - story
 ---
-
-After writing the [Killer BaBa Night]({{ site.baseurl }}{% post_url 2019-01-01-the-start-post %}) post, 
-I naturally decided to send it to the Dream Team to get their feedback about their aliases and the post itself.
-
-### The aliases
 
 * Why **Bergamot**?
     

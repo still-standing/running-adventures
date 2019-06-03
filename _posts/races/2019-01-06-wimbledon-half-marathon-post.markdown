@@ -38,7 +38,7 @@ In theory, you are at your pick physical level to race...
 In theory, you manage to race under your race time goal...
 <br> I had initially a pretty conservative race goal time of 1h50. 
 <br> But **Bergamot** spent days to convince me that 
-I should run my first half marathon below 1h45.
+I should run my first harlf-marathon below 1h45.
 
 **Bergamot** was actually stating the obvious:
 
@@ -87,7 +87,7 @@ But I learned few valuable lessons:
    * do not start the race too strong:
 
        * A 5k PR and a 10k PR in a 21km race does not seem right, and I am pretty sure that it is not!
-       * I heard that the first 2/3 of the race should be run with your legs and the last third with your heart. Well, it clearly does not work for the last 10k of a half marathon.
+       * I heard that the first 2/3 of the race should be run with your legs and the last third with your heart. Well, it clearly does not work for the last 10k of a harlf-marathon.
 
 ### Conclusion
 
