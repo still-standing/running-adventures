@@ -60,7 +60,7 @@ the **Running Adventures**, the **Still Standing**, the **Muffin**, and the **Ma
 
 4. the **Man**
 
-   As mentioned in the [Killer BaBa Night]({{ site.baseurl }}{% post_url 2019-01-01-the-start-post %}), 
+   As mentioned in the [Killer BaBa Night]({{ site.baseurl }}{% post_url 2019-01-01-the-start-post %})
    post we are now in the **Post Gender Theory Area**. It is then not possible to determine 
     the biological gender nor the emotional gender. 
     
