@@ -58,7 +58,8 @@ And, precisely, I was going to visit them 2 weeks later.
 I was looking forward to it, they were apparently pretty enthusiastic about a restaurant, 
 and most specifically its dessert menu...
 
-Thinking about how the killer baba night turned out... Something went definitively wrong! 
+Thinking about how the  [Killer BaBa Night]({{ site.baseurl }}{% post_url 2019-01-01-the-start-post %}) 
+ turned out... Something went definitively wrong! 
 I just wanted to brag a bit about running my first 10k in less than 1h,
  which is, indeed, not that impressive... 
 And now I signed up for a half-marathon (21.1km) with guys running it in less that 1h45... 
