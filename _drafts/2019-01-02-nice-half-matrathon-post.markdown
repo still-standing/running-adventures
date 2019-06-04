@@ -25,28 +25,47 @@ As a matter of fact, all those points can be easily resolved:
 The good news was that I was fully recovered from the flu, and it will be not too difficult 
 to start the race at a slower pace! 1. and 2. solved! 
 
-The last item to work on was the playlist and it appeared to be a little bit more complicated...  
+The last item to work on was the playlist and 
+it appeared to be a little bit more complicated than expected...  
 
 ## The playlist
 
 
 ## The last run before the race
-I decided to go for an easy run.
-I got insured. 
-
+Since the race was on Sunday, I decided to only go for a little run, on Wednesday.
+To achieve my race goal time, I should hold a pace a little bit below 5min/km (8min/mile), 
+so I chose to go for an easy 6min/km pace. And it was just fine.
+It was just fine until I started to fell a little bit of pain in my right thigh...
+A little bit pain, but then, a lot of pain... Damn!
+<br> I finished the run walking, and even that was not pleasant... 
+<br> You may ask, so what now? Well, good question. The plan is easy:
+ to rest and to be fully recovered tomorrow!   
 
 ## The party
+The day after, the pain was still there and I naturally decided to extent my race goal time 
+by quite a lot, from 1h45 to 2h. Yeah, it was that bad, I was walking like a duck... 
+And ducks are not know for there running capabilities.
+
+The good news was it was the day after Wednesday, namely Thirsty Thursday!
 
 #### The unique glass of red wine
 
-##### The unique bottle of wine
+The plan was simple, to go to a pub with some friends from work, have fun, drink a glass of wine, 
+and go home, early. 
 
-##### The three bottles of wine and the shots
+#### The unique bottle of wine
+But soon after asking for a glass of wine, the bartender convince us that, 
+it is better to order directly a bottle
+It was happy hour, and well, maybe two glasses is still okay...
+
+The **Wire Master** and I ordered a bottle of wine
+  
+#### The other bottle of wine and the shots
 
 I decided to 
 
 ### The recovery day
-Still insured with a teeny-tiny hangovered 
+Still insured with a teeny-tiny hangover
 
 
 ## The trip to Nice
