@@ -7,7 +7,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/404.html</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/blog/archive/</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/atom.xml</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +54,24 @@
 
 	
 	<url>
+	<loc>http://localhost:4000/running-adventures/contact/</loc>
+	
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://localhost:4000/running-adventures/feed.xml</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +86,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/humans.txt</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +101,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/blog/</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +116,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +131,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/races/</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/redirect-page/</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +161,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/robots.txt</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -165,7 +180,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/running/</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -180,7 +195,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/sitemap.xml</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -195,7 +210,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/story/</loc>
 	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -208,59 +223,29 @@
 
 	
 
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/blog/page2/</loc>
-	
-		<lastmod>2019-06-02T12:20:18+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
 
-
-<!-- Posts: 8 links with priority=0.5, changefreq=monthly -->
-
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/races/wimbledon/</loc>
-	
-		<lastmod>2019-02-01T00:00:00+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/running/suit-up-post/</loc>
-	
-		<lastmod>2019-01-10T00:00:00+00:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
+<!-- Posts: 7 links with priority=0.5, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://localhost:4000/running-adventures/running/training-plan-post/</loc>
 	
-		<lastmod>2019-01-06T00:00:00+00:00</lastmod>
+		<lastmod>2019-01-08T00:00:00-02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/running-adventures/races/wimbledon-half-marathon-post/</loc>
+	
+		<lastmod>2019-01-06T00:00:00-02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -275,7 +260,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/running/increasing-weekly-milage-post/</loc>
 	
-		<lastmod>2019-01-05T00:00:00+00:00</lastmod>
+		<lastmod>2019-01-05T00:00:00-02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -290,7 +275,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/running/route-towards-the-half-marathon-post/</loc>
 	
-		<lastmod>2019-01-04T00:00:00+00:00</lastmod>
+		<lastmod>2019-01-04T00:00:00-02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -305,7 +290,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/story/title_explanation-post/</loc>
 	
-		<lastmod>2019-01-03T00:00:00+00:00</lastmod>
+		<lastmod>2019-01-03T00:00:00-02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -320,7 +305,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/running/before-the-start-post/</loc>
 	
-		<lastmod>2019-01-02T00:00:00+00:00</lastmod>
+		<lastmod>2019-01-02T00:00:00-02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -335,7 +320,7 @@
 	<url>
 	<loc>http://localhost:4000/running-adventures/story/the-start-post/</loc>
 	
-		<lastmod>2019-01-01T00:00:00+00:00</lastmod>
+		<lastmod>2019-01-01T00:00:00-02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

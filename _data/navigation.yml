@@ -21,3 +21,6 @@
   url: "/story/"
   side: left
 
+- title: "Contact"
+  url: "/contact/"
+  side: right
