@@ -1,45 +1,36 @@
 ---
 ---
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <url>
-    <loc>https://still-standing.github.io/running-adventures/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url>
+<loc> https://still-standing.github.io/running-adventures/</loc>
+<priority>1.0</priority>
+</url>
+<url>
+<loc> https://still-standing.github.io/running-adventures/blog/</loc>
+<priority>1.0</priority>
+</url>
+<url>
+<loc> https://still-standing.github.io/running-adventures/running</loc>
+<priority>0.7</priority>
+</url>
+<url>
+<loc> https://still-standing.github.io/running-adventures/story/</loc>
+<priority>0.7</priority>
+</url>
+<url>
+<loc> https://still-standing.github.io/running-adventures/races/</loc>
+<priority>0.7</priority>
+</url>
 
-  <url>
-    <loc>https://still-standing.github.io/running-adventures/blog</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+    
 
-  <url>
-    <loc>https://still-standing.github.io/running-adventures/blog</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://still-standing.github.io/running-adventures/running</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://still-standing.github.io/running-adventures/races</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://still-standing.github.io/running-adventures/story</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
   {% for post in site.posts %}
-    {% include sitemap-entry.xml entry=post%}
-    {endfor}
+    {% if post.layout %}
+      {% include sitemap-entry.xml entry=post%} 
+    {% endif %}
   {% endfor %}
 
 </urlset>
