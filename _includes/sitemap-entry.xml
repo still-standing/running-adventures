@@ -1,0 +1,3 @@
+<url>
+	<loc> https://still-standing.github.io{{site.baseurl}}{{include.entry.url}}</loc>
+</url>
