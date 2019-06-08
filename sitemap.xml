@@ -5,7 +5,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc> https://still-standing.github.io/running-adventures/</loc>
+<loc> https://still-standing.github.io/running-adventures/index.html</loc>
 <priority>1.0</priority>
 </url>
 <url>
@@ -29,7 +29,7 @@
 
   {% for post in site.posts %}
     {% if post.layout %}
-      {% include sitemap-entry.xml entry=post%} 
+      {% include sitemap-entry.xml entry=post %} 
     {% endif %}
   {% endfor %}
 
