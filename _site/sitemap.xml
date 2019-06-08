@@ -5,7 +5,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/404.html</loc>
+	<loc>https://still-standing.github.io/running-adventures/</loc>
 	
 		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
@@ -20,24 +20,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/blog/archive/</loc>
-	
-		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/atom.xml</loc>
+	<loc>https://still-standing.github.io/running-adventures/blog/archive/</loc>
 	
 		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
@@ -54,112 +37,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/contact/</loc>
-	
-		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/feed.xml</loc>
-	
-		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/humans.txt</loc>
-	
-		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/blog/</loc>
-	
-		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/</loc>
-	
-		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/races/</loc>
-	
-		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/redirect-page/</loc>
-	
-		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/running-adventures/robots.txt</loc>
+	<loc>https://still-standing.github.io/running-adventures/atom.xml</loc>
 	
 		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
@@ -175,10 +53,8 @@
 	
 
 	
-
-	
 	<url>
-	<loc>http://localhost:4000/running-adventures/running/</loc>
+	<loc>https://still-standing.github.io/running-adventures/contact/</loc>
 	
 		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
@@ -193,7 +69,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/sitemap.xml</loc>
+	<loc>https://still-standing.github.io/running-adventures/feed.xml</loc>
 	
 		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
@@ -208,7 +84,131 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/story/</loc>
+	<loc>https://still-standing.github.io/running-adventures/humans.txt</loc>
+	
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://still-standing.github.io/running-adventures/blog/</loc>
+	
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://still-standing.github.io/running-adventures/</loc>
+	
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://still-standing.github.io/running-adventures/races/</loc>
+	
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://still-standing.github.io/running-adventures/redirect-page/</loc>
+	
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://still-standing.github.io/running-adventures/robots.txt</loc>
+	
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>https://still-standing.github.io/running-adventures/running/</loc>
+	
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://still-standing.github.io/running-adventures/sitemap.xml</loc>
+	
+		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://still-standing.github.io/running-adventures/story/</loc>
 	
 		<lastmod>2019-06-07T07:32:25-03:00</lastmod>
 	
@@ -228,7 +228,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/running/training-plan-post/</loc>
+	<loc>https://still-standing.github.io/running-adventures/running/training-plan-post/</loc>
 	
 		<lastmod>2019-01-08T00:00:00-02:00</lastmod>
 	
@@ -243,7 +243,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/races/wimbledon-half-marathon-post/</loc>
+	<loc>https://still-standing.github.io/running-adventures/races/wimbledon-half-marathon-post/</loc>
 	
 		<lastmod>2019-01-06T00:00:00-02:00</lastmod>
 	
@@ -258,7 +258,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/running/increasing-weekly-milage-post/</loc>
+	<loc>https://still-standing.github.io/running-adventures/running/increasing-weekly-milage-post/</loc>
 	
 		<lastmod>2019-01-05T00:00:00-02:00</lastmod>
 	
@@ -273,7 +273,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/running/route-towards-the-half-marathon-post/</loc>
+	<loc>https://still-standing.github.io/running-adventures/running/route-towards-the-half-marathon-post/</loc>
 	
 		<lastmod>2019-01-04T00:00:00-02:00</lastmod>
 	
@@ -288,7 +288,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/story/title_explanation-post/</loc>
+	<loc>https://still-standing.github.io/running-adventures/story/title_explanation-post/</loc>
 	
 		<lastmod>2019-01-03T00:00:00-02:00</lastmod>
 	
@@ -303,7 +303,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/running/before-the-start-post/</loc>
+	<loc>https://still-standing.github.io/running-adventures/running/before-the-start-post/</loc>
 	
 		<lastmod>2019-01-02T00:00:00-02:00</lastmod>
 	
@@ -318,7 +318,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/running-adventures/story/the-start-post/</loc>
+	<loc>https://still-standing.github.io/running-adventures/story/the-start-post/</loc>
 	
 		<lastmod>2019-01-01T00:00:00-02:00</lastmod>
 	
