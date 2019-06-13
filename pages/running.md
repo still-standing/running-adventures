@@ -7,7 +7,7 @@ header:
 permalink: "/running/"
 ---
 <ul>
-    {% for post in site.categories.running %}
+    {% for post in site.categories.running reversed %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

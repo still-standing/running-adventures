@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="14c3687d-1bd2-4598-a6a0-1bb45ea433e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/archive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/humans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/running/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/running/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/story/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/archive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/races.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/races.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/running.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/running.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/story.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/story.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,36 +21,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2019-01-02-nice-half-matrathon-post.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="541">
-                <caret line="68" selection-start-line="68" selection-end-line="68" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-03-title_explanation-post.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-615">
-                <caret line="62" column="102" lean-forward="true" selection-start-line="62" selection-start-column="102" selection-end-line="62" selection-end-column="102" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-02-before-the-start-post.markdown">
+        <entry file="file://$PROJECT_DIR$/blog/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/archive.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/races.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="328">
-                <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+              <first_editor relative-caret-position="207">
+                <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
               </first_editor>
               <second_editor />
             </state>
@@ -49,11 +52,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown">
+        <entry file="file://$PROJECT_DIR$/pages/running.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="897">
-                <caret line="39" column="52" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+              <first_editor relative-caret-position="207">
+                <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/story.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="322">
+                <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,12 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/atom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10810">
-              <caret line="470" column="43" selection-start-line="470" selection-start-column="43" selection-end-line="470" selection-end-column="43" />
-              <folding>
-                <element signature="e#23309#23313#0" expanded="true" />
-                <element signature="e#23314#23318#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="9867">
+              <caret line="429" column="43" selection-start-line="429" selection-start-column="43" selection-end-line="429" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -89,8 +100,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>header-bus.jpg</find>
-      <find>getting-started</find>
       <find>logo.png</find>
       <find>logo</find>
       <find>no-image</find>
@@ -119,6 +128,8 @@
       <find>started</find>
       <find>to stron</find>
       <find>killer</find>
+      <find>work_items</find>
+      <find>1000</find>
     </findStrings>
     <replaceStrings>
       <replace>The Running Adventures of the Still Standing Muffin Man</replace>
@@ -166,13 +177,9 @@
         <option value="$PROJECT_DIR$/_site/assets/xslt/rss.xslt" />
         <option value="$PROJECT_DIR$/_site/story/index.html" />
         <option value="$PROJECT_DIR$/_posts/story/2019-02-01-the-start-post.markdown" />
-        <option value="$PROJECT_DIR$/pages/races.md" />
-        <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/_includes/_sidebar.html" />
         <option value="$PROJECT_DIR$/_includes/_footer.html" />
-        <option value="$PROJECT_DIR$/pages/story.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
-        <option value="$PROJECT_DIR$/pages/running.md" />
         <option value="$PROJECT_DIR$/_site/assets/css/rss.css" />
         <option value="$PROJECT_DIR$/_site/assets/css/styles_feeling_responsive.css" />
         <option value="$PROJECT_DIR$/_sass/_01_settings_colors.scss" />
@@ -181,7 +188,6 @@
         <option value="$PROJECT_DIR$/_includes/title-explanation.html" />
         <option value="$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown" />
         <option value="$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown" />
-        <option value="$PROJECT_DIR$/blog/archive.html" />
         <option value="$PROJECT_DIR$/_drafts/2019-02-01-wimbledon.markdown" />
         <option value="$PROJECT_DIR$/_drafts/2019-01-01-suit-up.markdown" />
         <option value="$PROJECT_DIR$/_posts/running/2018-02-04-wimbledon.markdown" />
@@ -197,12 +203,17 @@
         <option value="$PROJECT_DIR$/_drafts/2019-01-02-nice-half-matrathon-post.markdown" />
         <option value="$PROJECT_DIR$/_posts/running/2019-01-02-before-the-start-post.markdown" />
         <option value="$PROJECT_DIR$/_posts/story/2019-01-03-title_explanation-post.markdown" />
+        <option value="$PROJECT_DIR$/pages/races.md" />
+        <option value="$PROJECT_DIR$/pages/running.md" />
+        <option value="$PROJECT_DIR$/pages/story.md" />
+        <option value="$PROJECT_DIR$/blog/archive.html" />
+        <option value="$PROJECT_DIR$/blog/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
-    <option name="y" value="23" />
+    <option name="x" value="158" />
+    <option name="y" value="178" />
     <option name="width" value="1658" />
     <option name="height" value="976" />
   </component>
@@ -239,20 +250,7 @@
             <path>
               <item name="running_adventures" type="b2602c69:ProjectViewProjectNode" />
               <item name="running_adventures" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="races" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="running_adventures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="running_adventures" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="running" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="running_adventures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="running_adventures" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="story" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="running_adventures" type="b2602c69:ProjectViewProjectNode" />
@@ -366,10 +364,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="23" width="1658" height="976" extended-state="0" />
+    <frame x="158" y="178" width="1658" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29084158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29455444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -412,9 +410,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/apple-touch-icon-152x152-precomposed.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/apple-touch-icon-180x180-precomposed.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -434,16 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/story.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_sidebar.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -460,16 +445,6 @@
     <entry file="file://$PROJECT_DIR$/pages/info.md" />
     <entry file="file://$PROJECT_DIR$/assets/img/logo.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/running.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="276">
-            <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/story/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -499,16 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/races.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="9" column="34" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/assets/css/rss.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3243">
@@ -518,24 +483,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-03-before-the-start-post.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-02-title_explanation-post.markdown" />
-    <entry file="file://$PROJECT_DIR$/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="21" selection-start-line="3" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_drafts/2019-02-01-wimbledon.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-training-plan.markdown" />
     <entry file="file://$PROJECT_DIR$/_drafts/2019-01-01-suit-up.markdown" />
     <entry file="file://$PROJECT_DIR$/_drafts/2018-02-01-wimbledon.markdown" />
-    <entry file="file://$PROJECT_DIR$/blog/archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="37" selection-start-line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/running/2018-02-04-wimbledon.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-06-training-plan.markdown" />
     <entry file="file://$PROJECT_DIR$/_posts/running/2018-02-04-route-towards-the-half-marathon-post.markdown" />
@@ -632,18 +583,18 @@
     <entry file="file://$PROJECT_DIR$/_drafts/2019-01-02-nice-half-matrathon-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="541">
+          <first_editor relative-caret-position="1564">
             <caret line="68" selection-start-line="68" selection-end-line="68" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-03-title_explanation-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="897">
-            <caret line="39" column="52" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+          <first_editor relative-caret-position="1426">
+            <caret line="62" column="102" selection-start-line="62" selection-start-column="102" selection-end-line="62" selection-end-column="102" />
           </first_editor>
           <second_editor />
         </state>
@@ -651,12 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/atom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10810">
-          <caret line="470" column="43" selection-start-line="470" selection-start-column="43" selection-end-line="470" selection-end-column="43" />
-          <folding>
-            <element signature="e#23309#23313#0" expanded="true" />
-            <element signature="e#23314#23318#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="9867">
+          <caret line="429" column="43" selection-start-line="429" selection-start-column="43" selection-end-line="429" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -670,23 +617,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/story/2019-01-03-title_explanation-post.markdown">
+    <entry file="file://$PROJECT_DIR$/pages/races.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-615">
-            <caret line="62" column="102" lean-forward="true" selection-start-line="62" selection-start-column="102" selection-end-line="62" selection-end-column="102" />
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/running.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_07_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2349">
+          <caret line="348" column="37" selection-start-line="348" selection-start-column="37" selection-end-line="348" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-02-before-the-start-post.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="328">
-            <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <first_editor relative-caret-position="1334">
+            <caret line="59" selection-start-line="59" selection-end-line="59" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="788">
+            <caret line="39" column="52" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/story.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="322">
+            <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

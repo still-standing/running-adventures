@@ -7,7 +7,7 @@ header:
 permalink: "/races/"
 ---
 <ul>
-    {% for post in site.categories.races %}
+    {% for post in site.categories.races reversed %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>

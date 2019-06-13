@@ -9,7 +9,7 @@ header:
 
 ---
 <ul>
-    {% for post in site.categories.story%}
+    {% for post in site.categories.story reversed %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
