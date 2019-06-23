@@ -134,12 +134,6 @@
 
           
           
-        
-
-              
-
-          
-          
             
             
               <li class="divider"></li>
@@ -203,7 +197,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/running-adventures/running/">running</a></li>
+              <li><a  href="http://localhost:4000/running-adventures/training/">training</a></li>
               <li class="divider"></li>
 
             
@@ -219,21 +213,6 @@
             
             
               <li><a  href="http://localhost:4000/running-adventures/races/">Races</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/running-adventures/story/">Story Behind The Scene</a></li>
               <li class="divider"></li>
 
             

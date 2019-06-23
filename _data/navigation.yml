@@ -9,16 +9,12 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "running"
-  url: "/running/"
+- title: "training"
+  url: "/training/"
   side: left
 
 - title: "Races"
   url: "/races/"
-  side: left
-
-- title: "Story Behind The Scene"
-  url: "/story/"
   side: left
 
 - title: "Contact"

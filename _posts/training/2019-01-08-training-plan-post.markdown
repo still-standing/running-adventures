@@ -7,7 +7,7 @@ a.k.a. Training Plan"
 teaser: "After a few months of running for the sake of it, it was time to look at how a runner trains to maximize its potential.  
 "
 categories:
-    - running
+    - training
 ---
 After running two half-marathon races and having registered for a trail and a full marathon, 
 a proper training plan was, somehow, required. Why having a training plan? Simply to run **smart**. 
@@ -131,7 +131,7 @@ Especially the easy run training, the training plan, and the periodization.
 
 Jack Daniels... again! Plus a book dedicated to marathon training was more than enough for me!
 
-<a href="https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&qid=1558174667&s=gateway&sr=8-1"> <img src="../../images/running_formula.jpg" > <a href="https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&qid=1558174711&s=gateway&sr=8-4"><img src="../../images/advanced_marathoning.jpg" ></a>
+<a href="https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&qid=1558174667&s=gateway&sr=8-1"  target="_blank"> <img src="../../images/running_formula.jpg" > <a href="https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&qid=1558174711&s=gateway&sr=8-4"  target="_blank"><img src="../../images/advanced_marathoning.jpg" ></a>
 
 
 

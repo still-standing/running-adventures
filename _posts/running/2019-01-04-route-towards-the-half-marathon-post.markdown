@@ -21,18 +21,29 @@ I perceived my first 10km as **a message of hope** towards greater things in gen
 
 Sadly, pain was the main outcome of my next weeks of training, and my theory of being unstoppable was kind of wrong...
 <br>To be more specific, never a theory was that wrong...
-<br>Except maybe the [*String Theory*](https://en.wikipedia.org/wiki/String_theory), but it is kind of different, 
-the *String Theory* is [not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)... 
+<br>Except maybe the 
+*<a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">String Theory</a>*, 
+but it is kind of different, 
+the *String Theory* is 
+*<a href="https://en.wikipedia.org/wiki/Not_even_wrong" target="_blank">not even wrong</a>*
+... 
 But let's forget of the *String Theory* for now.
 
+  
 ### The practice
 
 My first 10k ever was on July the 22nd, and it took me about two months to reach painfully 15km.
-Fun fact, I finally managed to get to 15km on a trail in [Page, Arizona](https://en.wikipedia.org/wiki/Page,_Arizona) at about 1250m above the sea level. 
+Fun fact, I finally managed to get to 15km on a trail in 
+<a href="https://en.wikipedia.org/wiki/age,_Arizona" target="_blank">Page, Arizona</a>, 
+
+at about 1250m above the sea level. 
 And I have to admit that it was a lot of fun! Yes the pace was slow, but the landscape was gorgeous! 
 <img src="../../images/first15k.jpg" alt="">
 
-And, on week after, I got my first half-marathon run in [Palo Alto, California](https://en.wikipedia.org/wiki/Palo_Alto,_California), but this time, at sea level.
+And, on week after, I got my first half-marathon run in 
+<a href="https://en.wikipedia.org/wiki/Palo_Alto,_California" target="_blank">Palo Alto, California</a>, 
+
+ but this time, at sea level.
 
 <img src="../../images/first21k.jpg" alt="">
 
@@ -80,7 +91,9 @@ This comment was followed by silence.
  
 And the bomb exploded:
 <br> Guys, I found a pretty cool trail! 
-<br> It is *just* a half-marathon with a teeny-tiny of ascent... 1100m, the [UTMC](https://www.utmc.fr). 
+<br> It is *just* a half-marathon with a teeny-tiny of ascent... 1100m, the 
+<a href="https://www.utmc.fr" target="_blank">UTMC</a>!
+
 <br> I already registered! You are also coming right?!
 <br> And, after napping, drinking tea, engraving shopping lists in marble, and clay pigeon shooting, the Dream Team signed up for this!!! 
 

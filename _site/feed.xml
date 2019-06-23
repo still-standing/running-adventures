@@ -10,8 +10,8 @@
 		
 			<item>
 				<title>I Love It When A Plan Comes Together&lt;br/&gt; a.k.a. Training Plan</title>
-				<link>http://localhost:4000/running-adventures/running/training-plan-post/</link>
-				<pubDate>Tue, 08 Jan 2019 00:00:00 -0200</pubDate>
+				<link>http://localhost:4000/running-adventures/training/training-plan-post/</link>
+				<pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;After running two half-marathon races and having registered for a trail and a full marathon, 
 a proper training plan was, somehow, required. Why having a training plan? Simply to run &lt;strong&gt;smart&lt;/strong&gt;.&lt;/p&gt;
 
@@ -130,19 +130,20 @@ Especially the easy run training, the training plan, and the periodization.&lt;/
 
 &lt;p&gt;Jack Daniels… again! Plus a book dedicated to marathon training was more than enough for me!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&amp;amp;qid=1558174667&amp;amp;s=gateway&amp;amp;sr=8-1&quot;&gt; &lt;img src=&quot;../../images/running_formula.jpg&quot; /&gt; &lt;a href=&quot;https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&amp;amp;qid=1558174711&amp;amp;s=gateway&amp;amp;sr=8-4&quot;&gt;&lt;img src=&quot;../../images/advanced_marathoning.jpg&quot; /&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.uk/Daniels-Running-Formula-3rd-Jack/dp/1450431836/ref=sr_1_1?keywords=jack+daniels+running&amp;amp;qid=1558174667&amp;amp;s=gateway&amp;amp;sr=8-1&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;../../images/running_formula.jpg&quot; /&gt; &lt;a href=&quot;https://www.amazon.co.uk/Advanced-Marathoning-Peter-Pfitzinger/dp/0736074600/ref=sr_1_4?keywords=marathon+training&amp;amp;qid=1558174711&amp;amp;s=gateway&amp;amp;sr=8-4&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;../../images/advanced_marathoning.jpg&quot; /&gt;&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/running-adventures/running/training-plan-post/</guid>
+				<guid isPermaLink="true">http://localhost:4000/running-adventures/training/training-plan-post/</guid>
 			</item>
 		
 			<item>
 				<title>First Race Ever a.k.a. Ain't No Sunshine</title>
 				<link>http://localhost:4000/running-adventures/races/wimbledon-half-marathon-post/</link>
-				<pubDate>Sun, 06 Jan 2019 00:00:00 -0200</pubDate>
+				<pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
 				<description>&lt;h3 id=&quot;from-nice-to-wimbledon&quot;&gt;From Nice to Wimbledon&lt;/h3&gt;
 
-&lt;p&gt;Since we all signed up for the &lt;a href=&quot;https://www.utmc.fr&quot;&gt;UTMC half-marathon&lt;/a&gt;, the Dream Team kind of reached an unsaid agreement:
+&lt;p&gt;&lt;br /&gt;
+Since we all signed up for the &lt;a href=&quot;https://www.utmc.fr&quot;&gt;UTMC half-marathon&lt;/a&gt;, the Dream Team kind of reached an unsaid agreement:
 &lt;br /&gt; The Nice half-marathon, in May the 5th, was a little bit too close from the UTMC, in July the 21st, 
  let’s just skip it. 
 &lt;br /&gt; But I did not want the crazy UTMC trail to be my first race either… 
@@ -180,8 +181,11 @@ I should run my first harlf-marathon below 1h45.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;the-race&quot;&gt;The race&lt;/h3&gt;
-
-&lt;p&gt;Okay &lt;strong&gt;Bergamot&lt;/strong&gt;! Let’s do it!&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&quot;../../images/wimbledon_common.jpg&quot; align=&quot;middle&quot; /&gt; 
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+Okay &lt;strong&gt;Bergamot&lt;/strong&gt;! Let’s do it!&lt;/p&gt;
 
 &lt;p&gt;I started strong, a little bit too exited maybe… Following the crowd, I was able to get a 5km Personal Record (PR) and a 10km PR in the first half of the race.
 The main problem I then faced was to continue at that pace for the second half… 
@@ -255,14 +259,19 @@ And once you stop to run, you will continue to stop…&lt;/p&gt;
 			<item>
 				<title>Increasing Weekly Millage a.k.a. Run Boy Run</title>
 				<link>http://localhost:4000/running-adventures/running/increasing-weekly-milage-post/</link>
-				<pubDate>Sat, 05 Jan 2019 00:00:00 -0200</pubDate>
+				<pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;It was definitely now time to train a little bit more consistently. 
-But, before that, the dream decided to meet, party, and run a little 15km in the mountain, to have a little taste of what the &lt;a href=&quot;https://www.utmc.fr&quot;&gt;UTMC half-marathon&lt;/a&gt; will reserve us.&lt;/p&gt;
+But, before that, the dream decided to meet, party, and run a little 15km in the mountain, to have a little taste of what the 
+&lt;a href=&quot;https://www.utmc.fr&quot; target=&quot;_blank&quot;&gt;UTMC half-marathon&lt;/a&gt; 
+will reserve us.&lt;/p&gt;
 
 &lt;h3 id=&quot;a-little-run-in-the-mountain&quot;&gt;A little run in the mountain&lt;/h3&gt;
 
-&lt;p&gt;The plan was as follows: first we go to &lt;a href=&quot;https://en.wikipedia.org/wiki/Clans,_Alpes-Maritimes&quot;&gt;Clans&lt;/a&gt;
- in the afternoon, then we have a &lt;a href=&quot;https://en.wikipedia.org/wiki/Raclette&quot;&gt;raclette&lt;/a&gt; and a &lt;em&gt;few&lt;/em&gt; glasses of red wine, 
+&lt;p&gt;The plan was as follows: first we go to 
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Clans,_Alpes-Maritimes&quot; target=&quot;_blank&quot;&gt;Clans&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;in the afternoon, then we have a 
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Raclette&quot; target=&quot;_blank&quot;&gt;raclette&lt;/a&gt;, 
  a good night of rest, a good coffee, and finally, a teeny-tiny run in the mountain as a little clean-up.&lt;/p&gt;
 
 &lt;p&gt;And everything went according to plan, up until after dinner,
@@ -270,8 +279,10 @@ when &lt;strong&gt;Barbie Girl&lt;/strong&gt; came-up with an improbable alcohol
 
 &lt;h4 id=&quot;une-petite-suze&quot;&gt;Une petite Suze?&lt;/h4&gt;
 
-&lt;p&gt;And there is no more improbable drink than the &lt;a href=&quot;https://en.wikipedia.org/wiki/Suze_(drink)&quot;&gt;Suze&lt;/a&gt;. 
-As you can guess from the size of its Wikepedia page… The good part of the Suze, is that it can be used in quite different contexts, 
+&lt;p&gt;And there is no more improbable drink than the [
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Suze_(drink)&quot; target=&quot;_blank&quot;&gt;Suze&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;As you can guess from the size of its Wikepedia page… The good part of the Suze, is that it can be used in quite different contexts, 
 such as to defrost, to clean the oven, to unblock the sink, and, well, to drink. But, &lt;strong&gt;Barbie Girl&lt;/strong&gt; managed, somehow, 
 to convince &lt;strong&gt;Bergamot&lt;/strong&gt; that it was drinkable.
 To be honest, I preferred to join &lt;strong&gt;Chamomile&lt;/strong&gt; and just have some tea.
@@ -312,7 +323,7 @@ the Nice half-marathon!&lt;/p&gt;
 			<item>
 				<title>Route Towards The Half-Marathon a.k.a. Pain</title>
 				<link>http://localhost:4000/running-adventures/running/route-towards-the-half-marathon-post/</link>
-				<pubDate>Fri, 04 Jan 2019 00:00:00 -0200</pubDate>
+				<pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
 				<description>&lt;h3 id=&quot;a-message-of-hope&quot;&gt;A message of hope&lt;/h3&gt;
 
 &lt;p&gt;I perceived my first 10km as &lt;strong&gt;a message of hope&lt;/strong&gt; towards greater things in general,
@@ -325,18 +336,28 @@ the Nice half-marathon!&lt;/p&gt;
 
 &lt;p&gt;Sadly, pain was the main outcome of my next weeks of training, and my theory of being unstoppable was kind of wrong…
 &lt;br /&gt;To be more specific, never a theory was that wrong…
-&lt;br /&gt;Except maybe the &lt;a href=&quot;https://en.wikipedia.org/wiki/String_theory&quot;&gt;&lt;em&gt;String Theory&lt;/em&gt;&lt;/a&gt;, but it is kind of different, 
-the &lt;em&gt;String Theory&lt;/em&gt; is &lt;a href=&quot;https://en.wikipedia.org/wiki/Not_even_wrong&quot;&gt;not even wrong&lt;/a&gt;… 
+&lt;br /&gt;Except maybe the 
+&lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/String_theory&quot; target=&quot;_blank&quot;&gt;String Theory&lt;/a&gt;&lt;/em&gt;, 
+but it is kind of different, 
+the &lt;em&gt;String Theory&lt;/em&gt; is 
+&lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Not_even_wrong&quot; target=&quot;_blank&quot;&gt;not even wrong&lt;/a&gt;&lt;/em&gt;
+… 
 But let’s forget of the &lt;em&gt;String Theory&lt;/em&gt; for now.&lt;/p&gt;
 
 &lt;h3 id=&quot;the-practice&quot;&gt;The practice&lt;/h3&gt;
 
 &lt;p&gt;My first 10k ever was on July the 22nd, and it took me about two months to reach painfully 15km.
-Fun fact, I finally managed to get to 15km on a trail in &lt;a href=&quot;https://en.wikipedia.org/wiki/Page,_Arizona&quot;&gt;Page, Arizona&lt;/a&gt; at about 1250m above the sea level. 
+Fun fact, I finally managed to get to 15km on a trail in 
+&lt;a href=&quot;https://en.wikipedia.org/wiki/age,_Arizona&quot; target=&quot;_blank&quot;&gt;Page, Arizona&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;at about 1250m above the sea level. 
 And I have to admit that it was a lot of fun! Yes the pace was slow, but the landscape was gorgeous! 
 &lt;img src=&quot;../../images/first15k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;And, on week after, I got my first half-marathon run in &lt;a href=&quot;https://en.wikipedia.org/wiki/Palo_Alto,_California&quot;&gt;Palo Alto, California&lt;/a&gt;, but this time, at sea level.&lt;/p&gt;
+&lt;p&gt;And, on week after, I got my first half-marathon run in 
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Palo_Alto,_California&quot; target=&quot;_blank&quot;&gt;Palo Alto, California&lt;/a&gt;,&lt;/p&gt;
+
+&lt;p&gt;but this time, at sea level.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../images/first21k.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -394,8 +415,10 @@ he went for the &lt;strong&gt;crazy 8&lt;/strong&gt; (the route looks like an ei
 
 &lt;p&gt;And the bomb exploded:
 &lt;br /&gt; Guys, I found a pretty cool trail! 
-&lt;br /&gt; It is &lt;em&gt;just&lt;/em&gt; a half-marathon with a teeny-tiny of ascent… 1100m, the &lt;a href=&quot;https://www.utmc.fr&quot;&gt;UTMC&lt;/a&gt;. 
-&lt;br /&gt; I already registered! You are also coming right?!
+&lt;br /&gt; It is &lt;em&gt;just&lt;/em&gt; a half-marathon with a teeny-tiny of ascent… 1100m, the 
+&lt;a href=&quot;https://www.utmc.fr&quot; target=&quot;_blank&quot;&gt;UTMC&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt; I already registered! You are also coming right?!
 &lt;br /&gt; And, after napping, drinking tea, engraving shopping lists in marble, and clay pigeon shooting, the Dream Team signed up for this!!!&lt;/p&gt;
 
 </description>
@@ -405,7 +428,7 @@ he went for the &lt;strong&gt;crazy 8&lt;/strong&gt; (the route looks like an ei
 			<item>
 				<title>Title Explanation a.k.a. Crystal Clear</title>
 				<link>http://localhost:4000/running-adventures/story/title_explanation-post/</link>
-				<pubDate>Thu, 03 Jan 2019 00:00:00 -0200</pubDate>
+				<pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;After writing the &lt;a href=&quot;/running-adventures/story/the-start-post/&quot;&gt;Killer BaBa Night&lt;/a&gt; 
 and &lt;a href=&quot;/running-adventures/story/the-start-post/&quot;&gt;Bear Beginning&lt;/a&gt; posts, 
 I naturally decided to send it to the Dream Team to get their feedback.&lt;/p&gt;
@@ -533,7 +556,7 @@ is good enough for you too ;-)&lt;/p&gt;
 			<item>
 				<title>Before The Start a.k.a. The Bear Beginning</title>
 				<link>http://localhost:4000/running-adventures/running/before-the-start-post/</link>
-				<pubDate>Wed, 02 Jan 2019 00:00:00 -0200</pubDate>
+				<pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
 				<description>&lt;h3 id=&quot;a-doubtful-analogy&quot;&gt;A doubtful analogy&lt;/h3&gt;
 
 &lt;p&gt;My first weeks of running could actually be resumed by a simple analogy: It is like &lt;strong&gt;making love to a bear&lt;/strong&gt;… (figuratively speaking).&lt;/p&gt;
@@ -622,46 +645,95 @@ Maybe you wonder now what type of job I am doing… Good question!&lt;/p&gt;
 			<item>
 				<title>The Start a.k.a. The Killer BaBa night</title>
 				<link>http://localhost:4000/running-adventures/story/the-start-post/</link>
-				<pubDate>Tue, 01 Jan 2019 00:00:00 -0200</pubDate>
+				<pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
 				<description>&lt;h3 id=&quot;the-decor&quot;&gt;The decor&lt;/h3&gt;
+&lt;center&gt;
+&lt;img src=&quot;../../images/vieux_nice.jpg&quot; align=&quot;middle&quot; /&gt; 
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;The moment everything really started was in Summer 2018 during a dinner at the terrace of a restaurant in 
-Nice - South of France at the terrace of a restaurant in the &lt;em&gt;Vieux Nice&lt;/em&gt;; with few good friends, 
-a lot of good food, a lot of good wine, and one bad cigarette (but please, do not drink nor smoke…).&lt;/p&gt;
+Nice - South of France, at the terrace of a restaurant in the &lt;em&gt;Vieux Nice&lt;/em&gt;; 
+with a lot of good food, a lot of good wine, one bad cigarette, and with a few good friends, 
+or better said, a Dream Team.&lt;/p&gt;
 
-&lt;p&gt;We were finishing our glasses of wine while waiting for the dessert. The dessert will reveal to be a huge 
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Rum_baba&quot;&gt;rum baba&lt;/a&gt;, with more rum than baba, and which will kill us all later (figuratively speaking…).&lt;/p&gt;
+&lt;h3 id=&quot;the-dream-team&quot;&gt;The Dream Team&lt;/h3&gt;
+
+&lt;p&gt;To respect the privacy and integrity of the people involved in those running adventures, aliases will be used.
+Please note that, since we are now in a &lt;strong&gt;Post Gender Theory Era&lt;/strong&gt;, 
+the biological gender cannot be deduced from the alias… 
+So, without further ado, let me briefly introduce the Dream Team:&lt;/p&gt;
+
+&lt;h4 id=&quot;---aurelia-&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Aurelia_Cotta&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;../../images/aurelia.jpg&quot; /&gt;  Aurelia &lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+Born in BC, &lt;strong&gt;Aurélia&lt;/strong&gt; is known and respected in 
+the Dream Team for both her infinite kindness and her colossal knowledge.&lt;/p&gt;
+
+&lt;h4 id=&quot;--barbie-girl&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Barbie_Girl&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;../../images/barbie_girl.jpg&quot; /&gt;  Barbie Girl&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+After being part of the Danish-Norwegian dance-pop group Aqua, 
+&lt;strong&gt;Barbie Girl&lt;/strong&gt; left the North of Europe to dedicate her life to her two passions: 
+fashion and rugby.&lt;/p&gt;
+
+&lt;h4 id=&quot;-chamomile&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Chamomile&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;../../images/chamomile.jpg&quot; /&gt; Chamomile&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+While &lt;strong&gt;Chamomile&lt;/strong&gt; is not as kind as &lt;strong&gt;Aurélia&lt;/strong&gt;, but, who would really be able to?&lt;br /&gt;
+&lt;strong&gt;Chamomile&lt;/strong&gt; has the gift of bringing calm and happiness in the Dream Team.&lt;/p&gt;
+
+&lt;h4 id=&quot;--bergamot&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bergamot_orange&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;../../images/bergamot.jpg&quot; /&gt;  Bergamot&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Bergamot&lt;/strong&gt; is able to find the perfect balance of sweetness and bitterness to keep, somehow, things interesting.
+Interesting enough to be the best man of my wedding.&lt;/p&gt;
+
+&lt;h4 id=&quot;-miss-doctor-sweetheart-love-the-woman-of-my-life-my-wife&quot;&gt;&lt;img src=&quot;../../images/cherie.jpg&quot; /&gt; Miss-Doctor-Sweetheart-Love-the-Woman-of-my-Life-my-Wife&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wait, this alias is a little bit too explicit and a little bit too long… So let us change it a bit:&lt;/p&gt;
+
+&lt;h4 id=&quot;--rambo-chérie&quot;&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/John_Rambo&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;../../images/rambo.jpg&quot; /&gt; Rambo Chérie&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Much better!&lt;/p&gt;
+
+&lt;p&gt;Now that the introductions are done, let us go back to this dinner and, 
+more specifically, the break before the dessert.&lt;/p&gt;
 
 &lt;h3 id=&quot;an-innocent-phrase&quot;&gt;An innocent phrase&lt;/h3&gt;
 
+&lt;p&gt;We were finishing our glasses of wine while waiting for the dessert. 
+The dessert will reveal to be a huge 
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Rum_baba&quot; target=&quot;_blank&quot;&gt;rum baba&lt;/a&gt;, 
+with more rum than baba, and which will kill us all later 
+(figuratively speaking, of course…).&lt;/p&gt;
+
 &lt;p&gt;Waiting for the soon to be killer Baba, I told the table:&lt;/p&gt;
 
-&lt;p&gt;“By the way guys, ‘&lt;strong&gt;Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse&lt;/strong&gt;’ and I started to run a bit…”.&lt;/p&gt;
+&lt;p&gt;“By the way guys, &lt;strong&gt;Rambo Chérie&lt;/strong&gt; and I started to run a bit…”.&lt;/p&gt;
 
-&lt;p&gt;‘&lt;strong&gt;Barbie Girl&lt;/strong&gt;’ immediately jumped on me (figuratively speaking…):&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Barbie Girl&lt;/strong&gt; immediately jumped on me (figuratively speaking of course):&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;“Next May there is the half-marathon of Nice! I will register! You want to register? Better if I register you! Wait we cannot register now… But as soon that we can we register! Deal?”&lt;/li&gt;
+  &lt;li&gt;“Next May there is the half-marathon of Nice! I will register! Do you want to register? Better if I register you! Wait we cannot register now… But as soon that we can we register! Deal?”&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Rare are the moments where I do not want to speak, this moment was one of those… Having nothing to say, I decided to light a cigarette and wait for the storm to pass… But it did not.&lt;/p&gt;
 
 &lt;h3 id=&quot;the-storm&quot;&gt;The storm&lt;/h3&gt;
 
-&lt;p&gt;Between my first and second drag I discovered that:&lt;/p&gt;
+&lt;p&gt;Between my first and second drag, I discovered that:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bergamot_orange&quot;&gt;Bergamot&lt;/a&gt;&lt;/strong&gt;’ already run the half of Nice under 1h45!&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Bergamot&lt;/strong&gt; already run the half of Nice under 1h45!&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Chamomile&quot;&gt;Chamomile&lt;/a&gt;&lt;/strong&gt;’ already runs the half-marathon under 1h35, already run three marathons, and will run the Toulouse marathon in a couple of months!&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Chamomile&lt;/strong&gt;  already run the Toulouse half-marathon under 1h35!&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Barbie_Girl&quot;&gt;Barbie Girl&lt;/a&gt;&lt;/strong&gt;’ runs few half-marathons and marathons every year, quote “for fun” unquote.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Barbie Girl&lt;/strong&gt; runs few half-marathons and marathons every year, quote “for fun” unquote.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Aurelia_Cotta&quot;&gt;Aurelia&lt;/a&gt;&lt;/strong&gt;’ runs the marathon under 3h, quote “easy” unquote!&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Aurelia&lt;/strong&gt; runs the marathon under 3h, quote “easy” unquote!&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -683,25 +755,15 @@ a lot of good food, a lot of good wine, and one bad cigarette (but please, do no
 
 &lt;p&gt;With so much peer pressure, I just had no escape…&lt;/p&gt;
 
-&lt;p&gt;After that, the killer Baba arrived, and the rest is fun blurry history.&lt;/p&gt;
+&lt;p&gt;After that, the killer Baba arrived, and the rest is just fun blurry history.&lt;/p&gt;
 
-&lt;h3 id=&quot;comments&quot;&gt;Comments&lt;/h3&gt;
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;To respect the privacy and integrity of the people involved in those running adventures, aliases will be used.
-    &lt;ul&gt;
-      &lt;li&gt;Since we are now in a &lt;strong&gt;Post Gender Theory Area&lt;/strong&gt;, the biological gender cannot be deduced from the alias.&lt;/li&gt;
-      &lt;li&gt;The aliases are somehow chosen completely at random… Or are they?&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;To shorten the alias ‘&lt;strong&gt;Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse&lt;/strong&gt;’, the alias will be replaced by ‘&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/John_Rambo&quot;&gt;Rambo Chérie&lt;/a&gt;&lt;/strong&gt;’.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;This evening will be referred as the &lt;strong&gt;Killer BaBa Night&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sad sad news, the restaurant removed the rum bab from its menu… Customers were complaining about the rum baba side effects…&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;And this is simply how it really started…&lt;/p&gt;
+
+&lt;p&gt;If you are now curious about how it was before the start, please visit the next 
+&lt;a href=&quot;/running-adventures/story/the-start-post/&quot;&gt;post&lt;/a&gt;.&lt;/p&gt;
+
 </description>
 				<guid isPermaLink="true">http://localhost:4000/running-adventures/story/the-start-post/</guid>
 			</item>

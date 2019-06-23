@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "The Races \b a.k.a. The Standing"
+title: "The Races"
 header:
    image_fullwidth: "../images/austris-augusts-140145-unsplash_header.jpg"
 permalink: "/races/"

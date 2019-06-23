@@ -11,6 +11,9 @@ categories:
 
 ### From Nice to Wimbledon
 
+
+
+<br>
 Since we all signed up for the [UTMC half-marathon](https://www.utmc.fr), the Dream Team kind of reached an unsaid agreement:
 <br> The Nice half-marathon, in May the 5th, was a little bit too close from the UTMC, in July the 21st, 
  let's just skip it. 
@@ -47,7 +50,10 @@ I should run my first harlf-marathon below 1h45.
 * Since you race faster than you run, it would be **easy peasy lemon squeezy**. Well... make sense, right?
 
 ### The race
-
+<center>
+<img src="../../images/wimbledon_common.jpg" align="middle" > 
+</center>
+<br>
 Okay **Bergamot**! Let’s do it!
 
 I started strong, a little bit too exited maybe... Following the crowd, I was able to get a 5km Personal Record (PR) and a 10km PR in the first half of the race.
