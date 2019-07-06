@@ -4,7 +4,7 @@ title: "The Training"
 subheadline: ""
 permalink: "/training/"
 header:
-    image_fullwidth: "../images/chang-duong-398144-unsplash_header.jpg"
+    image_fullwidth: "../images/photo-1521805103424-d8f8430e8933.jpeg"
     caption: ""
 
 ---

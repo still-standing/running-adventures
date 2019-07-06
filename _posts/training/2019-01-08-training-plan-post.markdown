@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header:
-    image_fullwidth: ../../images/andrea-leopardi-1296436-unsplash_header.jpg
+    image_fullwidth: ../../images/photo-1521805103424-d8f8430e8933.jpeg
 title: "I Love It When A Plan Comes Together<br/>
 a.k.a. Training Plan"
 teaser: "After a few months of running for the sake of it, it was time to look at how a runner trains to maximize its potential.  
