@@ -66,9 +66,9 @@ But then… My iPod decided to play *Ain't no sunshine* by *Bill Withers*.
 Don't get me wrong, I love this song, it is a great song, a song full of emotions...
 
 <br>
-
-<iframe width="480" height="300" src="https://www.youtube.com/embed/tIdIqbv7SPo" frameborder="0" allowfullscreen></iframe>
-
+<center>
+<iframe width="480" height="300" src="https://www.youtube.com/embed/tIdIqbv7SPo" align="center" frameborder="0" allowfullscreen></iframe>
+</center>
 <br> ... maybe full of too many emotions!
 <br> I was thinking about **Mademoiselle-Docteur-Chérie-mon-Amour-ma-Femme-de-ma-Vie-mon-Épouse** a.k.a. **Rambo Chérie**, not there with me... And I just started to cry, and stopped to run. 
 Looks like I am an emotional kind of guy after all. 

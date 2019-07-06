@@ -13,13 +13,10 @@
 <priority>1.0</priority>
 </url>
 <url>
-<loc> https://still-standing.github.io/running-adventures/running</loc>
+<loc> https://still-standing.github.io/running-adventures/training/</loc>
 <priority>0.7</priority>
 </url>
 <url>
-<loc> https://still-standing.github.io/running-adventures/story/</loc>
-<priority>0.7</priority>
-</url>
 <url>
 <loc> https://still-standing.github.io/running-adventures/races/</loc>
 <priority>0.7</priority>
