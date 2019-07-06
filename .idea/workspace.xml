@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14c3687d-1bd2-4598-a6a0-1bb45ea433e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/daniels-easy-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/daniels-interval-training.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/daniels-repetition-training.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/daniels-threshold-training.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/races/2019-01-06-wimbledon-half-marathon-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/races/2019-01-06-wimbledon-half-marathon-post.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/running/2019-01-04-route-towards-the-half-marathon-post.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/running/2019-01-05-increasing-weekly-milage-post.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/running/2019-01-08-training-plan-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/running/2019-01-08-training-plan-post.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/story/2019-01-01-the-start-post.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_drafts/2019-01-02-nice-half-matrathon-post.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/2019-01-02-nice-half-matrathon-post.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/humans.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/Screenshot 2019-06-12 at 15.01.28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/races/wimbledon-half-marathon-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/races/wimbledon-half-marathon-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/running/increasing-weekly-milage-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/running/increasing-weekly-milage-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/running/route-towards-the-half-marathon-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/running/route-towards-the-half-marathon-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/running/training-plan-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/running/training-plan-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/story/the-start-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/story/the-start-post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Screenshot 2019-06-12 at 15.01.28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,39 +15,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/frontpage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/assets/css/styles_feeling_responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5721">
+            <state relative-caret-position="135608">
               <caret line="5896" column="2" selection-start-line="5896" selection-start-column="2" selection-end-line="5896" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="85">
-                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+                <caret line="4" selection-start-line="4" selection-end-line="4" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/_07_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-201">
+            <state relative-caret-position="7452">
               <caret line="324" column="13" selection-start-line="324" selection-start-column="13" selection-end-line="324" selection-end-column="13" />
             </state>
           </provider>
@@ -74,44 +51,34 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/_09_elements.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2749" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/_10_asciidoc.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3807" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/_11_syntax-highlighting.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-822" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/_functions.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1178" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/rss.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1350" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2029">
-              <caret line="381" column="22" selection-start-line="381" selection-start-column="22" selection-end-line="381" selection-end-column="22" />
+            <state relative-caret-position="8763">
+              <caret line="398" column="22" selection-start-line="398" selection-start-column="22" selection-end-line="398" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -436,7 +403,7 @@
     <frame x="83" y="23" width="1442" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30285713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30714285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -687,16 +654,11 @@
         <state relative-caret-position="-251" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/daniels-easy-run.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/daniels-easy-run.html" />
     <entry file="file://$PROJECT_DIR$/_includes/_sidebar.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_favicon.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_google_search.html">
@@ -724,68 +686,61 @@
         <state relative-caret-position="-431" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/rss.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1350" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2029">
-          <caret line="381" column="22" selection-start-line="381" selection-start-column="22" selection-end-line="381" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/frontpage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="437">
           <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/assets/css/styles_feeling_responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5721">
+        <state relative-caret-position="135608">
           <caret line="5896" column="2" selection-start-line="5896" selection-start-column="2" selection-end-line="5896" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_07_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
+        <state relative-caret-position="7452">
           <caret line="324" column="13" selection-start-line="324" selection-start-column="13" selection-end-line="324" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_09_elements.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2749" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_10_asciidoc.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3807" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_11_syntax-highlighting.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-822" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_functions.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/rss.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1178" />
+        <state relative-caret-position="8763">
+          <caret line="398" column="22" selection-start-line="398" selection-start-column="22" selection-end-line="398" selection-end-column="22" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/pages-root-folder/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="85">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/_footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
