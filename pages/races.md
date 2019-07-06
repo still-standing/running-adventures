@@ -14,8 +14,18 @@ permalink: "/races/"
 
 ### done races
 1. Wimbledon Common half-marathon the 7th of April 2019, time 1h48:41. 
-1. Nice half-marathon  the 5th of May 2019, time 1h44:22. 
+2. Nice half-marathon  the 5th of May 2019, time 1h44:22. 
 
 ### next races
-1. UTMC half-marathon
-1. Nice marathon
+* UTMC half-marathon the 21th of July 2019.
+* Nice marathon the 3rd of November 2019.
+
+### cool races
+
+* <a href="https://www.trailcotedopale.com/42km" target="_blank">Trail Côte d'Opale</a>
+* <a href="http://www.veronamarathon.it/?RL=1" target="_blank">Verona Marathon</a>
+* <a href="http://www.chianticlassicomarathon.com/en/" target="_blank">Toscani Trail</a>
+
+
+
+
