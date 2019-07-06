@@ -114,5 +114,5 @@ After that, the killer Baba arrived, and the rest is just fun blurry history.
 And this is simply how it really started...
 
 If you are now curious about how it was before the start, please visit the next 
-[post]({{ site.baseurl }}{% post_url 2019-01-01-the-start-post %}).
+[post]({{ site.baseurl }}{% post_url 2019-01-02-before-the-start-post %}).
 
