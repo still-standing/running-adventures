@@ -73,7 +73,7 @@ So, a reduced Dream Team, composed of **Barbie Girl**, Chamomile, **Rambo Chéri
 
 ## The concert Saturday
 
-The evening before the race day you just want to eat and go to sleep as fast as possible... not even drinking a unique glass of wine! But **Aurélia**'s band was performing tonight in a bar... So we all went... We all enjoyed the concert! And we all drank a unique glass of wine and some smoked a unique cigarette... 
+The evening before the race day you just want to eat and go to sleep as fast as possible... not even drinking a unique glass of wine! But **Barbie Girl**'s band was performing tonight in a bar... So we all went... We all enjoyed the concert! And we all drank a unique glass of wine and some smoked a unique cigarette... 
 
 Not the ideal day before the race type of night... But totally worth it!
 
@@ -103,7 +103,17 @@ We arrived at the start line at around 7:30am and, after a quick warm up, I deci
 
 At 7:55am, all the runners discovered that the start time will be postponed. A very nice guy, or better said !?&∞&¡¿, decided to park his car on the race route... The police had to do all the required security checks and remove the car... 
 
+#### The landscape
+The Nice half-marathon is mainly along the promenade des Anglais. And in May, the weather is usually perfect to relax:
+<br>
+<center>
+<img src="../../images/nice_promenade.jpg" align="middle" > 
+</center>
+<br>
+But, first, the reduced Dream Team went to the promenade to race, not to relax. And, second, the sky was not blue but grey and the temperature was not around 25º Celsius below 10º Celsius... !?&∞&¡¿. 
+
 #### The race
+
 At 8:30, we finally go! Let's just do it!!! 
 
 I switched on my iPod with my finetuned playlist, composed on only one song: Waterloo from ABBA. 
@@ -112,7 +122,7 @@ I switched on my iPod with my finetuned playlist, composed on only one song: Wat
 </center>
 What can I say... It looks like I am very emotional!  I may have, indeed, overdone the finetuning, but I was confident enough that I will not cry!
 
-Following the crowd, Chamomile and I started the race slow at around 6min/km. I was happy about that pace but Chamomile started to accelerate to get to the 1h45 flag. !?&∞&¡¿, but I followed. We spent the first 5km slaloming between runners to reach the holly flag. Now we just have to stick with him up to the finish line! At that time I alreasy knew by eart the lyrics of the ABBA song, the rest of race will be long... 
+Following the crowd, Chamomile and I started the race slow at around 5:30min/km. I was happy about that pace but Chamomile started to accelerate to get to the 1h45 flag. !?&∞&¡¿, but I followed. We spent the first 5km slaloming between runners to reach the holly flag. Now we just have to stick with him up to the finish line! At that time I alreasy knew by eart the lyrics of the ABBA song... 
 
 Racing with Chamomile was fun! He was speaking all the time! I was not really listening, but I was with him and I was feeling good. After the first 11k, I did not cry nor stop running! My tight was kind of okay, and we decided to pass the flag to gain few extra minutes. 
 
