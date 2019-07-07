@@ -117,4 +117,4 @@ is good enough for you too ;-)
 
 
 ### Conclusion
-The title should by now be crystal clear... (of course, figuratively speaking).
+The title should by now be crystal clear (of course, figuratively speaking...).

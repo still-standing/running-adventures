@@ -13,7 +13,7 @@ categories:
 
 ### A doubtful analogy
 
-My first weeks of running could actually be resumed by a simple analogy: It is like **making love to a bear**... (figuratively speaking). 
+My first weeks of running could actually be resumed by a simple analogy: It is like **making love to a bear**... (figuratively speaking, of course...). 
 
 Figuratively speaking, for sure. But, somehow, the side effects look surprisingly similar:
 
@@ -60,17 +60,14 @@ and most specifically its dessert menu...
 
 Thinking about how the  [Killer BaBa Night]({{ site.baseurl }}{% post_url 2019-01-01-the-start-post %}) 
  turned out... Something went definitively wrong! 
-I just wanted to brag a bit about running my first 10k in less than 1h,
- which is, indeed, not that impressive... 
-And now I signed up for a half-marathon (21.1km) with guys running it in less that 1h45... 
+I just wanted to brag a bit about running my first 10km (6.2miles) in less than 1h,
+ which is, by the way, not that impressive... 
+And now I signed up for a half-marathon (21.1km - 13.1miles) with guys running it in less that 1h45... 
 
 Really?!
 
-### Comments
+### Conclusion
 
-* I actually heard the **bear expression** quite recently in a business related discussion... 
-Maybe you wonder now what type of job I am doing... Good question! 
+It was now time to prepare for the half, a simply run more, this post is about how it went [post]({{ site.baseurl }}{% post_url 2019-01-04-route-towards-the-half-marathon-post %})..
 
-* For people still using the imperial unit system (just in case): 1mile ~ 1.61km.
 
-* This post will now be referred to as the **Bear Beginning**.

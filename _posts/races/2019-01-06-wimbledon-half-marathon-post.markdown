@@ -85,7 +85,7 @@ And once you stop to run, you will continue to stop...
 <img src="../../images/wimbledon-half-2019-results.jpg" alt="">
 
 
-I finally crossed the finished line with a race time of 1h48. 
+I finally crossed the finish line with a race time of 1h48. 
 
 But I learned few valuable lessons:
 
