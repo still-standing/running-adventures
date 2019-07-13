@@ -68,6 +68,6 @@ Really?!
 
 ### Conclusion
 
-It was now time to prepare for the half, a simply run more, this post is about how it went [post]({{ site.baseurl }}{% post_url 2019-01-04-route-towards-the-half-marathon-post %})..
+It was now time to prepare for the half, and simply run more, the next post [post]({{ site.baseurl }}{% post_url 2019-01-04-route-towards-the-half-marathon-post %}) describes how it went...
 
 

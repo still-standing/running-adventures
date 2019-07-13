@@ -52,7 +52,7 @@ But again, the good thing is that there is definitely room for improvement!
 
 ### When **Bergamot** drops a bomb
 
-In October 2018, **Bergamot** was in need of strong sensations. 
+In October 2018, **Bergamot** was in need of strong sensations, classic **Bergamot**. 
 And to fill his need, he decided to run. But not a regular run, 
 he went for the **crazy 8** (the route looks like an eight and the distance is crazy!):
 
