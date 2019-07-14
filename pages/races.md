@@ -23,11 +23,11 @@ permalink: "/races/"
 ### cool races
 
 * <a href="http://www.chianticlassicomarathon.com/en/" target="_blank">Toscani Trail</a> - beginning of June.
-* <a href="http://www.dolomitiextremetrail.com/index.html" target="_blank">Dolomiti Extreme Trail</a> - middle of June
-* <a href="https://www.varverdoncanyonchallenge.com" target="_blank">Var Verdon Trail</a> - end of June
-* <a href="https://www.maratondhl.ro/?lang=en" target="_blank">Carpathian Marathon</a> - end of June
-* <a href="https://www.trailcotedopale.com/42km" target="_blank">Trail Côte d'Opale</a> - beginnning of September
-* <a href="http://www.veronamarathon.it/?RL=1" target="_blank">Verona Marathon</a> - middle of November
+* <a href="http://www.dolomitiextremetrail.com/index.html" target="_blank">Dolomiti Extreme Trail</a> - middle of June.
+* <a href="https://www.varverdoncanyonchallenge.com" target="_blank">Var Verdon Trail</a> - end of June.
+* <a href="https://www.maratondhl.ro/?lang=en" target="_blank">Carpathian Marathon</a> - end of June.
+* <a href="https://www.trailcotedopale.com/42km" target="_blank">Trail Côte d'Opale</a> - beginnning of September.
+* <a href="http://www.veronamarathon.it/?RL=1" target="_blank">Verona Marathon</a> - middle of November.
 
 
 
