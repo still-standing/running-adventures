@@ -1,0 +1,92 @@
+---
+layout: page-fullwidth
+header:
+    image_fullwidth: ../../images/andrea-leopardi-1296436-unsplash_header.jpg
+title: "Route Towards La Motte Chalancon a.k.a. Ascent"
+teaser: "After two half-marathon races on flat terrain, it was definitively time to reach the next level!"
+
+categories:
+    - running
+---
+
+### Sad Sad times
+
+From all the members of the dream, Bergamot was certainly the most passionated into this trail. Should I remind you that he was the one who started all this craziness about trail running... He was saying repetitely that "Road running is boring!", that "Trail running was for the real guys.", that "He was looking for an ideal...".
+
+But then, one day, he got up from bed without stretching, got injured, saw a doctor, got a prognostic, and sheduled a surgery for his knee...
+And, of course the UTMC was out of question... When I heard the news, I was feeling like a tiny little teddy bear
+ 
+<iframe width="480" height="300"  src="https://www.youtube.com/embed/sOZ4t2QTLM8" frameborder="0" allowfullscreen></iframe>
+
+
+manel bourkaib
+
+  
+### The practice
+
+My first 10k ever was on July the 22nd, and it took me about two months to reach painfully 15km.
+Fun fact, I finally managed to get to 15km on a trail in 
+<a href="https://en.wikipedia.org/wiki/age,_Arizona" target="_blank">Page, Arizona</a>, 
+
+at about 1250m above the sea level. 
+And I have to admit that it was a lot of fun! Yes the pace was slow, but the landscape was gorgeous! 
+<img src="../../images/first15k.jpg" alt="">
+
+And, on week after, I got my first half-marathon run in 
+<a href="https://en.wikipedia.org/wiki/Palo_Alto,_California" target="_blank">Palo Alto, California</a>, 
+
+ but this time, at sea level.
+
+<img src="../../images/first21k.jpg" alt="">
+
+You may notice that I started way too strong, and I actually finished the run walking... 
+But again, the good thing is that there is definitely room for improvement!
+
+### When **Bergamot** drops a bomb
+
+In October 2018, **Bergamot** was in need of strong sensations, classic **Bergamot**. 
+And to fill his need, he decided to run. But not a regular run, 
+he went for the **crazy 8** (the route looks like an eight and the distance is crazy!):
+
+* 24km of distance
+
+<img src="../../images/crazy8-map.jpg" alt="">
+
+* 860m of ascent
+
+<img src="../../images/crazy8-deniv.jpg" alt="">
+
+The reaction what two-fold:
+
+1- The first flow of reactions were very supportive:
+    
+   * Congratulations **Bergamot**!!!!
+   * Is it really impressive!!!! 
+
+2- The second flow of reactions were a little bit more rough:
+   * ARE YOU CRAZY!!!! 
+   * WHAT'S WRONG WITH YOU!!!!
+
+At this moment, he innocently tells the Dream Team: 
+<br> "A little trail of 30km, 40km in the mountain is kind of tempting, don't you think?"
+
+### The explosion
+
+This comment was followed by silence.
+
+   * **Bergamot** napped.
+   * **Chamomile** made some tea to forget this madness.
+   * **Barbie Girl** drunk *few* cosmopolitan cocktails to calm down.
+   * **Aurélia** engraved her shopping list in a marble plate. She was born in BC remember?
+   * **Rambo Chérie** went clay pigeon shooting to find inner peace.
+   * and the **Muffin Man** looked for trail races...
+ 
+And the bomb exploded:
+<br> Guys, I found a pretty cool trail! 
+<br> It is *just* a half-marathon with a teeny-tiny of ascent... 1100m, the 
+<a href="https://www.utmc.fr" target="_blank">UTMC</a>!
+
+<br> I already registered! You are also coming right?!
+<br> And, after napping, drinking tea, engraving shopping lists in marble, and clay pigeon shooting, the Dream Team signed up for this!!! 
+
+  
